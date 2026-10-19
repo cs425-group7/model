@@ -1,0 +1,7 @@
+transformers>=4.44
+datasets>=2.20
+torch>=2.3
+pandas>=2.2
+jupyter
+ipykernel
+nbconvert
