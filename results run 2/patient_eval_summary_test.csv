@@ -1,0 +1,7 @@
+system,dialogues,mentioned,on_card,symptom_fidelity,coverage,leakage,empty_replies,reply_words,stage2_dev_loss
+gpt2 prompted,201,184,68,0.37,0.076,0.124,0,9.093,
+gpt2-medium prompted,201,361,142,0.393,0.151,0.303,0,11.173,
+stage2-gpt2-lr0.0001,201,633,598,0.945,0.678,0.01,0,9.922,0.888
+stage2-gpt2-medium-lr5e-05,201,672,626,0.932,0.713,0.025,0,10.342,0.824
+stage2-gpt2-lr5e-05-nostage1,201,660,602,0.912,0.673,0.005,0,9.158,0.932
+stage2-gpt2-medium-lr5e-05-nostage1,201,683,639,0.936,0.71,0.015,0,9.367,0.836

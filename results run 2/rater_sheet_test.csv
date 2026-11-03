@@ -1,0 +1,2881 @@
+sheet_id,card,transcript,rater_1,rater_2,notes
+t0000,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; skin swelling; moles | age: 58, sex: M, ethnicity: Chinese, occupation: hawker, temperament: chatty, health literacy: high, onset: about five days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've got this rash on my arm and it's been really itchy. It started about five days ago.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my upper arm, but it's spreading a bit to my neck too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago. I woke up one morning and noticed it there.
+Doctor: Can you describe what it feels like?
+Patient: It's really itchy, especially when I touch it or try to scratch.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it's on my skin around the edges, but mostly it's just on my arm.
+Doctor: Have you noticed any other symptoms?
+Patient: I've got some dry skin too, it's not as itchy as the other areas, but it feels a bit dry and flaky.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's been pretty constant, but it's getting worse now.
+Doctor: Does anything make it better or worse?
+Patient: I haven't really tried anything yet, but I noticed some cream on it, but it didn't really help much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's an 8, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: I've never had anything like this before. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken any medicine and it's not like I'm on any medications regularly.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't have any other health issues. I don't take any regular medicines.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other problems. Just this rash and dry skin.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my mom's a nurse and I don't have any other health issues.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke and I don't drink alcohol.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, just the rash and the dry skin.",,,
+t0001,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; lower back pain; peeing often | age: 61, sex: F, ethnicity: Chinese, occupation: accountant, temperament: calm, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I'm not sure. I don't know how I got here.
+Doctor: Where exactly do you feel it?
+Patient: I'm in the hospital now. I'm feeling better.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: When I got sick.
+Doctor: Can you describe what it feels like?
+Patient: It feels like, you know, a lot of pain. I have a big sore throat, I've got a lot of diarrhea, it's like, I'm like, how did I get here? It feels like, I don't know. It's like, I'm like, I'm like, I don't know. It feels like, I don't know what I'm doing.
+Doctor: Does it spread anywhere else?
+Patient: I'm not sure. I'm not sure. It's like, I don't know how I got here. It's like, I don't know. It's like, I don't know what I'm doing.
+Doctor: Have you noticed any other symptoms?
+Patient: I don't know if I noticed any other symptoms. I don't know if I noticed any other symptoms. I don't know if I noticed any other symptoms. I don't know if I noticed any other symptoms. I don't know if I noticed any other symptoms. I don't know if I noticed any other symptoms. I don't know if I noticed any other symptoms. I don't
+Doctor: Is it there all the time, or does it come and go?
+Patient: Yes, it's there.
+Doctor: Does anything make it better or worse?
+Patient: I'm not sure. I'm not sure. It's like, I'm not sure. It's like, I'm not sure. I don't know what to do.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0002,"Tonsillitis | symptoms: a sore throat; swollen tonsils; noisy breathing; a red ear | age: 27, sex: F, ethnicity: Chinese, occupation: teacher, temperament: terse, health literacy: low, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: Sore throat.
+Doctor: Where exactly do you feel it?
+Patient: Back of my throat.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Two days ago.
+Doctor: Can you describe what it feels like?
+Patient: It's sore, like pressure.
+Doctor: Does it spread anywhere else?
+Patient: No, just my throat.
+Doctor: Have you noticed any other symptoms?
+Patient: My ear is red.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Come and go.
+Doctor: Does anything make it better or worse?
+Patient: Nothing helps much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, nothing.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it.",,,
+t0003,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; skin swelling; moles | age: 58, sex: M, ethnicity: Chinese, occupation: hawker, temperament: chatty, health literacy: high, onset: about five days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've got a rash on my arms and legs, and it's been really itchy. Also, my skin feels really dry and flaky.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my arms and legs, but I've also noticed some on my neck too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago. It's gotten worse over the last few days.
+Doctor: Can you describe what it feels like?
+Patient: It's itchy and feels like small bumps. My skin feels dry and flaky.
+Doctor: Does it spread anywhere else?
+Patient: No, it stays on my arms and legs. It's just there.
+Doctor: Have you noticed any other symptoms?
+Patient: Actually, I've got moles too. They're on my neck and face, and I noticed a couple of them today.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's mostly there all the time, but it gets worse when I touch certain things.
+Doctor: Does anything make it better or worse?
+Patient: I tried using some moisturizer, but it doesn't seem to help much. It's just getting worse.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's about an 8 when it comes to how itchy and uncomfortable it is.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had this kind of rash. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medications and I haven't tried anything for it.
+Doctor: Do you have any allergies?
+Patient: No allergies, just my usual routine. I don't have any other symptoms like ear pain or sneezing or blocked nose.
+Doctor: Do you have any other medical conditions?
+Patient: I don't take any regular medications and I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No family members have this kind of rash. My mom doesn't have it.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink and I don't smoke. I don't have no other health issues like that.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0004,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a headache; sinus pain | age: 40, sex: M, ethnicity: Chinese, occupation: chef, temperament: anxious, health literacy: low, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
+Patient: I got a sore throat and I thought I was going to die.
+Doctor: Where exactly do you feel it?
+Patient: It's pretty sore. I felt like I was going to die.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started on my own. I was like, ""Oh my god, it's not real.""
+Doctor: Can you describe what it feels like?
+Patient: It was like the worst. It was like a nightmare. It was like, ""Oh my God, it's like this."" It was like, ""Oh my god, it's like this."" I mean, I don't know what it feels like, but it was a nightmare.
+Doctor: Does it spread anywhere else?
+Patient: It doesn't.
+Doctor: Have you noticed any other symptoms?
+Patient: It's like a big headache. It just got worse.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I don't know.
+Doctor: Does anything make it better or worse?
+Patient: I just can't remember.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's really bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0005,"Tonsillitis | symptoms: a sore throat; noisy breathing; reduced hearing | age: 33, sex: M, ethnicity: Indian, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I'm looking for a new doctor.
+Doctor: Where exactly do you feel it?
+Patient: I just want to know where I am, so I can see.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I didn't know anything about Tonsillitis.
+Doctor: Can you describe what it feels like?
+Patient: It's like a sore throat. It's like I'm coughing.
+Doctor: Does it spread anywhere else?
+Patient: No. It doesn't spread to the lungs. It spreads only to the kidneys. It doesn't spread to the liver, which is why it's so difficult to get out.
+Doctor: Have you noticed any other symptoms?
+Patient: No. I've never seen any other symptoms.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I haven't seen it all the time.
+Doctor: Does anything make it better or worse?
+Patient: I've never had any problems.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I have nothing.
+Doctor: Have you had anything like this before?
+Patient: I'm not sure. I haven't had any other problems.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: Yes.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I'd like to tell you that I have no problem with any of your problems.",,,
+t0006,"Contact dermatitis | symptoms: a rash; itchy skin; allergic reactions; a swollen eye | age: 72, sex: M, ethnicity: Others, occupation: retiree, temperament: anxious, health literacy: low, onset: three days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've got this rash on my arm, and it's been really itchy.
+Doctor: Where exactly do you feel it?
+Patient: It's on my upper arm, but it's spreading a little bit.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about three days ago, I think.
+Doctor: Can you describe what it feels like?
+Patient: It's a rash, and it's very itchy.
+Doctor: Does it spread anywhere else?
+Patient: No, it just stays on my arm.
+Doctor: Have you noticed any other symptoms?
+Patient: I've got allergic reactions too, and my eye feels swollen.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I touch it or when I sweat.
+Doctor: Does anything make it better or worse?
+Patient: I'm scared it could be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 5, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything yet.
+Doctor: Do you have any allergies?
+Patient: Yes, I do have allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other problems.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other health issues that I know of.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I'm worried it might be something serious.",,,
+t0007,"Athlete's foot | symptoms: a rash; foot pain; dry skin; infected-looking skin on the foot | age: 71, sex: M, ethnicity: Chinese, occupation: retiree, temperament: terse, health literacy: medium, onset: a couple of months ago, severity: severe","Doctor: What brings you in today?
+Patient: Rash on my foot, hurts.
+Doctor: Where exactly do you feel it?
+Patient: On the bottom of my foot and between my toes.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Couple months ago, got worse.
+Doctor: Can you describe what it feels like?
+Patient: It's dry and infected, looks infected too.
+Doctor: Does it spread anywhere else?
+Patient: No, just stays there.
+Doctor: Have you noticed any other symptoms?
+Patient: Sometimes my skin feels dry and itchy.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes.
+Doctor: Does anything make it better or worse?
+Patient: Worse when I walk a lot.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No, this is new.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, nothing special.
+Doctor: Do you have any allergies?
+Patient: No, not really.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, nothing like this.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, never drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0008,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; skin swelling; moles | age: 58, sex: M, ethnicity: Chinese, occupation: hawker, temperament: chatty, health literacy: high, onset: about five days ago, severity: severe","Doctor: What brings you in today?
+Patient: It is my body. It's the main part of the body. I've seen a lot of dermatitis. It's very serious.
+Doctor: Where exactly do you feel it?
+Patient: I feel great. I feel like I'm on top of it.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: No, it started after about six months.
+Doctor: Can you describe what it feels like?
+Patient: It's like a nightmare.
+Doctor: Does it spread anywhere else?
+Patient: It spreads in my body and I feel like I'm on top of it.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I have no symptoms at all. I get so excited.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's very bad.
+Doctor: Have you had anything like this before?
+Patient: No, I haven't.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0009,"Eczema | symptoms: a rash; itchy skin; skin that looks abnormal; dry skin; sores on the skin | age: 51, sex: M, ethnicity: Malay, occupation: teacher, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been getting this rash on my skin for over a year now, and it's gotten a bit worse over time. Also, my skin feels really dry and I've noticed some sores on my skin too.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my arms and legs, but sometimes it spreads to my face too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started gradually over a year ago, but it's gotten a bit worse over time.
+Doctor: Can you describe what it feels like?
+Patient: It's like small bumps that itch a lot, and they're also dry and sometimes have sores.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it's mostly just on my arms and legs.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, my skin feels really dry and sometimes it looks a bit red too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's mostly there, but it gets worse when I sweat or sweat a lot.
+Doctor: Does anything make it better or worse?
+Patient: When I use lotion, it helps a bit, but it comes back quickly.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6 or 7, not terrible but noticeable.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. I haven't really had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't. I haven't taken any regular medicine and I haven't had any back pain.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't take any regular medicine.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't take any medications for this. Just these.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other medical conditions.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink alcohol or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I've never had any other health issues like this before.",,,
+t0010,"Panic attack | symptoms: shortness of breath; dizziness; numbness; fainting; difficulty breathing; weakness | age: 24, sex: F, ethnicity: Chinese, occupation: civil servant, temperament: terse, health literacy: high, onset: three days ago, severity: severe","Doctor: What brings you in today?
+Patient: Shortness of breath.
+Doctor: Where exactly do you feel it?
+Patient: Chest.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Three days ago.
+Doctor: Can you describe what it feels like?
+Patient: Like I can't get enough air.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Dizzy, numbness.
+Doctor: Is it there all the time, or does it come and go?
+Patient: All the time.
+Doctor: Does anything make it better or worse?
+Patient: Nothing really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medication.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0011,"Athlete's foot | symptoms: a rash; foot pain; dry skin; infected-looking skin on the foot | age: 71, sex: M, ethnicity: Chinese, occupation: retiree, temperament: terse, health literacy: medium, onset: a couple of months ago, severity: severe","Doctor: What brings you in today?
+Patient: Rash on my foot, and some pain.
+Doctor: Where exactly do you feel it?
+Patient: On the bottom of my foot, between my toes.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Couple of months ago.
+Doctor: Can you describe what it feels like?
+Patient: Burning, sore, sometimes dry.
+Doctor: Does it spread anywhere else?
+Patient: No, just stays there.
+Doctor: Have you noticed any other symptoms?
+Patient: My skin feels infected, and there's some dry skin on the bottom too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Sometimes it's worse when I walk a lot.
+Doctor: Does anything make it better or worse?
+Patient: Water helps a bit, but not much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, this is the first time.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that covers it.",,,
+t0012,"Tonsillitis | symptoms: a sore throat; noisy breathing; reduced hearing | age: 33, sex: M, ethnicity: Indian, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been having a sore throat for about five days now. It's not too bad, but it's been bothering me.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly at the back of my throat, like when I swallow.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago. I was just working in the store and suddenly my throat started hurting.
+Doctor: Can you describe what it feels like?
+Patient: It feels like my throat is really sore, and my hearing isn't as good as it used to be.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it stays in my throat, but it feels a bit noisy when I breathe in deeply.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, my hearing seems a bit off, and I can't hear as well as usual.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's pretty constant, but it seems to get worse when I'm stressed or when I have a lot on my mind.
+Doctor: Does anything make it better or worse?
+Patient: I don't think anything makes it better or worse, it just stays the same.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's about a 5, it's not terrible but it's annoying.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had this kind of sore throat. I've been trying to talk to my friends about it, but they didn't really do anything.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything for it. I just have a cold pack for it.
+Doctor: Do you have any allergies?
+Patient: No, I don't have any allergies, but I do take some paracetamol for it.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of that I know of that I can take.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any family history of heart or other illnesses that I know of.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or do anything that could make it worse.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0013,"Tonsillitis | symptoms: a sore throat; noisy breathing; reduced hearing | age: 33, sex: M, ethnicity: Indian, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been having a sore throat for the past few days, and it's been really bothering me.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in the back of my throat. And my breathing sounds a bit noisy too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago, I think it just got worse as the days went on.
+Doctor: Can you describe what it feels like?
+Patient: It's like a soreness, and sometimes it's really bad. It feels like my throat is full of air.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it stays in my throat. But my hearing seems a bit off too.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I noticed my hearing seems a bit muffled when I'm talking or eating.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there most of the time, but it's not as bad when I'm just at work.
+Doctor: Does anything make it better or worse?
+Patient: Drinking lots of water helps a little, but it comes back when I eat.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 5 or 6, it's annoying but not too bad.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had it like this. I haven't had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, nothing I've tried seems to help much. I just take some water and it's better for a while.
+Doctor: Do you have any allergies?
+Patient: No allergies, but I do have asthma sometimes.
+Doctor: Do you have any other medical conditions?
+Patient: No, nothing else really. Just this sore throat and hearing issues.
+Doctor: Does anyone in your family have similar problems?
+Patient: Not really, my mom and my dad are okay, and my dad just works at the store.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink much drink, but I do work at the store and I've been around people who smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: Not really, it's just been a constant sore throat and noisy breathing issue.",,,
+t0014,"Dengue fever | symptoms: a fever; muscle pain; nausea; joint pain; eye pain | age: 74, sex: F, ethnicity: Malay, occupation: retiree, temperament: terse, health literacy: medium, onset: this morning, severity: moderate","Doctor: What brings you in today?
+Patient: I'm not sure why you're here, but I was wondering if you could help me with a couple of things. First of all, you can't tell me what you think of me. Second of all, I know this is the first time I've had a fever.
+Doctor: Where exactly do you feel it?
+Patient: It's a pretty good fever, but I've never had one before.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It came on suddenly and slowly for a long time, and then it stopped and became very hard. I could see my face, I could see my hand. I felt my heart. I felt a lot of pain in my chest and my face. I couldn't go to the bathroom. I couldn't go to the kitchen, or the bathroom. I couldn't go to the hospital. I couldn
+Doctor: Can you describe what it feels like?
+Patient: It's a bit different. It's really hard. It's very hot. It's very cold. It's very hard to move around. I think you feel very cold. I feel like I'm having a lot of sweating.
+Doctor: Does it spread anywhere else?
+Patient: It does spread everywhere. I think it spreads all over. It spreads all over the place. It spreads in all the places. It spreads in my hands. It spread in my mouth. It spread in my hand. It spreads in my mouth.
+Doctor: Have you noticed any other symptoms?
+Patient: No. I'm just feeling like I've been trying to die.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's always there. I don't know if it's there or not.
+Doctor: Does anything make it better or worse?
+Patient: It doesn't make it worse. It makes it worse.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's really bad.
+Doctor: Have you had anything like this before?
+Patient: No, but I've had it at least once. I've been really sick all the time. I've had it for a long time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, no, I've tried everything.
+Doctor: Do you have any allergies?
+Patient: No, no. I don't know. I don't know what they are.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, no.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, no, no.",,,
+t0015,"Asthma | symptoms: a cough; shortness of breath; wheezing; difficulty breathing; a blocked nose; a fever | age: 26, sex: F, ethnicity: Chinese, occupation: security guard, temperament: calm, health literacy: medium, onset: a couple of months ago, severity: moderate","Doctor: What brings you in today?
+Patient: I am a doctor.
+Doctor: Where exactly do you feel it?
+Patient: I am a doctor. I do not know what it is. I can't tell you.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It is not a sudden. It is not a sudden. It is not a sudden.
+Doctor: Can you describe what it feels like?
+Patient: It is like a headache. I can't explain it.
+Doctor: Does it spread anywhere else?
+Patient: Yes.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It is very quiet, and there are no other symptoms.
+Doctor: Does anything make it better or worse?
+Patient: It is very nice. It is nice.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It is really bad. It is really bad.
+Doctor: Have you had anything like this before?
+Patient: Yes.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I don't know. I am taking a medication.
+Doctor: Do you have any allergies?
+Patient: No, I don't know. I am taking a medication.
+Doctor: Do you have any other medical conditions?
+Patient: No, I am not taking any medications.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't know. I have no other medical conditions.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't know.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I have no idea. I am doing nothing.",,,
+t0016,"Migraine | symptoms: a headache; vomiting; blurred vision | age: 21, sex: F, ethnicity: Chinese, occupation: delivery rider, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
+Patient: You have migraine, I'm afraid.
+Doctor: Where exactly do you feel it?
+Patient: It's not good. It's very bad. I can't understand it.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It was always my headache, but I don't know.
+Doctor: Can you describe what it feels like?
+Patient: It's hard. It's like having a cold. It's like being in a cold room.
+Doctor: Does it spread anywhere else?
+Patient: It's not spread everywhere. It's not like it's spread by anything.
+Doctor: Have you noticed any other symptoms?
+Patient: No, no. I haven't noticed any other symptoms.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It is all the time. It's a little like that.
+Doctor: Does anything make it better or worse?
+Patient: No. It's just that it's worse.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: No, no.
+Doctor: Have you had anything like this before?
+Patient: No, no.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, no.
+Doctor: Do you have any allergies?
+Patient: No, no.
+Doctor: Do you have any other medical conditions?
+Patient: No, no.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, no.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, no.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, no.",,,
+t0017,"Viral exanthem | symptoms: a rash; a fever; vomiting; skin that looks abnormal | age: 26, sex: M, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
+Patient: I just went to the ER and asked my wife what I thought. I didn't know what to say.
+Doctor: Where exactly do you feel it?
+Patient: I just went to the ER and asked my wife what I thought. I didn't know what to say.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: The first thing I did was I asked my wife what I thought. I didn't know what to say.
+Doctor: Can you describe what it feels like?
+Patient: I just went to the ER and asked my wife what I thought. I didn't know what to say.
+Doctor: Does it spread anywhere else?
+Patient: It spreads everywhere. The first thing I did was I asked my wife what I thought. I didn't know what to say.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Yes, it's there all the time.
+Doctor: Does anything make it better or worse?
+Patient: Yes.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: On a scale of 0 to 10, how bad is it?
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: Yes.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0018,"Muscle spasm | symptoms: neck pain; shoulder pain; leg pain; muscle cramps; arm pain | age: 43, sex: F, ethnicity: Chinese, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: yesterday, severity: severe","Doctor: What brings you in today?
+Patient: I've been having really bad neck pain since yesterday. It's really bad and I also have some shoulder pain.
+Doctor: Where exactly do you feel it?
+Patient: It's in my neck, mostly. My neck also hurts when I turn my head or twist my head.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started yesterday morning when I was trying to sleep. I woke up and it was there all day.
+Doctor: Can you describe what it feels like?
+Patient: It's a sharp pain, especially when I turn my head or lift my arms. Also, I get muscle cramps and arm pain too.
+Doctor: Does it spread anywhere else?
+Patient: It can go up to my shoulder and even my arms.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, my arm and leg are a bit sore too. And I've been having some leg cramps and arm pain too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's pretty constant. I'm not sure what triggered it. I didn't do anything special yesterday, but I didn't think much of it at first.
+Doctor: Does anything make it better or worse?
+Patient: I haven't tried anything yet. I tried resting and it seems to help a bit.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's around an 8. It's really affecting my daily life.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time it's happened. I haven't had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, this is the first time. I don't take any regular medications.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't have any pain in my neck or shoulders.
+Doctor: Do you have any other medical conditions?
+Patient: No, this is the first time I've had this kind of pain.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, this is the first time.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this is the first time I've had this.",,,
+t0019,"Acute sinusitis | symptoms: a cough; a headache; a headache at the front of the head; a runny nose; a fever; facial pain | age: 21, sex: F, ethnicity: Chinese, occupation: office administrator, temperament: terse, health literacy: low, onset: about three weeks ago, severity: severe","Doctor: What brings you in today?
+Patient: I've got a cough.
+Doctor: Where exactly do you feel it?
+Patient: My chest.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: About three weeks ago.
+Doctor: Can you describe what it feels like?
+Patient: It's a dry cough, sometimes with a bit of a runny nose.
+Doctor: Does it spread anywhere else?
+Patient: No, just my chest.
+Doctor: Have you noticed any other symptoms?
+Patient: I've got a headache at the front of the head, and my nose is runny.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes.
+Doctor: Does anything make it better or worse?
+Patient: Not really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's around an 8.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, nothing else.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, not really.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, not really.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0020,"Depression | symptoms: feeling low; losing interest in things; trouble sleeping; getting angry easily; memory problems; low self-esteem | age: 46, sex: F, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about three weeks ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been feeling low lately. It's been going on for about three weeks now.
+Doctor: Where exactly do you feel it?
+Patient: It's all over, but sometimes I feel really down at work too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about three weeks ago, gradually. I just didn't feel like doing anything anymore.
+Doctor: Can you describe what it feels like?
+Patient: It's hard to concentrate, you know? It's like I can't remember things as well as I used to.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes I get angry at my friends or family for things I don't even know I did. It's scary.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've lost interest in things I used to enjoy, like cooking and cleaning. Also, I've been getting really angry at people I used to know.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I'm at home or doing things that aren't important to me.
+Doctor: Does anything make it better or worse?
+Patient: I don't know, I just try to stay busy and avoid doing things I don't feel like doing.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's not terrible, but it's definitely there. It's affecting my quality of life.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time it's happened to me. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I'm not on any medication and I haven't tried anything. I just feel low at work and at home.
+Doctor: Do you have any allergies?
+Patient: No, I don't have any allergies, just the usual stuff.
+Doctor: Do you have any other medical conditions?
+Patient: No, I'm just feel like this because of my job. I'm always busy cooking and cleaning.
+Doctor: Does anyone in your family have similar problems?
+Patient: Not really, my mom and my dad doesn't. I don't have any allergies and my dad doesn't. I just want to stay busy and do my work.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink occasionally, I don't drink and I'm not.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, I'm just want to stay busy and work.",,,
+t0021,"Contact dermatitis | symptoms: a rash; itchy skin; allergic reactions; a swollen eye | age: 72, sex: M, ethnicity: Others, occupation: retiree, temperament: anxious, health literacy: low, onset: three days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've got a rash and it's been bothering me for the last few days. I'm a bit worried about it.
+Doctor: Where exactly do you feel it?
+Patient: It's all over my arms and legs, and it's really itchy.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about three days ago. It's getting worse.
+Doctor: Can you describe what it feels like?
+Patient: It's red and there are these little bumps, and it feels really itchy.
+Doctor: Does it spread anywhere else?
+Patient: No, it's just on my arms and legs. But my eye is swollen too.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got allergic reactions too. I'm not sure if it's related.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I touch certain things.
+Doctor: Does anything make it better or worse?
+Patient: I haven't tried anything yet. I'm just scared it might be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6, I'm not sure if it's getting better.
+Doctor: Have you had anything like this before?
+Patient: Not that I know of. This is the first time I've had anything like this.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't taken anything yet. I'm just worried it could be something serious.
+Doctor: Do you have any allergies?
+Patient: Yes, I've got allergic reactions too. I've been getting these reactions pretty often.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my family is very healthy, no allergies or anything like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink or smoke, I don't drink or take any medications.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it. I'm just want to know what's going on.",,,
+t0022,"Indigestion | symptoms: sharp stomach pain; a burning pain in the stomach; nausea; vomiting; sharp chest pain; diarrhoea | age: 30, sex: M, ethnicity: Chinese, occupation: accountant, temperament: anxious, health literacy: low, onset: about ten days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've been having sharp pains in my stomach for about ten days now. It's really bad.
+Doctor: Where exactly do you feel it?
+Patient: It's right in the middle of my tummy, sometimes it feels like burning too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started gradually, but it's gotten worse over time.
+Doctor: Can you describe what it feels like?
+Patient: It's sharp and sometimes it feels like a knife cutting me.
+Doctor: Does it spread anywhere else?
+Patient: No, it stays in my tummy. I've been throwing up and have diarrhoea too.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've been feeling really sick to my stomach and I've been having sharp chest pain too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's pretty bad when it hits.
+Doctor: Does anything make it better or worse?
+Patient: I don't know, I haven't tried anything to see what makes it better or worse.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad, maybe an 8 or 9. I'm scared it might be something serious.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've ever felt like this.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I don't take any regular medicine and I haven't tried anything to see if it helps.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have diabetes or high blood pressure, just my usual routine.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my mom and dad don't have it.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink and I don't smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't think so. I'm really don't know what it is.",,,
+t0023,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a headache; sinus pain | age: 40, sex: M, ethnicity: Chinese, occupation: chef, temperament: anxious, health literacy: low, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
+Patient: I've been coughing for the past few weeks, and I'm worried it might be serious.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but I also feel like my nose is stuffy.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about three weeks ago. I was just out of the country and didn't know what was going on.
+Doctor: Can you describe what it feels like?
+Patient: It's like a burning pain, and sometimes it feels like it's deep in my sinuses.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it's in my neck too, but I don't have a neck pain.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, my nose is always blocked, and I get headaches.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's not as bad as it used to be.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, I haven't tried anything specific to see if it helps.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6, I'm scared it could be something bad.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had this, and I haven't felt it since.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything that affects my sleep or my appetite.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't have any other symptoms like high blood pressure or anything like that.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other health problems like that.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think anyone in my family has this.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't feel sick to my stomach or have any other symptoms.",,,
+t0024,"Asthma | symptoms: a cough; wheezing; a blocked nose; a fever; a runny nose | age: 28, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: medium, onset: about a month ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've had a cough for about a month now, and I'm worried it might be serious.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but sometimes it feels like it's in my throat too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It just started gradually, I think.
+Doctor: Can you describe what it feels like?
+Patient: It's a dry cough, with a bit of phlegm.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it's moving to my throat, but not always.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got a runny nose too, and I've had a fever for a few days.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's pretty bad at night.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, but it's worse when I'm lying down, and it's harder to breathe.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 7, I'm scared it's something bad.
+Doctor: Have you had anything like this before?
+Patient: I've had a few times when I've felt like I was wheezing or something, but nothing like this.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I don't think so, I haven't taken any medicine for it.
+Doctor: Do you have any allergies?
+Patient: No, I don't have allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, nothing else really. I don't have any other conditions like that.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other issues like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0025,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; allergic reactions | age: 51, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: high, onset: yesterday, severity: mild","Doctor: What brings you in today?
+Patient: I don't know if you know how to call it or not, but I'm coming from a family that has been dealing with this for a long time and we're always doing things right. I want to come back tomorrow and I can tell you something. I don't know if I know how to call it or not, but I am coming from a family that has been dealing with this for
+Doctor: Where exactly do you feel it?
+Patient: In this case, I'm not sure. I'm not sure if I feel that it's something you can do. But, you know, it feels like a big deal.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started when I was a baby and it got worse, and I went out to the grocery store and started taking steroids and it got worse and worse. It started getting worse and worse, and then it started getting worse and worse. I think it was around about 5 years ago when I got my first injection of steroids. It was the first time that I had ever been in the gym and I
+Doctor: Can you describe what it feels like?
+Patient: I'm not sure. It feels like you're not feeling your body properly. I can't describe it but I think it's pretty intense.
+Doctor: Does it spread anywhere else?
+Patient: I'm not sure, but that's the thing that worries me. I don't know what else. It's not that intense. I don't know what else to do. But, you know, I would say, I'm feeling pretty good about myself right now.
+Doctor: Have you noticed any other symptoms?
+Patient: No. I'm not sure. It's not that intense. It's not that hard to get the blood flowing.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No, I just don't know.
+Doctor: Does anything make it better or worse?
+Patient: No. It's just that I'm feeling better and more confident now.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I've never seen that much of a difference. I think it's normal, I don't know. I know that it's going to get worse.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No, I have no allergies.
+Doctor: Does anyone in your family have similar problems?
+Patient: No. I'm just in a better place now, but I'm not going to go into too much detail.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't know. I don't know what else to do. I'm just going to sit back and let the doctor do his thing.",,,
+t0026,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; nausea; a headache | age: 87, sex: F, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've been feeling really dizzy lately, and I've also got a headache. It started two days ago.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my head, but it also seems to go to my feet sometimes.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It just started suddenly, and it's been getting worse. It's been going on for about two hours now.
+Doctor: Can you describe what it feels like?
+Patient: It's like I've been spinning a lot, and sometimes it feels like a bit of a sharp pain.
+Doctor: Does it spread anywhere else?
+Patient: No, it just stays in my head and my feet. I also feel a bit nauseous.
+Doctor: Have you noticed any other symptoms?
+Patient: No, just the dizziness, headache, and nausea. I haven't felt short of breath or anything like that.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's been pretty bad lately. It's like the whole room spins.
+Doctor: Does anything make it better or worse?
+Patient: It gets worse when I turn my head quickly or try to move my head suddenly. Moving my head around a bit helps.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's a 9, it's really bothering me. I can't stand it anymore.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. I haven't had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't taken any new medications, and I haven't tried anything specific. I just feel very uncomfortable.
+Doctor: Do you have any allergies?
+Patient: No allergies, I don't think so. I'm just feeling really worried about what it could be.
+Doctor: Do you have any other medical conditions?
+Patient: I've had a low-grade fever for a few days now, but that's all. I don't have any other symptoms that I can think of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think so. My mom and my dad and my grandpa are fine. I don't have no history of heart problems like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I'm not really drink alcohol.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it's pretty much it.",,,
+t0027,"Carpal tunnel syndrome | symptoms: numbness; hand pain; arm pain; neck pain; a weak grip; stiff fingers | age: 84, sex: F, ethnicity: Malay, occupation: retiree, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been experiencing numbness in my hand lately, it's been bothering me for over a year now.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my thumb, index, and middle fingers, but it can go up to my fingers and even my whole hand feels sore.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started gradually, and it's been getting worse over time. I noticed it more when I used my hands a lot at work, like typing or cleaning.
+Doctor: Can you describe what it feels like?
+Patient: It feels like a tightness in my hand, and it's hard to grip things properly.
+Doctor: Does it spread anywhere else?
+Patient: It can sometimes spread up my arm, but mostly it's just my hand.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got stiff fingers too, and sometimes my neck hurts too. And sometimes I feel like my grip is a bit stiff, especially when I'm typing or holding things.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's mostly there all the time, but it gets a bit worse when I use my hands a lot at work.
+Doctor: Does anything make it better or worse?
+Patient: I think it gets a bit better when I rest my hand, but it doesn't really get better when I use my hands too much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6, it's definitely not the worst pain I've had but it's annoying and sometimes uncomfortable.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had it like this. It's been bothering me for more than a year now.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't been taking any new medicines and I haven't tried anything specific to see if it helps.
+Doctor: Do you have any allergies?
+Patient: No allergies, I don't think so. I don't have any allergies that I know of.
+Doctor: Do you have any other medical conditions?
+Patient: I don't take any medications for other health issues, just this.
+Doctor: Does anyone in your family have similar problems?
+Patient: No family history of heart or blood clogged arteries or heart problems like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink and I don't smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No other than the numbness in your hand and neck pain?No, nothing else.",,,
+t0028,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a runny nose | age: 19, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: high, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
+Patient: I've been coughing a lot for about three weeks now, and it's getting me worried.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but sometimes it feels like my nose is all stuffed up.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started gradually, gradually, but it's been getting worse since then.
+Doctor: Can you describe what it feels like?
+Patient: It's like a dry cough, but it's not really blocked up.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it's spreading to my neck a little, but not really itchy.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got a sore throat and runny nose too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's more noticeable when I'm stressed or have to deal with the stuffy air.
+Doctor: Does anything make it better or worse?
+Patient: I don't think so, it just stays the same.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's not too bad, maybe a 3 or 4.
+Doctor: Have you had anything like this before?
+Patient: Not really, I haven't really tried anything like that.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't tried anything yet.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I'm not on any medications.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think anyone else has this kind of problem.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it. I don't have any other health issues, just this cough and the sore throat.",,,
+t0029,"Indigestion | symptoms: sharp stomach pain; nausea; pain in the upper stomach; food coming back up; a bloated stomach | age: 29, sex: F, ethnicity: Chinese, occupation: taxi driver, temperament: chatty, health literacy: medium, onset: last week, severity: severe","Doctor: What brings you in today?
+Patient: I've been having sharp stomach pain, and I feel bloated.
+Doctor: Where exactly do you feel it?
+Patient: It's in the upper part of my stomach, near my ribs.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started last week, suddenly. I was eating lunch and suddenly got this sharp pain.
+Doctor: Can you describe what it feels like?
+Patient: It's like a sharp, sudden pain, but it comes and goes.
+Doctor: Does it spread anywhere else?
+Patient: No, it stays in the upper stomach.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've also been feeling sick to my stomach. It's like I can't eat much, but then I feel like I need to.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's been really bad lately.
+Doctor: Does anything make it better or worse?
+Patient: I don't know, it just seems to come and go on its own.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's around an 8 or 9, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: No, it's been happening a few times, but it's been getting worse lately.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't been on any medicine, and I haven't tried anything.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so.
+Doctor: Do you have any other medical conditions?
+Patient: No, nothing else really.
+Doctor: Does anyone in your family have similar problems?
+Patient: Not really, I'm just a taxi driver, so I don't know what's causing it.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0030,"Contact dermatitis | symptoms: a rash; itchy skin; allergic reactions; a swollen eye | age: 72, sex: M, ethnicity: Others, occupation: retiree, temperament: anxious, health literacy: low, onset: three days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I was told by a doctor that my dermatitis was a result of my wife getting pregnant. I didn't know what it was and the doctor said I would have to go and talk to a dermatologist.
+Doctor: Where exactly do you feel it?
+Patient: I feel like I have a headache because it's so big.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started on the second day. It was really bad.
+Doctor: Can you describe what it feels like?
+Patient: I'm really feeling all the time. I can't think about anything. I don't know what to do. It's like I'm just in a trance. I just have to keep on going. I don't know how I'll feel tomorrow.
+Doctor: Does it spread anywhere else?
+Patient: Yes.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I have no symptoms. I have nothing but pain. I feel like I'm in a trance. I'm not really sure. I think I'm going crazy.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's really bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0031,"Common cold | symptoms: a cough; a blocked nose; a runny nose; ear pain | age: 46, sex: M, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about five days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've been coughing a lot for the past few days. Also, my nose has been all stuffed up.
+Doctor: Where exactly do you feel it?
+Patient: It's more in my chest, but sometimes I feel it in my ears too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago, I think. I just noticed it after I was at work all day.
+Doctor: Can you describe what it feels like?
+Patient: It feels like there's something stuck in my throat, like a tickle. It's annoying.
+Doctor: Does it spread anywhere else?
+Patient: No, it's mostly just in my chest and throat.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've been getting ear pain too. It's not as bad as my nose though.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes. It's worse when I'm lying down at night.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know. I tried some cough syrup, but it didn't seem to help much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's about an 8, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: Not really, this is the first time it's been like this. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything for it. It's just been there since this morning.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so. I don't have any allergies that I know of.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my mom and dad both don't have any of those.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or smoke. I'm a bit of a social drinker, though.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it. I just want to know if it's serious.",,,
+t0032,"Athlete's foot | symptoms: a rash; foot pain; dry skin; infected-looking skin on the foot | age: 71, sex: M, ethnicity: Chinese, occupation: retiree, temperament: terse, health literacy: medium, onset: a couple of months ago, severity: severe","Doctor: What brings you in today?
+Patient: It's about getting rid of my foot.
+Doctor: Where exactly do you feel it?
+Patient: It's about my foot.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: The foot came on suddenly. I think I was about 2-3 weeks ago, it came on suddenly. I thought it was some sort of nerve problem or something, and it didn't.
+Doctor: Can you describe what it feels like?
+Patient: It's something like going into a room and looking at a big, beautiful window. You see what it looks like? It looks like a giant, huge wall with a big, beautiful wall.
+Doctor: Does it spread anywhere else?
+Patient: Yes, and it's really good.
+Doctor: Have you noticed any other symptoms?
+Patient: No, no, no, no.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's just a little bit of pain in my feet.
+Doctor: Does anything make it better or worse?
+Patient: No, it doesn't.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's like a headache, and it's like the only thing I can do is to walk up and down the floor and it doesn't make any difference, but it's a very, very bad feeling.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, no.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0033,"Dengue fever | symptoms: a fever; muscle pain; nausea; joint pain; eye pain | age: 74, sex: F, ethnicity: Malay, occupation: retiree, temperament: terse, health literacy: medium, onset: this morning, severity: moderate","Doctor: What brings you in today?
+Patient: Fever, pain.
+Doctor: Where exactly do you feel it?
+Patient: Muscles, joints.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: This morning.
+Doctor: Can you describe what it feels like?
+Patient: Fever, muscle pain.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Feeling sick to my stomach and joints hurt.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes.
+Doctor: Does anything make it better or worse?
+Patient: Resting helps.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 5.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0034,"Laryngitis | symptoms: a sore throat; a hoarse voice; a cough; a blocked nose; trouble swallowing; blocked sinuses | age: 39, sex: F, ethnicity: Malay, occupation: chef, temperament: anxious, health literacy: high, onset: yesterday, severity: severe","Doctor: What brings you in today?
+Patient: I've had a really sore throat since yesterday. It's been bothering me all day.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly at the back of my throat.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started suddenly yesterday morning. I woke up with it.
+Doctor: Can you describe what it feels like?
+Patient: It's a dry, sore throat, and I've also got a cough and a blocked nose. It's really bad.
+Doctor: Does it spread anywhere else?
+Patient: No, it just stays in my throat. I'm worried it might be something serious.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, my voice is a bit hoarse too. And I've got trouble swallowing.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I talk or eat.
+Doctor: Does anything make it better or worse?
+Patient: I've been taking some painkillers, but nothing really helps much. I'm scared it could be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's probably an 8, but it's quite uncomfortable. I'm scared it might be something bad.
+Doctor: Have you had anything like this before?
+Patient: I've had it before, but it's been more severe this time. It's really affecting my work and life.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything yet. I just hope it doesn't get worse.
+Doctor: Do you have any allergies?
+Patient: I'm allergic to dust and pollen. I don't think I have allergies in my family.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other illnesses that I know of.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it. I don't feel like eating or drinking much, just having this sore throat and the cough.",,,
+t0035,"Indigestion | symptoms: sharp stomach pain; a burning pain in the stomach; nausea; vomiting; sharp chest pain; diarrhoea | age: 30, sex: M, ethnicity: Chinese, occupation: accountant, temperament: anxious, health literacy: low, onset: about ten days ago, severity: severe","Doctor: What brings you in today?
+Patient: I had a bad case of acute myalgic encephalomyelitis. My stomach was burning like a fire. I was in pain and was very agitated. I was afraid I would die.
+Doctor: Where exactly do you feel it?
+Patient: I feel like a cold sore. I don't know how long I'm in the hospital.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I haven't seen the patient for a long time. I was at a meeting with the doctor and he asked me, ""How long will it take you to feel good?"" I said, ""Ten days."" Then he said, ""Do you feel like you're going to die?"" I said, ""No, I'm going to die. I just need to be back with you."" He was
+Doctor: Can you describe what it feels like?
+Patient: I can't. I don't know. I feel very sick.
+Doctor: Does it spread anywhere else?
+Patient: I don't know.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I have no idea.
+Doctor: Does anything make it better or worse?
+Patient: I don't know. I feel bad for myself.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I feel awful. I feel sick.
+Doctor: Have you had anything like this before?
+Patient: No. I've had other cases.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No. I've taken a lot of medication for it.
+Doctor: Do you have any allergies?
+Patient: No. I've never had any allergies to anything.
+Doctor: Do you have any other medical conditions?
+Patient: I haven't tried anything.
+Doctor: Does anyone in your family have similar problems?
+Patient: I've never had any other problems.
+Doctor: Do you smoke or drink alcohol?
+Patient: I haven't tried anything.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't know. I just know that this is one of the problems that I have.",,,
+t0036,"Indigestion | symptoms: sharp stomach pain; nausea; pain in the upper stomach; food coming back up; a bloated stomach | age: 29, sex: F, ethnicity: Chinese, occupation: taxi driver, temperament: chatty, health literacy: medium, onset: last week, severity: severe","Doctor: What brings you in today?
+Patient: I've been having sharp stomach pain, mostly on the right side. It started last week, and it's been really bad.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in the upper part of my stomach, but sometimes it moves to my lower stomach.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started last week, I think. I was driving my taxi and suddenly felt this sharp pain.
+Doctor: Can you describe what it feels like?
+Patient: It's sharp and sudden, and sometimes it feels like food is coming back up. Sometimes it's really painful.
+Doctor: Does it spread anywhere else?
+Patient: No, it stays in my upper stomach. It's really worrying me.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I feel bloated and have food coming back up too. It's really uncomfortable.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse after I eat something.
+Doctor: Does anything make it better or worse?
+Patient: I don't think anything really helps, but sometimes lying down helps a bit.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's an 8, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. It's been getting worse over the last week.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken any regular medications.
+Doctor: Do you have any allergies?
+Patient: No allergies, but I do smoke a bit, but I don't take any regular medicines.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of. Just this pain in my stomach and feeling bloated.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other illnesses that I know of. Just this pain.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink and I don't have any other health issues that I know of.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this pain is just really bad, and it's been driving me crazy.",,,
+t0037,"Asthma | symptoms: a cough; shortness of breath; wheezing; difficulty breathing; a blocked nose; a fever | age: 26, sex: F, ethnicity: Chinese, occupation: security guard, temperament: calm, health literacy: medium, onset: a couple of months ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been having a cough for a couple of months now, and sometimes I feel short of breath.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in the morning when I wake up.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started gradually around two months ago.
+Doctor: Can you describe what it feels like?
+Patient: It's like I can't breathe well at all. It's hard to catch my breath.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it's moving to my chest.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've had a bit of a fever too, and sometimes I feel like I'm wheezing.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there most of the time, but it's not severe. It's just there.
+Doctor: Does anything make it better or worse?
+Patient: When I rest, it feels a bit better, but it comes back when I get up in the morning.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6, not really bad but annoying.
+Doctor: Have you had anything like this before?
+Patient: I've had a couple of other things that happened during the same time, but they didn't really last long.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I don't take any regular medicines. I've just been doing my usual work, but I don't have any regular physical activities.
+Doctor: Do you have any allergies?
+Patient: I don't think so. I've never had any allergies before, and I don't think I've had any trouble breathing at all.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that are serious. I just feel short of breath sometimes.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other family problems. I'm just in a good physical condition.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this is pretty much the same. Just my asthma and sometimes I feel like my nose is blocked.",,,
+t0038,"Carpal tunnel syndrome | symptoms: numbness; hand pain; arm pain; neck pain; a weak grip; stiff fingers | age: 84, sex: F, ethnicity: Malay, occupation: retiree, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
+Patient: I feel the cold, the pressure, the need to move.
+Doctor: Where exactly do you feel it?
+Patient: I feel the cold, the pressure, the need to move.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I don't know. I'm not sure. I'm not sure I know. I'm not sure.
+Doctor: Can you describe what it feels like?
+Patient: I feel like I'm floating in a pool of water. I feel like I'm floating in water. I feel like I'm floating in water.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I don't know. I don't know. I don't know.
+Doctor: Does anything make it better or worse?
+Patient: I don't know. I don't know. I don't know.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I don't know. I don't know.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0039,"Migraine | symptoms: a headache; vomiting; blurred vision | age: 21, sex: F, ethnicity: Chinese, occupation: delivery rider, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
+Patient: Headache.
+Doctor: Where exactly do you feel it?
+Patient: Whole head.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Last night.
+Doctor: Can you describe what it feels like?
+Patient: Like pressure, sometimes it's sharp.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Vomiting, blurry vision.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Constant.
+Doctor: Does anything make it better or worse?
+Patient: Nothing really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: About a 6.
+Doctor: Have you had anything like this before?
+Patient: Not like this.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0040,"Urinary tract infection | symptoms: pain when peeing; pain just above the pubic bone; sharp stomach pain; peeing often; a fever; vomiting | age: 26, sex: M, ethnicity: Chinese, occupation: cleaner, temperament: terse, health literacy: low, onset: yesterday, severity: mild","Doctor: What brings you in today?
+Patient: You are having an infection.
+Doctor: Where exactly do you feel it?
+Patient: I feel pain.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I feel pain in my stomach, my back, my leg.
+Doctor: Can you describe what it feels like?
+Patient: I feel pain in my stomach, my back, my leg.
+Doctor: Does it spread anywhere else?
+Patient: It does spread in the urine, in the urine of my testicles.
+Doctor: Have you noticed any other symptoms?
+Patient: Yes, it does.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It does.
+Doctor: Does anything make it better or worse?
+Patient: No, it doesn't.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: Very bad.
+Doctor: Have you had anything like this before?
+Patient: No, no, no, no.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0041,"Muscle spasm | symptoms: neck pain; shoulder pain; leg pain; muscle cramps; arm pain | age: 43, sex: F, ethnicity: Chinese, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: yesterday, severity: severe","Doctor: What brings you in today?
+Patient: I have a feeling that this is a symptom. I'm not sure what.
+Doctor: Where exactly do you feel it?
+Patient: I feel like it's a headache. I'm trying to remember to tell myself that this is a symptom, not something that I'm going to fix.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I don't remember. I don't know.
+Doctor: Can you describe what it feels like?
+Patient: It's just a headache. It's like, I'm going to go get a massage.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: Very bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0042,"Shingles (herpes zoster) | symptoms: a rash; itchy skin; skin that looks abnormal; facial pain | age: 62, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've got this rash on my chest and back that's been really itchy. It started two days ago.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my chest and back, but I've also noticed some spots on my arms and legs.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started two days ago, like suddenly. I didn't feel any pain at first, but now it's really bothering me.
+Doctor: Can you describe what it feels like?
+Patient: It's kind of a burning feeling, like there's a heat or something in there. It's really itchy.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it spreads to my neck a little bit, but it's mostly on my chest and back.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got facial pain too. It's not very severe, but it's there.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's really bad when it's there.
+Doctor: Does anything make it better or worse?
+Patient: I haven't tried anything yet, but it seems to get worse when I touch it or move my neck.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's around an 8, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've ever had something like this. I haven't had it before, so I'm not sure if it's related.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything yet. I've just been trying to relax and use some moisturizer.
+Doctor: Do you have any allergies?
+Patient: No allergies, just this rash and the pain. I don't think it's related to anything I've eaten or been around.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of. Just this rash and the pain.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think so I'm not. I don't have any family history of heart or stomach issues like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink and I don't think I don't use drugs. I don't think I'm pretty much.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't think about it.",,,
+t0043,"Tonsillitis | symptoms: a sore throat; swollen tonsils; noisy breathing; a red ear | age: 27, sex: F, ethnicity: Chinese, occupation: teacher, temperament: terse, health literacy: low, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: It's a long journey. I'm a very small person. I had a lot of trauma and I was in pain. It's the first time I've had to go to an emergency room. I don't know what to do with my body now. It's a difficult decision.
+Doctor: Where exactly do you feel it?
+Patient: The swelling.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I don't know.
+Doctor: Can you describe what it feels like?
+Patient: It feels like a long trip. It feels like I'm back in the hospital. It feels like a long way.
+Doctor: Does it spread anywhere else?
+Patient: No. It's like a sore throat, a sore throat, a sore throat. It doesn't spread anywhere. I feel fine.
+Doctor: Have you noticed any other symptoms?
+Patient: No. I've not noticed any other symptoms.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No. I don't know.
+Doctor: Does anything make it better or worse?
+Patient: I don't know.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: Well, it feels good. I'm not in pain. I'm in a good place. I can move about. I can feel my body moving. It's like a roller coaster. It's a roller coaster.
+Doctor: Have you had anything like this before?
+Patient: No. I never had this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't tried anything for it.
+Doctor: Do you have any allergies?
+Patient: No, I don't have any allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other medical conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other medical conditions.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't have any other medical conditions.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, I'd like to hear about it. I wouldn't like to hear about it, but I'm not sure I can.",,,
+t0044,"Sciatica | symptoms: back pain; leg pain; lower back pain | age: 81, sex: M, ethnicity: Chinese, occupation: retiree, temperament: calm, health literacy: high, onset: two days ago, severity: mild","Doctor: What brings you in today?
+Patient: I've been having back pain for the past two days.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my lower back, but it also hurts in my leg sometimes.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started two days ago.
+Doctor: Can you describe what it feels like?
+Patient: It's a dull ache, but it can be sharp when I move.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it moves down my leg a bit.
+Doctor: Have you noticed any other symptoms?
+Patient: No, just the back and leg pain.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's not too bad.
+Doctor: Does anything make it better or worse?
+Patient: Resting helps a bit, but I don't really notice anything that makes it better.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 3 or 4, not unbearable but noticeable.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I've been taking some painkillers, but that hasn't helped much.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't have any pain in my legs or arms.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions that I know of that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, this is the first time.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this is the first time.",,,
+t0045,"Depression | symptoms: feeling low; losing interest in things; trouble sleeping; getting angry easily; memory problems; low self-esteem | age: 46, sex: F, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about three weeks ago, severity: moderate","Doctor: What brings you in today?
+Patient: It's a problem.
+Doctor: Where exactly do you feel it?
+Patient: It's a problem in my sleep. I feel bad. It's a problem in my heart. I feel bad about everything.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: About three weeks ago.
+Doctor: Can you describe what it feels like?
+Patient: It's a dream come true.
+Doctor: Does it spread anywhere else?
+Patient: It doesn't.
+Doctor: Have you noticed any other symptoms?
+Patient: No, I haven't. I'm not sure.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I've had it all the time.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0046,"Shingles (herpes zoster) | symptoms: a rash; itchy skin; skin that looks abnormal; facial pain | age: 62, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: I was brought in because of my illness.
+Doctor: Where exactly do you feel it?
+Patient: I am feeling fine.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I don't know.
+Doctor: Can you describe what it feels like?
+Patient: It is a very unusual feeling.
+Doctor: Does it spread anywhere else?
+Patient: It doesn't really.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It is not.
+Doctor: Does anything make it better or worse?
+Patient: Yes.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 1 to 5.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: Yes.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0047,"Asthma | symptoms: a cough; wheezing; a blocked nose; a fever; a runny nose | age: 28, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: medium, onset: about a month ago, severity: moderate","Doctor: What brings you in today?
+Patient: I am a medical student. I am a doctor. I am not a doctor.
+Doctor: Where exactly do you feel it?
+Patient: I am at the hospital.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I do not know. I do not know.
+Doctor: Can you describe what it feels like?
+Patient: It is a mixture of cold, sore throat, and fever.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It is terrible.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0048,"Laryngitis | symptoms: a sore throat; a hoarse voice; a cough; a blocked nose; trouble swallowing; blocked sinuses | age: 39, sex: F, ethnicity: Malay, occupation: chef, temperament: anxious, health literacy: high, onset: yesterday, severity: severe","Doctor: What brings you in today?
+Patient: You have a sore throat.
+Doctor: Where exactly do you feel it?
+Patient: It's in your throat.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: When I was first diagnosed with Laryngitis.
+Doctor: Can you describe what it feels like?
+Patient: It's just the sore throat.
+Doctor: Does it spread anywhere else?
+Patient: It does.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's not.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: No.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0049,"Common cold | symptoms: a cough; a blocked nose; a runny nose; ear pain | age: 46, sex: M, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about five days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've been coughing a lot, and my nose is always blocked.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but it hurts when I cough.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It's been about five days now. It's getting worse, especially at night.
+Doctor: Can you describe what it feels like?
+Patient: It's like I can't breathe through my nose properly. It feels like there's something stuck in there.
+Doctor: Does it spread anywhere else?
+Patient: No, it just stays in my chest. Sometimes it feels like it's in my ears too.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got ear pain too, and my nose runs. It's been bothering me a lot.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I lie down. I'm so worried about it.
+Doctor: Does anything make it better or worse?
+Patient: I don't know, I tried drinking more water, but it doesn't help much. I try to keep it clean, but it doesn't seem to get better.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad, maybe an 8 or 9. It's really bad, and it's getting me down.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had this. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken anything for it. I haven't had any tests for it.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't have any allergies at all.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other health issues. I just feel really bad all the time.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think anyone in my family is sick or anything.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink, just work and cook.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't think so. I don't have any other illnesses that I know of.",,,
+t0050,"Common cold | symptoms: a cough; a blocked nose; a runny nose; ear pain | age: 46, sex: M, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about five days ago, severity: severe","Doctor: What brings you in today?
+Patient: I am in my late 40s. My parents divorced when I was young. I am in my late 20s. I am a good person. I am very careful in my daily life.
+Doctor: Where exactly do you feel it?
+Patient: I am in the bathroom and I see a doctor. I am not the type to be upset or upset because I am not a doctor. I am not upset because I am a woman.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started around the second day I arrived. It was not until the third day that I did. It was not until the fourth day that I did.
+Doctor: Can you describe what it feels like?
+Patient: It feels like I am in a small room.
+Doctor: Does it spread anywhere else?
+Patient: Yes.
+Doctor: Have you noticed any other symptoms?
+Patient: I have never noticed any other symptoms. I think it is due to my high IQ.
+Doctor: Is it there all the time, or does it come and go?
+Patient: I am very happy to see someone.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: No.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I don't know. I don't know if there is any thing.",,,
+t0051,"Urinary tract infection | symptoms: pain when peeing; pain just above the pubic bone; sharp stomach pain; peeing often; a fever; vomiting | age: 26, sex: M, ethnicity: Chinese, occupation: cleaner, temperament: terse, health literacy: low, onset: yesterday, severity: mild","Doctor: What brings you in today?
+Patient: Pain when peeing
+Doctor: Where exactly do you feel it?
+Patient: Above pubic bone
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Yesterday
+Doctor: Can you describe what it feels like?
+Patient: Pain, sharp
+Doctor: Does it spread anywhere else?
+Patient: Stomach
+Doctor: Have you noticed any other symptoms?
+Patient: Fever, vomiting
+Doctor: Is it there all the time, or does it come and go?
+Patient: Constant
+Doctor: Does anything make it better or worse?
+Patient: Nothing really
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 4
+Doctor: Have you had anything like this before?
+Patient: No
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No
+Doctor: Do you have any allergies?
+Patient: No
+Doctor: Do you have any other medical conditions?
+Patient: No
+Doctor: Does anyone in your family have similar problems?
+Patient: No
+Doctor: Do you smoke or drink alcohol?
+Patient: No
+Doctor: Is there anything else you'd like to tell me?
+Patient: No",,,
+t0052,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; nausea; a headache | age: 87, sex: F, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: I can't remember.
+Doctor: Where exactly do you feel it?
+Patient: I'm in the back of my head.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: A lot of time ago.
+Doctor: Can you describe what it feels like?
+Patient: A little bit.
+Doctor: Does it spread anywhere else?
+Patient: It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't. It doesn't.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It doesn't. It doesn't.
+Doctor: Does anything make it better or worse?
+Patient: No.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0053,"Asthma | symptoms: a cough; shortness of breath; wheezing; difficulty breathing; a blocked nose; a fever | age: 26, sex: F, ethnicity: Chinese, occupation: security guard, temperament: calm, health literacy: medium, onset: a couple of months ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been coughing a lot for the last couple of months.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but sometimes I feel like I can't catch my breath.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started a couple of months ago, gradually at first but it's gotten worse over time.
+Doctor: Can you describe what it feels like?
+Patient: It's a persistent cough, sometimes it feels like it's in my chest too.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it moves up to my throat and my nose is stuffy.
+Doctor: Have you noticed any other symptoms?
+Patient: Sometimes I feel short of breath, especially when I walk fast or do physical activities.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I'm lying down.
+Doctor: Does anything make it better or worse?
+Patient: It gets a bit better when I take a walk or try to do physical activities.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's about a 6, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: Not really, this is the first time I've had this.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't taken anything for it, and I haven't tried anything that I know of.
+Doctor: Do you have any allergies?
+Patient: No allergies, just the ones I've mentioned.
+Doctor: Do you have any other medical conditions?
+Patient: No, just my usual routine as a security guard.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my family doesn't have any health issues like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink or smoke, I'm not on any medications.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I feel short of breath sometimes when I walk or try to do physical activities.",,,
+t0054,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; nausea; a headache | age: 87, sex: F, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've been feeling really dizzy lately, and I've also got a headache. It started two days ago.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my head, but sometimes it goes to my neck too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started around two days ago, and it's been getting worse since then.
+Doctor: Can you describe what it feels like?
+Patient: It's like a spinning feeling, but it's not constant. It comes and goes.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it's mostly just in my head. I feel dizzy sometimes in my legs and even in my hands.
+Doctor: Have you noticed any other symptoms?
+Patient: I've got a bit of nausea too, but it's not too bad. Just a bit of a nuisance.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's pretty constant, but it can get worse when I move my head a certain way.
+Doctor: Does anything make it better or worse?
+Patient: I try to stay still, but it gets worse when I move my head suddenly. Also, I get a bit of headache sometimes.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around an 8 or 9, it's really bothering me.
+Doctor: Have you had anything like this before?
+Patient: Not really, it's been going on for about two days now.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medications, and I haven't taken anything to try and see a doctor about it.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I haven't had any allergies at all.
+Doctor: Do you have any other medical conditions?
+Patient: No other illnesses that I know of, and I don't have any other conditions that I know of that would trigger it.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think so. I don't have any family history of this.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, it's just been pretty severe. I can't help it.",,,
+t0055,"Otitis externa (swimmer's ear) | symptoms: ear pain; a blocked feeling in the ear; a fever; itchy ears | age: 30, sex: M, ethnicity: Malay, occupation: software engineer, temperament: terse, health literacy: high, onset: three days ago, severity: moderate","Doctor: What brings you in today?
+Patient: Ear hurts.
+Doctor: Where exactly do you feel it?
+Patient: Inside my ear.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Three days ago.
+Doctor: Can you describe what it feels like?
+Patient: It's like a tightness and there's a bit of a blocked feeling.
+Doctor: Does it spread anywhere else?
+Patient: No, just stays in my ear.
+Doctor: Have you noticed any other symptoms?
+Patient: I have a fever and itchy ears too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes.
+Doctor: Does anything make it better or worse?
+Patient: Putting ear drops helps a bit.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: About a 5.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medication, and nothing else.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, nothing else.
+Doctor: Does anyone in your family have similar problems?
+Patient: No family history of it.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, never drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that covers it.",,,
+t0056,"Viral exanthem | symptoms: a rash; a fever; a cough; a blocked nose | age: 24, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: anxious, health literacy: high, onset: this morning, severity: severe","Doctor: What brings you in today?
+Patient: I've got a rash on my arms and legs. It started this morning and it's really bad.
+Doctor: Where exactly do you feel it?
+Patient: It's all over my arms and legs, and it's getting worse.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started this morning, around 8 AM. It's gotten worse throughout the day.
+Doctor: Can you describe what it feels like?
+Patient: It's a bit like small red spots, and they're not raised or swollen. They're just red and warm.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it's mostly on my arms and legs. But I've got a fever too.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got a cough and a blocked nose too. I'm scared it might be something serious.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes. It's quite bad when it's there.
+Doctor: Does anything make it better or worse?
+Patient: I don't know, I haven't tried anything yet. I'm just worried it could be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad, I'd say about an 8. It's making me really scared.
+Doctor: Have you had anything like this before?
+Patient: I've never had anything like this before. It's really scary, I hope it's not something serious.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken any medication and I haven't tried anything. I'm just worried it might be something bad.
+Doctor: Do you have any allergies?
+Patient: I don't think so, I don't have any allergies. I don't think I have a blocked nose either.
+Doctor: Do you have any other medical conditions?
+Patient: I don't have any other conditions that I know of. I'm just worried it could be serious.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think so. I'm just feel like I need to know what it is.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or drink. I'm just feel scared it's something serious.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it's just the worst part. I don't know what else. I'm really want to know what it's really.",,,
+t0057,"Shingles (herpes zoster) | symptoms: a rash; itchy skin; skin that looks abnormal; facial pain | age: 62, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've got this rash on my lip, and it's really itchy. It started two days ago.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my lip, but I also have some red spots on my face and neck.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started suddenly two days ago, and it's gotten worse since then.
+Doctor: Can you describe what it feels like?
+Patient: It's really itchy, and there are some small red bumps that look like little blisters or sores.
+Doctor: Does it spread anywhere else?
+Patient: No, it's just on my lip and face. But I do have some pain in my facial area too.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, my face feels really itchy too, and there are some little sores inside my mouth.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's pretty constant, but it gets worse when I eat or drink.
+Doctor: Does anything make it better or worse?
+Patient: When I drink hot water, it feels a bit better, but it doesn't last long.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around an 8, it's really annoying. I can't get an erection without it hurting.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had this. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken any medicine. I just tried some cream that helps a bit.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I don't take any regular medicine. I just take some paracetamol for the sore throat.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of. I don't have any other medical problems.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other allergies or other conditions like that.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink. Just this rash and it's really bothering me.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this is just the first time this.",,,
+t0058,"Depression | symptoms: feeling low; losing interest in things; trouble sleeping; getting angry easily; memory problems; low self-esteem | age: 46, sex: F, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about three weeks ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been feeling pretty low lately. I used to enjoy cooking, but I think I've lost interest in it.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in the evenings, I feel pretty low.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about three weeks ago, I think. I just don't feel like doing anything anymore.
+Doctor: Can you describe what it feels like?
+Patient: It's like I can't focus on things. I'm really angry at work, and I can't get motivated to do things I used to enjoy.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it's in my head, but it's not my whole head. It's just in my head.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've lost interest in things I used to enjoy. Like I used to be a chef, but now I'm just a chef.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I'm stressed or have a lot on my mind. I just can't seem to focus on what's going on.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, I tried drinking more water and resting, but it doesn't help much. I don't know what's making it worse.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 5 or 6, it's really bothering me. I don't know what to do.
+Doctor: Have you had anything like this before?
+Patient: Yeah, I've been having some trouble sleeping too, but it's not as bad as it was before. I just try to keep busy cooking.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't really tried anything yet, but it's been going on for about three weeks now. I don't know what else to do.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so, I don't have any allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other problems. I don't take any regular medicine.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other illnesses. Just this low feeling.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink alcohol, and I don't do drugs.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it. I just feel low and don't feel like doing much.",,,
+t0059,"Otitis externa (swimmer's ear) | symptoms: ear pain; a blocked feeling in the ear; a fever; itchy ears | age: 30, sex: M, ethnicity: Malay, occupation: software engineer, temperament: terse, health literacy: high, onset: three days ago, severity: moderate","Doctor: What brings you in today?
+Patient: Ear pain started three days ago.
+Doctor: Where exactly do you feel it?
+Patient: In my ear.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Couple of days ago.
+Doctor: Can you describe what it feels like?
+Patient: Blocked feeling.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Fever, itchy ears.
+Doctor: Is it there all the time, or does it come and go?
+Patient: All the time.
+Doctor: Does anything make it better or worse?
+Patient: Nothing really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 3.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0060,"Indigestion | symptoms: sharp stomach pain; a burning pain in the stomach; nausea; vomiting; sharp chest pain; diarrhoea | age: 30, sex: M, ethnicity: Chinese, occupation: accountant, temperament: anxious, health literacy: low, onset: about ten days ago, severity: severe","Doctor: What brings you in today?
+Patient: I've been having sharp pain in my stomach for the past ten days. It's really worrying me.
+Doctor: Where exactly do you feel it?
+Patient: It's right in the middle, kind of like a sharp pain.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started around ten days ago, and it's been getting worse.
+Doctor: Can you describe what it feels like?
+Patient: It's sharp and it comes and goes, but it's really sharp.
+Doctor: Does it spread anywhere else?
+Patient: It doesn't really spread, it stays in my stomach.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got nausea and sharp chest pain too, and I've been throwing up.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's been happening more often lately.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, I haven't tried anything yet.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad, I'd say around a 6.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time it's been happening.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I've taken some antacids, but it doesn't seem to help much.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I haven't had any allergies in my life.
+Doctor: Do you have any other medical conditions?
+Patient: I've got some pain in my chest too, but it's not like I have a cough or anything.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other problems, just this pain and the nausea.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this is the first time it's been happening like this.",,,
+t0061,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a runny nose | age: 19, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: high, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
+Patient: I've had a cough for about three weeks now, and it's been bothering me.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but sometimes it feels like it's in my nose too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about three weeks ago, I think. I'm a bit worried about what it could be.
+Doctor: Can you describe what it feels like?
+Patient: It's dry and sometimes it feels like a tickling sensation, especially when I cough.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it stays in my chest and nose.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got a sore throat and a runny nose too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's not too bad. I'm just worried it could be something serious.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, it's just there all the time. I'm scared it might be something bad.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6 or 7, it's not unbearable but it's definitely bothering me.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had it like this. I'm just so scared it could be something serious.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medications, I haven't taken anything for it. I'm just worried it might get worse.
+Doctor: Do you have any allergies?
+Patient: I don't think so, I don't have any allergies like that.
+Doctor: Do you have any other medical conditions?
+Patient: I don't have diabetes, and I don't take any medications for it.
+Doctor: Does anyone in your family have similar problems?
+Patient: I don't think so, I haven't had anyone else's illnesses like this.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink alcohol, and I don't smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I'm just want to know what it is. Is it serious?",,,
+t0062,"Viral exanthem | symptoms: a rash; a fever; vomiting; skin that looks abnormal | age: 26, sex: M, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
+Patient: Rash started last night.
+Doctor: Where exactly do you feel it?
+Patient: All over.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Just started last night.
+Doctor: Can you describe what it feels like?
+Patient: It's a rash, looks abnormal.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Fever, vomiting.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Comes and goes.
+Doctor: Does anything make it better or worse?
+Patient: No idea.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 7.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medication, no meds.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0063,"Indigestion | symptoms: sharp stomach pain; nausea; pain in the upper stomach; food coming back up; a bloated stomach | age: 29, sex: F, ethnicity: Chinese, occupation: taxi driver, temperament: chatty, health literacy: medium, onset: last week, severity: severe","Doctor: What brings you in today?
+Patient: It was a big day. I saw my wife.
+Doctor: Where exactly do you feel it?
+Patient: It's cold in here. I'm in the hospital. I'm in the ambulance.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: No. It was cold outside. I felt like I was going to die.
+Doctor: Can you describe what it feels like?
+Patient: You feel like you've lost weight and you're sick.
+Doctor: Does it spread anywhere else?
+Patient: No. I've been walking for about five minutes.
+Doctor: Have you noticed any other symptoms?
+Patient: No, not at all.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No, not at all.
+Doctor: Does anything make it better or worse?
+Patient: It's a good feeling.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: Very good.
+Doctor: Have you had anything like this before?
+Patient: No, not yet.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No, no.
+Doctor: Do you have any other medical conditions?
+Patient: No, not yet.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, no.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, no.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0064,"Dengue fever | symptoms: a fever; muscle pain; nausea; joint pain; eye pain | age: 74, sex: F, ethnicity: Malay, occupation: retiree, temperament: terse, health literacy: medium, onset: this morning, severity: moderate","Doctor: What brings you in today?
+Patient: I've got a fever.
+Doctor: Where exactly do you feel it?
+Patient: All over.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Just this morning.
+Doctor: Can you describe what it feels like?
+Patient: Muscle pain, eyes hurt.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Nausea, joint pain.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Constant.
+Doctor: Does anything make it better or worse?
+Patient: Not really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 6.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0065,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; allergic reactions | age: 51, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: high, onset: yesterday, severity: mild","Doctor: What brings you in today?
+Patient: I've got this rash that started yesterday. It's on my arms and legs, and it's been bothering me quite a bit.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my arms and legs, but it's spreading a little bit.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started yesterday morning, after I washed my hands with soap. I didn't know what it was.
+Doctor: Can you describe what it feels like?
+Patient: It's a rash that's dry and sometimes it feels a bit itchy. I also noticed some small bumps.
+Doctor: Does it spread anywhere else?
+Patient: No, it doesn't seem to spread anywhere else.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've been feeling a bit allergic to some things, like pollen and dust.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it seems to be worse when I sweat a lot.
+Doctor: Does anything make it better or worse?
+Patient: I tried using some cream, but it didn't seem to help much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's about a 6 or 7, but it's not too bad. It's just annoying.
+Doctor: Have you had anything like this before?
+Patient: Not really, this is the first time. It's been bothering me since I noticed it yesterday.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medications, and I haven't tried anything specific yet.
+Doctor: Do you have any allergies?
+Patient: Yes, I've been using some antifungal creams, but they haven't really helped much.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't take any regular medicines and I don't have any other health issues.
+Doctor: Does anyone in your family have similar problems?
+Patient: Not that I know of. I've never had anything like this before.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink or have any other health issues that I know of.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, this is the first time I've noticed it. I haven't had any chest pain or chest pain, just this rash.",,,
+t0066,"Viral exanthem | symptoms: a rash; a fever; vomiting; skin that looks abnormal | age: 26, sex: M, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
+Patient: Got a rash.
+Doctor: Where exactly do you feel it?
+Patient: All over, but mostly on my arms and legs.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Last night.
+Doctor: Can you describe what it feels like?
+Patient: Hot, swollen.
+Doctor: Does it spread anywhere else?
+Patient: No, just stays there.
+Doctor: Have you noticed any other symptoms?
+Patient: Fever, vomiting.
+Doctor: Is it there all the time, or does it come and go?
+Patient: All the time, but worse when I eat.
+Doctor: Does anything make it better or worse?
+Patient: Nothing really helps.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 5.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, not yet.
+Doctor: Do you have any allergies?
+Patient: No allergies, just this rash and the vomiting.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, not at all.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, not at all.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0067,"Migraine | symptoms: a headache; vomiting; blurred vision | age: 21, sex: F, ethnicity: Chinese, occupation: delivery rider, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
+Patient: Headache
+Doctor: Where exactly do you feel it?
+Patient: Forehead
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Once
+Doctor: Can you describe what it feels like?
+Patient: Sharp
+Doctor: Does it spread anywhere else?
+Patient: No
+Doctor: Have you noticed any other symptoms?
+Patient: Blurred vision
+Doctor: Is it there all the time, or does it come and go?
+Patient: Once
+Doctor: Does anything make it better or worse?
+Patient: Nothing much
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 5
+Doctor: Have you had anything like this before?
+Patient: No
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No
+Doctor: Do you have any allergies?
+Patient: No
+Doctor: Do you have any other medical conditions?
+Patient: No
+Doctor: Does anyone in your family have similar problems?
+Patient: No
+Doctor: Do you smoke or drink alcohol?
+Patient: No
+Doctor: Is there anything else you'd like to tell me?
+Patient: No",,,
+t0068,"Muscle spasm | symptoms: neck pain; shoulder pain; leg pain; muscle cramps; arm pain | age: 43, sex: F, ethnicity: Chinese, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: yesterday, severity: severe","Doctor: What brings you in today?
+Patient: I've been having really bad neck pain since yesterday, and it's been getting worse.
+Doctor: Where exactly do you feel it?
+Patient: It's mainly in my neck, but I also feel it in my shoulders and my arms.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started yesterday morning, and it's been getting worse since then.
+Doctor: Can you describe what it feels like?
+Patient: It's like a tightness in my neck and it hurts when I try to move my head or lift something.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it goes up to my head and makes me feel a bit off.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've been having muscle cramps in my legs and arms too. It's really affecting my daily routine.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I move my neck or shoulders.
+Doctor: Does anything make it better or worse?
+Patient: It gets worse when I sit for long periods at work or when I try to lift something heavy. Moving my neck or shoulders helps a little, but not much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad, I'd say around an 8 or 9.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No medication, and I haven't tried anything to see if it helps.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so. I'm just a retail assistant, so I don't think I'm allergic to anything.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I'm pretty healthy except for my neck. My mom doesn't have it, and I don't think my dad has it either.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink and I don't smoke. I'm not on any medications.
+Doctor: Is there anything else you'd like to tell me?
+Patient: Not really, it's pretty much it's just been a dull pain.",,,
+t0069,"Urinary tract infection | symptoms: pain when peeing; pain just above the pubic bone; sharp stomach pain; peeing often; a fever; vomiting | age: 26, sex: M, ethnicity: Chinese, occupation: cleaner, temperament: terse, health literacy: low, onset: yesterday, severity: mild","Doctor: What brings you in today?
+Patient: Pain when peeing.
+Doctor: Where exactly do you feel it?
+Patient: Above my pubic bone.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Since yesterday.
+Doctor: Can you describe what it feels like?
+Patient: Sharp pain, like someone is poking me.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes to my stomach.
+Doctor: Have you noticed any other symptoms?
+Patient: Fever, vomiting.
+Doctor: Is it there all the time, or does it come and go?
+Patient: All the time.
+Doctor: Does anything make it better or worse?
+Patient: Not really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it.",,,
+t0070,"Acute sinusitis | symptoms: a cough; a headache; a headache at the front of the head; a runny nose; a fever; facial pain | age: 21, sex: F, ethnicity: Chinese, occupation: office administrator, temperament: terse, health literacy: low, onset: about three weeks ago, severity: severe","Doctor: What brings you in today?
+Patient: I've got a cough.
+Doctor: Where exactly do you feel it?
+Patient: My chest and head.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: About three weeks ago.
+Doctor: Can you describe what it feels like?
+Patient: It's like a burning pain in my chest.
+Doctor: Does it spread anywhere else?
+Patient: No, just in my chest.
+Doctor: Have you noticed any other symptoms?
+Patient: I've got a headache at the front of the head.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time.
+Doctor: Does anything make it better or worse?
+Patient: Nothing really.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, no drink or alcohol.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's it.",,,
+t0071,"Tonsillitis | symptoms: a sore throat; swollen tonsils; noisy breathing; a red ear | age: 27, sex: F, ethnicity: Chinese, occupation: teacher, temperament: terse, health literacy: low, onset: two days ago, severity: severe","Doctor: What brings you in today?
+Patient: Sore throat.
+Doctor: Where exactly do you feel it?
+Patient: Back of my throat.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Two days ago.
+Doctor: Can you describe what it feels like?
+Patient: Sore, tight feeling.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: My breathing sounds noisy. Ear's red.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Constant.
+Doctor: Does anything make it better or worse?
+Patient: Cold drinks help.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0072,"Viral exanthem | symptoms: a rash; a fever; a cough; a blocked nose | age: 24, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: anxious, health literacy: high, onset: this morning, severity: severe","Doctor: What brings you in today?
+Patient: I've got a rash all over my body, and I'm a bit worried about what it could be.
+Doctor: Where exactly do you feel it?
+Patient: It's all over my body, but it's really worrying me.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started this morning, and it's gotten worse since then.
+Doctor: Can you describe what it feels like?
+Patient: It's like a rash, and it's spreading a little bit, but it's not very big.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it's mostly just on my arms and legs, but it's getting worse.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got a cough and my nose feels blocked too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's really bad.
+Doctor: Does anything make it better or worse?
+Patient: I haven't tried anything yet.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's about an 8, I'm scared it could be something serious.
+Doctor: Have you had anything like this before?
+Patient: Not really, I haven't tried anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I don't take any regular medicines and I haven't had anything like this before.
+Doctor: Do you have any allergies?
+Patient: No allergies, but I do have a blocked nose.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other medical conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other medical conditions that I know of.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0073,"Asthma | symptoms: a cough; wheezing; a blocked nose; a fever; a runny nose | age: 28, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: medium, onset: about a month ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've had a cough for about a month now. It's been getting worse.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my chest, but sometimes it feels like it's in my nose too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started gradually, maybe around a month ago. It's been getting worse over time.
+Doctor: Can you describe what it feels like?
+Patient: It's like a tickle in my chest, and sometimes it feels like a fluttering sound.
+Doctor: Does it spread anywhere else?
+Patient: No, it's mostly just in my chest. But sometimes I feel a bit wheezy and my nose is all blocked up.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got a fever and a runny nose too. And I've got a fever too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's always there. I'm worried it might be serious.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, it just comes and goes. I'm scared it might be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6 or 7. It's really worrying me.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. I've never felt anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't taken any medications and I haven't tried anything.
+Doctor: Do you have any allergies?
+Patient: No allergies, but I do have a blocked nose sometimes.
+Doctor: Do you have any other medical conditions?
+Patient: No, nothing else really. Just this cough and the other stuff.
+Doctor: Does anyone in your family have similar problems?
+Patient: I don't think so, I've got my mom and my dad who's been with me.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink and I don't smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I'm scared it's going to get worse.",,,
+t0074,"Laryngitis | symptoms: a sore throat; a hoarse voice; a cough; a blocked nose; trouble swallowing; blocked sinuses | age: 39, sex: F, ethnicity: Malay, occupation: chef, temperament: anxious, health literacy: high, onset: yesterday, severity: severe","Doctor: What brings you in today?
+Patient: I've had a really sore throat since yesterday and my voice is hoarse. I'm worried it might be serious.
+Doctor: Where exactly do you feel it?
+Patient: It's in the back of my throat, feels like there's a lump there.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started yesterday, like after I finished work. It's been getting worse since then.
+Doctor: Can you describe what it feels like?
+Patient: It's like there's a tight band around my throat, especially when I swallow.
+Doctor: Does it spread anywhere else?
+Patient: No, it's just in my throat, but I do have a cough and my sinuses feel blocked.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got trouble swallowing and my nose feels stuffed up. I've got a blocked nose too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's worse when I try to talk or eat.
+Doctor: Does anything make it better or worse?
+Patient: I don't know, it just stays the same. I'm just worried it could be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's pretty bad, I'd say an 8 or 9.
+Doctor: Have you had anything like this before?
+Patient: I've had this before, but it was only for a few days. It's been bothering me for a few days now.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't taken anything for it, I'm just scared it could get worse.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so. I don't think I have a sinus infection or allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't take any medicines and I don't have any other conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think so. I've been working in the kitchen and cooking for a long time and don't think I've had any allergies.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink or smoke, I don't drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I'm scared it's just a part of cooking and I don't know what's causing it.",,,
+t0075,"Carpal tunnel syndrome | symptoms: numbness; hand pain; arm pain; neck pain; a weak grip; stiff fingers | age: 84, sex: F, ethnicity: Malay, occupation: retiree, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been having numbness in my hand for over a year now. It's quite annoying and I've also noticed some pain in my neck and hand.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my thumb, index, and middle fingers, but sometimes it feels like it's spreading up my arm too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It's been going on for more than a year, but it's not too bad. It's just been happening more often.
+Doctor: Can you describe what it feels like?
+Patient: It feels like my hand is being squeezed, especially when I'm trying to grip things or write.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it moves to my fingers, but not all the time. It's more noticeable when I'm using my hands for a long time.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, sometimes my hands feel stiff, like they're getting worse when I try to hold things or write. And I've noticed my fingers feel a bit stiff sometimes too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's more noticeable when I'm doing my work or resting my hand, like when I'm at home typing.
+Doctor: Does anything make it better or worse?
+Patient: Resting my hand helps a bit, but if I use my hand a lot, it gets worse. I'm more comfortable using it, but it's harder to hold things longer.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's a 9 out of 10, not terrible but it's noticeable. It's annoying and I can't really concentrate on my work.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. I've never had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, this is the first time I've felt this way.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I haven't had any other problems like this before.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't take any regular medications and I don't have any other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my mom is a bit worried about it. I don't have any other health issues.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, just this numbness and hand pain.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, it's just been there since it started.",,,
+t0076,"Viral exanthem | symptoms: a rash; a fever; a cough; a blocked nose | age: 24, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: anxious, health literacy: high, onset: this morning, severity: severe","Doctor: What brings you in today?
+Patient: I have a fever.
+Doctor: Where exactly do you feel it?
+Patient: I'm feeling bad for myself, but I can't really tell.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about 3-4 days ago.
+Doctor: Can you describe what it feels like?
+Patient: It's pretty bad. I feel a little bit sick, but it's normal. It's like I'm dying, but it's normal.
+Doctor: Does it spread anywhere else?
+Patient: I'm not sure.
+Doctor: Have you noticed any other symptoms?
+Patient: Not a lot.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No.
+Doctor: Does anything make it better or worse?
+Patient: Nothing. I'm so sick.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's really bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0077,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a runny nose | age: 19, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: high, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
+Patient: I have a fever, which I have taken for the past two months. The doctor says this is not a fever, it's a cough.
+Doctor: Where exactly do you feel it?
+Patient: It feels like a little bit of a cold, but I've been working with my family, so I don't think anything has gotten better. I can't see anything.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started when I was doing this job and when I got a job and I got an appointment, and I thought I was going to die. I said, ""You know what, it's going to be a cold, I'll be fine. I'll be fine. I'm going to die.""
+Doctor: Can you describe what it feels like?
+Patient: It's just something that happens, but it's not like I can tell you how it is. It's like, I can't really tell you how it is. It's like, it's like a big cloud, it's a cold. I can't talk to you about it.
+Doctor: Does it spread anywhere else?
+Patient: Yes, it spreads in other places. It's just a little bit more.
+Doctor: Have you noticed any other symptoms?
+Patient: No, but I've noticed something called a cold at least once a week. It's like, ""Oh, I don't know if that's the cold, or the stuff that keeps me warm, but it's a cold."" It's like a cold cough, like a cough, but it's like, ""Oh, that's cold. That's not cold, that's not cold.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Sometimes it comes at a different time. It's like, sometimes you get a cough, sometimes you don't, sometimes you don't. Sometimes it starts to come back.
+Doctor: Does anything make it better or worse?
+Patient: No, I think it's just that sometimes it's like, ""Oh, it's getting better. That's the best I can do."" It's like, sometimes it's like, ""Oh, I didn't know it would be this bad.""
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's really bad, but it's better.
+Doctor: Have you had anything like this before?
+Patient: Yes. I haven't. I've had this on an appointment. I was in a hospital.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't tried anything for it. I didn't try anything for it.
+Doctor: Do you have any allergies?
+Patient: No, I don't have allergies. I'm not allergic to anything.
+Doctor: Do you have any other medical conditions?
+Patient: No, I'm not allergic to anything.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, no. I don't have any allergies.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink alcohol.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I can't give you any further information, but I'm going to ask that you give me a copy of your doctor's order.",,,
+t0078,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; lower back pain; peeing often | age: 61, sex: F, ethnicity: Chinese, occupation: accountant, temperament: calm, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been having pain in my side for about five days now.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on the right side, near my back.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago.
+Doctor: Can you describe what it feels like?
+Patient: It's sharp, like someone's poking me with a needle.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it feels like it goes to my lower back.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've been throwing up and I've got a fever too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's been there.
+Doctor: Does anything make it better or worse?
+Patient: It's worse when I move around, but sitting still helps a little.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6 or 7.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I haven't tried anything yet.
+Doctor: Do you have any allergies?
+Patient: No allergies, and I haven't had any recent surgeries.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions that I know of that are known to cause this.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any other conditions that are similar.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke or drink.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, that's pretty much it.",,,
+t0079,"Panic attack | symptoms: shortness of breath; dizziness; numbness; fainting; difficulty breathing; weakness | age: 24, sex: F, ethnicity: Chinese, occupation: civil servant, temperament: terse, health literacy: high, onset: three days ago, severity: severe","Doctor: What brings you in today?
+Patient: I am not a doctor, but you see that I am doing something for the community.
+Doctor: Where exactly do you feel it?
+Patient: It's just a pain. It is not a pain. It is a pain I am experiencing. I am doing something for the community.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I don't know.
+Doctor: Can you describe what it feels like?
+Patient: It's just a pain.
+Doctor: Does it spread anywhere else?
+Patient: It's just a pain.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It is just a pain.
+Doctor: Does anything make it better or worse?
+Patient: It's just a pain.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's just a pain.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0080,"Acute sinusitis | symptoms: a cough; a headache; a headache at the front of the head; a runny nose; a fever; facial pain | age: 21, sex: F, ethnicity: Chinese, occupation: office administrator, temperament: terse, health literacy: low, onset: about three weeks ago, severity: severe","Doctor: What brings you in today?
+Patient: I need to ask you a question. Do you know what it is?
+Doctor: Where exactly do you feel it?
+Patient: You know, my nose is a little tight.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: When you came in the hospital.
+Doctor: Can you describe what it feels like?
+Patient: It feels like it's coming on slowly. I feel like it's coming on in a different way. I don't know how to describe it.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: No. I just think it's not there.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It is in the same place. It's always there.
+Doctor: Does anything make it better or worse?
+Patient: No. It's not really better or worse.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I feel like it's going down. It's going up. It's going up.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I don't know.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No. I'd like to talk to you. I'd like to talk to you.",,,
+t0081,"Sciatica | symptoms: back pain; leg pain; lower back pain | age: 81, sex: M, ethnicity: Chinese, occupation: retiree, temperament: calm, health literacy: high, onset: two days ago, severity: mild","Doctor: What brings you in today?
+Patient: I am very excited about the new book. It was originally called ""Science in the Twenty-First Century"" but now it is called ""The New Science in the Twenty-First Century.""
+Doctor: Where exactly do you feel it?
+Patient: I feel a little bit of a jitters, I feel a little bit of a little bit of a headache.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started when I got my first headache.
+Doctor: Can you describe what it feels like?
+Patient: It's like being stuck in a chair.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: No, no.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No, no.
+Doctor: Does anything make it better or worse?
+Patient: I don't know. I just can't remember what it is.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's not good.
+Doctor: Have you had anything like this before?
+Patient: I have.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I don't take any medication.
+Doctor: Do you have any allergies?
+Patient: No, I don't have any allergies.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any medical conditions.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't have any problems.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink alcohol.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, I don't have any other questions.",,,
+t0082,"Sciatica | symptoms: back pain; leg pain; lower back pain | age: 81, sex: M, ethnicity: Chinese, occupation: retiree, temperament: calm, health literacy: high, onset: two days ago, severity: mild","Doctor: What brings you in today?
+Patient: I've been having some back pain for the past two days.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly in my lower back, but it also goes down to my leg sometimes.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started two days ago, and it's been there ever since.
+Doctor: Can you describe what it feels like?
+Patient: It's a dull ache, mostly in the lower back and leg, but sometimes it radiates down to my leg.
+Doctor: Does it spread anywhere else?
+Patient: No, it stays in my leg.
+Doctor: Have you noticed any other symptoms?
+Patient: I haven't had any numbness or trouble walking, just the leg pain.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there most of the time, but it's not too bad.
+Doctor: Does anything make it better or worse?
+Patient: It's better when I sit down or lie down, but it gets worse when I stand up or walk.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 3, not too bad but noticeable.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time. I haven't had any back pain before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't tried anything specific, but I've been walking around a bit more than usual.
+Doctor: Do you have any allergies?
+Patient: No, I don't have any allergies.
+Doctor: Do you have any other medical conditions?
+Patient: I don't have any other major health issues that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my family is quite healthy except for my mom who is in the military.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I haven't really told you much, just that I hope it's not something serious.",,,
+t0083,"Eczema | symptoms: a rash; itchy skin; skin that looks abnormal; dry skin; sores on the skin | age: 51, sex: M, ethnicity: Malay, occupation: teacher, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been getting this rash on my skin for over a year now, and it's gotten a bit itchy too.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my arms and legs, but sometimes it spreads to my chest.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started slowly, maybe around the same time as the rash. It didn't really get worse at first, but it's gotten worse over time.
+Doctor: Can you describe what it feels like?
+Patient: It's dry and sometimes it feels like there are little bumps, and it's been itchy. Sometimes the skin feels dry and flaky too.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it stays on my arms and legs. But sometimes it seems to spread a bit to my chest, but it's not really painful.
+Doctor: Have you noticed any other symptoms?
+Patient: Sometimes my skin feels very dry and flaky, and I get sores on my skin that look abnormal.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's been pretty consistent. It's been there since it started, but it gets worse when the weather changes.
+Doctor: Does anything make it better or worse?
+Patient: I don't think anything really makes it better. I tried some lotion, but it didn't help much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's about a 6, it's not unbearable, but it's noticeable and annoying.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've felt it like this. I haven't had anything like this before.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No, I don't take any regular medications. I just use some moisturizer for it when I feel it's really itchy.
+Doctor: Do you have any allergies?
+Patient: I don't think so, I don't think it's related to anything I eat or drink.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other major health conditions that I'm aware of.
+Doctor: Does anyone in your family have similar problems?
+Patient: Not really, my mom has it or not. I'm just have this rash on my arms and legs.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink and I don't do not have any other health issues like that.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, I just work as I don't think it's just looks weird.",,,
+t0084,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; lower back pain; peeing often | age: 61, sex: F, ethnicity: Chinese, occupation: accountant, temperament: calm, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I've been having pain in my side for the past five days.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on the right side, just under my ribs.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about five days ago.
+Doctor: Can you describe what it feels like?
+Patient: It's sharp and sometimes it feels like a burning pain.
+Doctor: Does it spread anywhere else?
+Patient: Sometimes it goes down to my lower back.
+Doctor: Have you noticed any other symptoms?
+Patient: I've also been feeling a bit feverish and throwing up.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It comes and goes, but it's been happening more often.
+Doctor: Does anything make it better or worse?
+Patient: It's worse when I eat or lie down.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's around a 6 or 7.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't taken anything yet.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so.
+Doctor: Do you have any other medical conditions?
+Patient: No other conditions that I know of.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my mom and dad don't have it.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink or smoke.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I've been peeing more often too.",,,
+t0085,"Otitis externa (swimmer's ear) | symptoms: ear pain; a blocked feeling in the ear; a fever; itchy ears | age: 30, sex: M, ethnicity: Malay, occupation: software engineer, temperament: terse, health literacy: high, onset: three days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I am a resident of the hospital and my doctor has been very patient with me.
+Doctor: Where exactly do you feel it?
+Patient: In my ears. I feel my ears are going to be better. I am going to get a hearing aid.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I have to look at my ears. It feels good.
+Doctor: Can you describe what it feels like?
+Patient: It's very intense. I can feel it. I can feel the water coming out of my ears.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: No.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's normal. It's a normal thing to have.
+Doctor: Does anything make it better or worse?
+Patient: It does. It does.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I can't tell you anything about it. I have no idea.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0086,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a headache; sinus pain | age: 40, sex: M, ethnicity: Chinese, occupation: chef, temperament: anxious, health literacy: low, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
+Patient: I've got a cough and a blocked nose. It started about three weeks ago.
+Doctor: Where exactly do you feel it?
+Patient: It's in my chest, but sometimes it feels like my throat is sore too.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It just started gradually, I don't think it got worse at any specific time.
+Doctor: Can you describe what it feels like?
+Patient: It's a sore throat, but I also get headaches and sinus pain. I'm worried it might be something serious.
+Doctor: Does it spread anywhere else?
+Patient: No, it's mostly just in my chest and throat.
+Doctor: Have you noticed any other symptoms?
+Patient: Yeah, I've got sinus pain too, and I've got sinus pain too.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there all the time, but it's not too bad. Just annoying.
+Doctor: Does anything make it better or worse?
+Patient: I don't think anything makes it better. I'm just scared it could be something serious.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: I'd say it's around a 4 or 5. It's not unbearable, but it's annoying.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had it like this. I'm really scared about what it could be.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I don't take any regular medicine, and I haven't tried anything yet. I'm just worried it could be something serious.
+Doctor: Do you have any allergies?
+Patient: No, I don't think so. I'm just scared it might be something serious.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't have any other conditions that I know of. Just this cough and the headache.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, I don't think so. I'm just think I might have it because I'm working in the kitchen and I'm scared about it.
+Doctor: Do you smoke or drink alcohol?
+Patient: I don't drink or smoke, but I do take some tea and coffee sometimes I do smoke occasionally. I'm not really know what's going on.
+Doctor: Is there anything else you'd like to tell me?
+Patient: I'm just want to know if it's serious. I'm scared it's something serious, I don't know, really.",,,
+t0087,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; allergic reactions | age: 51, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: high, onset: yesterday, severity: mild","Doctor: What brings you in today?
+Patient: I've got this rash on my arm and it's been bothering me since yesterday. It's mostly itchy, but I also have some dry skin.
+Doctor: Where exactly do you feel it?
+Patient: It's mostly on my upper arm, near my elbow. It's not very dry though.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started yesterday, I think after I used some hand sanitizer at work. I think it got worse as the day went on.
+Doctor: Can you describe what it feels like?
+Patient: It's mostly a dry, itchy feeling, not really painful or burning, just itchy. I also noticed some red spots on my hands and feet.
+Doctor: Does it spread anywhere else?
+Patient: Not really, it's just on my arm. But my skin feels really dry all over.
+Doctor: Have you noticed any other symptoms?
+Patient: My skin feels very dry all over, and I've got some allergic reactions too. I've been scratching a lot, but it doesn't seem to be helping much.
+Doctor: Is it there all the time, or does it come and go?
+Patient: It's there most of the time, but not as bad as it used to be. Just itchy and dry.
+Doctor: Does anything make it better or worse?
+Patient: I don't really know, nothing seems to help it much. I tried some over-the-counter creams, but they didn't really help much.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's not too bad, maybe a 3 out of 10.
+Doctor: Have you had anything like this before?
+Patient: No, this is the first time I've had anything like this. I've also been feeling a bit anxious about it, I guess because it's been bothering me.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't taken any new meds. I'm just trying to stay dry and avoid scratching.
+Doctor: Do you have any allergies?
+Patient: I do have some allergies, but I don't think it's related to my skin. I'm just have these things that come and go, but I don't know why they're always come and go.
+Doctor: Do you have any other medical conditions?
+Patient: No, I don't take any regular medications. Just these are just my usual stuff.
+Doctor: Does anyone in your family have similar problems?
+Patient: No, my mom has allergies too, no family history like this.
+Doctor: Do you smoke or drink alcohol?
+Patient: No, I don't drink and I don't drink a lot of other stuff.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No, I'm just eat and I don't do not.",,,
+t0088,"Eczema | symptoms: a rash; itchy skin; skin that looks abnormal; dry skin; sores on the skin | age: 51, sex: M, ethnicity: Malay, occupation: teacher, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
+Patient: I'm a nurse. I don't care about you, I care about you, so let me be a nurse. I'll be the one who's going to help you.
+Doctor: Where exactly do you feel it?
+Patient: I don't know, it's just that I don't know.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It started about 5 years ago. It's a good thing. It's normal. I was born in India. It's the first time I've been called a doctor. It's not a bad thing.
+Doctor: Can you describe what it feels like?
+Patient: It's a very good feeling, it's a very good feeling. It's a very good feeling.
+Doctor: Does it spread anywhere else?
+Patient: It's spreading everywhere. It's spread in a very big way. It's spread all over the place. It's spreading in the streets.
+Doctor: Have you noticed any other symptoms?
+Patient: I've noticed no symptoms. It's just that it's very easy to get the diagnosis.
+Doctor: Is it there all the time, or does it come and go?
+Patient: No, it's there all the time. It's very easy to get the diagnosis.
+Doctor: Does anything make it better or worse?
+Patient: Nothing. It's just that there is something different. I like it.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: It's not bad.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: I haven't tried anything.
+Doctor: Do you have any allergies?
+Patient: I don't have any allergies.
+Doctor: Do you have any other medical conditions?
+Patient: I have no health problems.
+Doctor: Does anyone in your family have similar problems?
+Patient: Yes, I do. I have no other problems.
+Doctor: Do you smoke or drink alcohol?
+Patient: Yes.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,
+t0089,"Panic attack | symptoms: shortness of breath; dizziness; numbness; fainting; difficulty breathing; weakness | age: 24, sex: F, ethnicity: Chinese, occupation: civil servant, temperament: terse, health literacy: high, onset: three days ago, severity: severe","Doctor: What brings you in today?
+Patient: Shortness of breath.
+Doctor: Where exactly do you feel it?
+Patient: Chest.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: Three days ago.
+Doctor: Can you describe what it feels like?
+Patient: Dizzy, numbness in hands.
+Doctor: Does it spread anywhere else?
+Patient: No.
+Doctor: Have you noticed any other symptoms?
+Patient: Numbness in hands.
+Doctor: Is it there all the time, or does it come and go?
+Patient: Constant.
+Doctor: Does anything make it better or worse?
+Patient: Resting helps.
+Doctor: On a scale of 0 to 10, how bad is it?
+Patient: 8.
+Doctor: Have you had anything like this before?
+Patient: No.
+Doctor: Are you taking any medication, or have you tried anything for it?
+Patient: No.
+Doctor: Do you have any allergies?
+Patient: No.
+Doctor: Do you have any other medical conditions?
+Patient: No.
+Doctor: Does anyone in your family have similar problems?
+Patient: No.
+Doctor: Do you smoke or drink alcohol?
+Patient: No.
+Doctor: Is there anything else you'd like to tell me?
+Patient: No.",,,

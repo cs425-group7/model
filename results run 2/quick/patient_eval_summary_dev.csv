@@ -1,0 +1,3 @@
+system,dialogues,mentioned,on_card,symptom_fidelity,coverage,leakage,empty_replies,reply_words,stage2_dev_loss
+gpt2 prompted,3,0,0,,0.0,0.0,0,10.25,
+stage2-gpt2-lr5e-05,3,9,6,0.667,0.283,0.0,0,24.5,3.096
