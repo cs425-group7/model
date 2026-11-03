@@ -1,0 +1,30 @@
+{
+  "_comment": "Condition cards written by the team, in Symcat's format (symptom -> P(symptom | condition)). Symcat's dengue entry fails the quality filter (ten symptoms tied at 32%) and Symcat has no HFMD entry. Each probability is marked as measured (with its source) or as a team estimate taken from clinical descriptions; estimates are not epidemiological frequencies.",
+  "Dengue fever": {
+    "symptoms": {
+      "Fever": 0.95, "Headache": 0.84, "Muscle pain": 0.76, "Nausea": 0.71, "Joint pain": 0.62,
+      "Diarrhea": 0.38, "Pain in eye": 0.35, "Skin rash": 0.30, "Vomiting": 0.29, "Cough": 0.25,
+      "Sore throat": 0.22, "Sharp abdominal pain": 0.17
+    },
+    "synonyms": ["Dengue", "Breakbone fever"],
+    "estimated": ["Fever", "Pain in eye"],
+    "sources": {
+      "measured": "Ho HJ, Wong JGX, Kyaw WM, Lye DC, Leo YS, Chow A. Diagnostic Accuracy of Parameters for Zika and Dengue Virus Infections, Singapore. Emerg Infect Dis. 2017;23(12). Table 2: per-symptom sensitivity in the dengue cohort, i.e. P(symptom | dengue). https://wwwnc.cdc.gov/eid/article/23/12/17-1224-t2",
+      "estimated": "Fever: dengue presents as an acute febrile illness (the cohort's 57% is measured temperature >37.5C at presentation, not reported fever). Pain in eye: retro-orbital pain, a classic dengue symptom listed in the Singapore National Dengue Clinical Guideline; value is a team estimate."
+    }
+  },
+  "Hand, foot and mouth disease (HFMD)": {
+    "symptoms": {
+      "Fever": 0.80, "Mouth ulcer": 0.78, "Skin rash": 0.64, "Skin lesion": 0.55, "Sore throat": 0.50,
+      "Mouth pain": 0.45, "Decreased appetite": 0.40, "Feeling ill": 0.35, "Fatigue": 0.25, "Headache": 0.20,
+      "Hand or finger pain": 0.15, "Foot or toe pain": 0.12
+    },
+    "synonyms": ["Hand foot and mouth disease", "Hand, foot, and mouth disease", "HFMD", "Coxsackievirus infection"],
+    "estimated": ["Fever", "Skin lesion", "Sore throat", "Mouth pain", "Decreased appetite", "Feeling ill", "Fatigue",
+                  "Headache", "Hand or finger pain", "Foot or toe pain"],
+    "sources": {
+      "measured": "Oral ulcers 78% and erythematous skin rash 64% among admitted (paediatric) HFMD cases: Clinical characteristics and factors associated with the severity of hand, foot, and mouth disease in Mekong Delta, Vietnam (2025). https://www.tandfonline.com/doi/full/10.1080/02673843.2025.2528347",
+      "estimated": "Remaining symptoms and values are team estimates from clinical descriptions of HFMD (fever, sore throat, poor appetite and malaise before mouth sores and blisters on the palms and soles). Adult presentations are less well described."
+    }
+  }
+}

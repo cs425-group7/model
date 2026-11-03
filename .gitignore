@@ -1,5 +1,11 @@
 .venv/
 __pycache__/
 .ipynb_checkpoints/
-data/processed/
+data/processed/*
+!data/processed/cards/
+!data/processed/dialogues/
+data/processed/dialogues/rejected_attempts.jsonl
 data/raw/diagnose-me/en_medical_dialog.json
+data/raw/symcat/
+checkpoints/
+data/processed/dialogues/*.log
