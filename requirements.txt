@@ -1,7 +1,10 @@
 transformers>=4.44
 datasets>=2.20
 torch>=2.3
+accelerate>=0.33
+numpy
 pandas>=2.2
 jupyter
 ipykernel
 nbconvert
+pytest

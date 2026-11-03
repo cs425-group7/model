@@ -1,0 +1,101 @@
+n,dialogue_id,disease,version,in_character_1to5,on_card_yn,doctor_ok_yn,no_giveaway_yn,reviewer,notes
+1,acute-bronchitis-032-d0,Acute bronchitis,975dab7d,4,Y,Y,Y,Shiv,Last answer recites every symptom back as a list
+2,acute-otitis-media-005-d2,Acute otitis media,13425571,4,Y,Y,Y,Shiv,Anxiety shows only once ('getting me worried')
+3,acute-sinusitis-001-d0,Acute sinusitis,ced3c314,4,Y,Y,Y,Shiv,Sore throat revealed twice; 'severe' not conveyed
+4,anxiety-016-d2,Anxiety,e0c4546e,4,Y,Y,Y,Shiv,Anxiety only as 'stressed out'; 'these shortness of breath' grammar slip
+5,aphthous-ulcer-013-d2,Aphthous ulcer,b44176af,4,Y,Y,Y,Shiv,"Worried from the start; 'describe the pain from the ulcers' comes before pain was said (ulcers hurt, so fair)"
+6,appendicitis-010-d1,Appendicitis,8d6a406a,4,Y,Y,Y,Shiv,Good history; pain 5-7/10 vs 'mild' persona
+7,asthma-009-d0,Asthma,34ff9a5b,4,Y,Y,Y,Shiv,Asks about pain before its site; no question is answered 'no'
+8,athlete-s-foot-007-d1,Athlete's foot,c981fe4a,3,Y,Y,Y,Shiv,"'Skin feels abnormal' is Symcat wording, not a terse low-literacy patient; nurse with low health literacy is an odd persona"
+9,benign-paroxysmal-positional-vertical-bppv-029-d0,Benign paroxysmal positional vertigo (BPPV),1486b8a5,5,Y,Y,Y,Shiv,Good positional history
+10,benign-prostatic-hyperplasia-bph-004-d0,Benign prostatic hyperplasia (BPH),3bb17d1c,4,Y,Y,Y,Shiv,'Where exactly do you feel the trouble?' is checklist-driven
+11,carpal-tunnel-syndrome-031-d0,Carpal tunnel syndrome,a95dd6b1,4,Y,Y,Y,Shiv,Pain question answered with pins and needles; worse at night fits
+12,chickenpox-020-d1,Chickenpox,c08615a9,4,Y,Y,Y,Shiv,"Worry voiced once, at the end; 'didn't feel it was painful until now' is odd"
+13,chronic-constipation-001-d1,Chronic constipation,fb9e2da0,5,Y,Y,Y,Shiv,Asks about pain before its site; good history
+14,cold-sore-001-d0,Cold sore,38f3ac5c,4,Y,Y,Y,Shiv,Card is Symcat noise (cold sore + vaginal discharge + swollen hands); patient plays it straight
+15,common-cold-003-d2,Common cold,dac112c2,4,Y,Y,Y,Shiv,Severe persona not conveyed
+16,conjunctivitis-013-d1,Conjunctivitis,cde4fc4b,4,Y,Y,Y,Shiv,"Good terse patient; 'Swollen eye, not eyelid' slightly odd"
+17,contact-dermatitis-011-d2,Contact dermatitis,f002c083,5,Y,Y,Y,Shiv,
+18,dengue-fever-026-d1,Dengue fever,1dc9ca32,4,Y,Y,Y,Shiv,No travel/mosquito question for a febrile illness
+19,depression-031-d2,Depression,20f65b79,4,Y,Y,Y,Shiv,
+20,ear-wax-impaction-001-d1,Ear wax impaction,8d7e78dd,4,Y,Y,Y,Shiv,'Where exactly in your ear do you feel the blockage?' is checklist-driven (better: which ear); cough and fever are Symcat noise
+21,eczema-031-d2,Eczema,3183c349,4,Y,Y,Y,Shiv,Eczema that does not itch (itching is not on this card)
+22,flu-009-d1,Flu,64cf6a09,5,Y,Y,Y,Shiv,
+23,fungal-infection-of-the-skin-030-d2,Fungal infection of the skin,e094929d,4,Y,N,Y,Shiv,"Doctor asks about hair loss out of nowhere for a rash on the arms and legs (hidden card, again after regeneration)"
+24,gallstone-023-d2,Gallstone,0728c09f,4,Y,Y,Y,Shiv,"'No, it just started yesterday' does not answer the food question"
+25,gastritis-013-d1,Gastritis,a5845ea5,4,Y,Y,Y,Shiv,
+26,gastroesophageal-reflux-disease-gerd-026-d0,Gastroesophageal reflux disease (GERD),f370079e,4,Y,Y,Y,Shiv,Doctor re-asks onset; lying down helping is atypical for reflux
+27,gout-031-d0,Gout,c5297375,4,Y,Y,Y,Shiv,
+28,hand-foot-and-mouth-disease-hfmd-015-d2,"Hand, foot and mouth disease (HFMD)",c03bc006,4,Y,Y,Y,Shiv,Asks how long after the patient said 'since last night'
+29,heat-exhaustion-000-d0,Heat exhaustion,23d9ac41,5,Y,Y,Y,Shiv,Heat exhaustion lasting five days is implausible (onset list)
+30,hemorrhoids-007-d2,Hemorrhoids,5726d88c,4,Y,Y,Y,Shiv,"Doctor bundles stomach, chest and runny nose in one question"
+31,herpangina-021-d1,Herpangina,d4d6eb59,4,Y,Y,Y,Shiv,Chatty persona barely shows; asking about skin after fever and mouth sores is fair
+32,impetigo-017-d1,Impetigo,e4a40f53,5,Y,Y,Y,Shiv,"Good, includes sick contacts and travel"
+33,indigestion-013-d2,Indigestion,9dc9af1e,4,Y,Y,Y,Shiv,No question is answered 'no'
+34,infectious-gastroenteritis-006-d1,Infectious gastroenteritis,e9db46c9,4,Y,Y,Y,Shiv,Headache revealed inside a denial
+35,insect-bite-010-d0,Insect bite,3d8192d2,5,Y,Y,Y,Shiv,
+36,irritable-bowel-syndrome-020-d1,Irritable bowel syndrome,a1c6bf71,5,Y,Y,Y,Shiv,
+37,kidney-stone-007-d1,Kidney stone,04c39157,4,Y,Y,Y,Shiv,"'A sharp pain, but not really sharp'"
+38,lactose-intolerance-005-d2,Lactose intolerance,373dc4ec,4,Y,Y,Y,Shiv,"Muscle pain revealed twice; card is Symcat noise (shortness of breath, muscle pain)"
+39,laryngitis-021-d0,Laryngitis,f8aa464c,4,Y,Y,Y,Shiv,
+40,lateral-epicondylitis-tennis-elbow-006-d0,Lateral epicondylitis (tennis elbow),0519b182,5,Y,Y,Y,Shiv,
+41,lumbago-019-d1,Lumbago,26fc7a2d,5,Y,Y,Y,Shiv,
+42,migraine-018-d2,Migraine,1933a803,5,Y,Y,Y,Shiv,Odd closing remark
+43,mononucleosis-031-d2,Mononucleosis,7db0b79b,4,Y,Y,Y,Shiv,'Pain around my neck' with swollen glands is borderline off the card
+44,muscle-spasm-015-d0,Muscle spasm,70a3708d,4,Y,Y,Y,Shiv,'My leg feels fine' right after leg pain
+45,osteoarthritis-002-d2,Osteoarthritis,4a38a4c6,5,Y,Y,Y,Shiv,
+46,otitis-externa-swimmer-s-ear-020-d2,Otitis externa (swimmer's ear),ef107e53,4,N,Y,Y,Shiv,"Patient says the ear is swollen (off card, minor)"
+47,panic-attack-030-d2,Panic attack,9581a2de,4,Y,Y,Y,Shiv,Headache stated twice
+48,pneumonia-008-d1,Pneumonia,ed963997,5,Y,Y,Y,Shiv,"No fever question for a cough with breathlessness; label 2nd-3rd (viral exanthem, GERD) are noise"
+49,primary-insomnia-020-d0,Primary insomnia,d7467fcb,4,Y,Y,Y,Shiv,'Any pain with your trouble sleeping?' is checklist-driven; apnoea never comes up
+50,pyelonephritis-005-d1,Pyelonephritis,fc145794,5,Y,Y,Y,Shiv,
+51,sciatica-026-d1,Sciatica,cde0a6a9,4,Y,Y,Y,Shiv,Doctor re-asks onset and spread after patient gave both
+52,seasonal-allergies-hay-fever-015-d1,Seasonal allergies (hay fever),08fc7527,4,Y,N,Y,Shiv,Doctor asks about fever twice
+53,shingles-herpes-zoster-001-d0,Shingles (herpes zoster),c62f1f97,4,Y,Y,Y,Shiv,"Question about the feet comes from the negatives, not the history"
+54,sprain-or-strain-031-d1,Sprain or strain,5ad2502e,3,N,Y,Y,Shiv,Patient denies joint pain with knee and ankle pain on the card (negative overlaps the card); 'Headache' as where the pain spreads
+55,strep-throat-020-d1,Strep throat,49a83d5a,5,Y,Y,Y,Shiv,
+56,stye-031-d0,Stye,dc61f682,5,Y,Y,Y,Shiv,
+57,tension-headache-010-d0,Tension headache,f1369bb4,4,Y,Y,Y,Shiv,"Patient denies symptoms nobody asked about (runny nose, trouble sleeping)"
+58,tonsillitis-003-d2,Tonsillitis,3e4ee69c,4,Y,N,Y,Shiv,Doctor asks exactly the hidden 'red ear or pauses in breathing while sleeping'
+59,urinary-tract-infection-002-d0,Urinary tract infection,25af17a2,5,Y,Y,Y,Shiv,
+60,vaginal-yeast-infection-014-d0,Vaginal yeast infection,1e49382a,4,Y,Y,Y,Shiv,"'Pain elsewhere, like in your stomach?' slightly leading; pregnancy on the card never comes up"
+61,viral-exanthem-016-d1,Viral exanthem,c890dd77,4,Y,Y,Y,Shiv,
+62,benign-paroxysmal-positional-vertical-bppv-014-d2,Benign paroxysmal positional vertigo (BPPV),bb268178,5,Y,Y,Y,Shiv,"Positional dizziness fits; 'any pain, especially in your head?' slightly leading"
+63,gastritis-023-d2,Gastritis,73ef9b15,5,Y,Y,Y,Shiv,
+64,carpal-tunnel-syndrome-023-d0,Carpal tunnel syndrome,c5181544,5,Y,Y,Y,Shiv,
+65,lumbago-005-d2,Lumbago,56b52d75,3,Y,Y,Y,Shiv,Patient recites 'no sharp stomach pain' (Symcat wording); moving helps vs hurts; doctor re-asks onset
+66,hemorrhoids-013-d2,Hemorrhoids,2d9e04c8,5,Y,Y,Y,Shiv,
+67,pneumonia-032-d2,Pneumonia,d1981509,4,Y,Y,Y,Shiv,Asks about trouble breathing right after the patient said it
+68,laryngitis-018-d1,Laryngitis,a4035de5,4,N,Y,Y,Shiv,"'Ears feel stuffed up' is a blocked ear, not the ear pain on the card (minor)"
+69,dengue-fever-005-d2,Dengue fever,546a6690,5,Y,Y,Y,Shiv,Asks bowels and rash after fever and joint pain; stomach pain denied
+70,lateral-epicondylitis-tennis-elbow-004-d1,Lateral epicondylitis (tennis elbow),e55a2530,4,Y,Y,Y,Shiv,"Shoulder said twice (site, then spread); no question is answered 'no'"
+71,lactose-intolerance-019-d0,Lactose intolerance,58d85b35,5,Y,Y,Y,Shiv,Good terse patient; bloating and blood denied
+72,fungal-infection-of-the-skin-006-d0,Fungal infection of the skin,97d72e2d,5,Y,Y,Y,Shiv,
+73,heat-exhaustion-008-d1,Heat exhaustion,c6f4ca21,4,Y,N,Y,Shiv,'Do you feel like you're retaining more fluid?' asks the hidden card symptom in Symcat terms; heat exhaustion for five days
+74,athlete-s-foot-018-d2,Athlete's foot,8eaede88,5,Y,Y,Y,Shiv,
+75,ear-wax-impaction-026-d0,Ear wax impaction,f1d96d46,4,Y,Y,Y,Shiv,Cough question comes from nowhere
+76,depression-002-d0,Depression,7dc4466b,4,Y,Y,Y,Shiv,Patient denies runny nose and cough unprompted; label 3rd (tonsillitis) is noise
+77,tension-headache-011-d2,Tension headache,289f9f07,5,Y,Y,Y,Shiv,
+78,gastroesophageal-reflux-disease-gerd-031-d2,Gastroesophageal reflux disease (GERD),4401d95d,3,Y,Y,Y,Shiv,"'Upper stomach, right behind my breastbone'; 'No heartburn, but no pain...'; doctor re-asks onset"
+79,dengue-fever-009-d2,Dengue fever,1159ec50,4,Y,Y,Y,Shiv,Asks when the fever started after 'since this morning'; eye pain in bright light is close to photophobia (off the card)
+80,primary-insomnia-030-d0,Primary insomnia,3bced525,4,Y,N,Y,Shiv,Patient reports a seizure and the doctor moves on to sore throat (unsafe); seizures on an insomnia card is Symcat noise
+81,lumbago-004-d0,Lumbago,03f404e7,4,Y,Y,Y,Shiv,Asks about spread after the patient already said legs and hips
+82,heat-exhaustion-019-d1,Heat exhaustion,84fea6a9,4,Y,Y,Y,Shiv,
+83,urinary-tract-infection-026-d1,Urinary tract infection,fed7359c,4,Y,N,Y,Shiv,Doctor asks about 'the pain just above your pubic bone' before the patient mentioned it (hidden card; the filter cannot see it)
+84,gallstone-008-d2,Gallstone,2fafff22,4,Y,Y,Y,Shiv,
+85,insect-bite-008-d0,Insect bite,459cce45,4,Y,Y,Y,Shiv,
+86,appendicitis-030-d2,Appendicitis,55f278e3,4,Y,Y,Y,Shiv,
+87,gastritis-009-d0,Gastritis,59e479f6,4,Y,Y,Y,Shiv,
+88,anxiety-012-d0,Anxiety,0ee617a2,5,Y,Y,Y,Shiv,
+89,infectious-gastroenteritis-009-d2,Infectious gastroenteritis,d62dd86f,4,Y,Y,Y,Shiv,'Don't feel like eating much' edges toward an off-card poor appetite
+90,mononucleosis-013-d2,Mononucleosis,44eb2aa2,4,Y,Y,Y,Shiv,Doctor re-asks onset
+91,heat-exhaustion-011-d1,Heat exhaustion,77c810da,5,Y,Y,Y,Shiv,
+92,athlete-s-foot-001-d1,Athlete's foot,24b51e9b,5,Y,Y,Y,Shiv,
+93,fungal-infection-of-the-skin-011-d0,Fungal infection of the skin,55a476c8,5,Y,N,Y,Shiv,Doctor asks about hair loss out of nowhere (the hidden card)
+94,vaginal-yeast-infection-031-d2,Vaginal yeast infection,d73d1710,4,Y,Y,Y,Shiv,"'Any skin issues elsewhere, like itchy skin?' is leading"
+95,infectious-gastroenteritis-006-d0,Infectious gastroenteritis,bb2481c2,5,Y,Y,Y,Shiv,
+96,fungal-infection-of-the-skin-015-d2,Fungal infection of the skin,c25ac58c,5,Y,Y,Y,Shiv,
+97,shingles-herpes-zoster-026-d1,Shingles (herpes zoster),bea75bfc,4,Y,Y,Y,Shiv,Facial pain stated twice
+98,migraine-025-d2,Migraine,180b02b8,3,Y,Y,Y,Shiv,Chatty persona gives short answers
+99,primary-insomnia-018-d1,Primary insomnia,518133fe,4,Y,Y,Y,Shiv,Doctor re-asks onset; label 3rd (herpangina) is noise
+100,conjunctivitis-003-d2,Conjunctivitis,7a12bf6b,5,Y,Y,Y,Shiv,Label 3rd (lactose intolerance) is noise
