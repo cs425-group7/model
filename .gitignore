@@ -9,3 +9,6 @@ data/raw/diagnose-me/en_medical_dialog.json
 data/raw/symcat/
 checkpoints/
 data/processed/dialogues/*.log
+data/processed/
+data/raw/diagnose-me/en_medical_dialog.json
+models/

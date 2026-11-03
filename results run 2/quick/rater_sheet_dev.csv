@@ -1,0 +1,25 @@
+sheet_id,card,transcript,rater_1,rater_2,notes
+t0000,"Acute otitis media | symptoms: ear pain; a fever; a cough; a blocked nose; a sore throat | age: 59, sex: F, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: high, onset: two days ago, severity: moderate","Doctor: What brings you in today?
+Patient: I was feeling sick and tired, but I had no trouble getting through the day. I've been in the hospital for the last two days. My
+Doctor: Where exactly do you feel it?
+Patient: I'm in the bathroom, and my patient's cough was blocked. My patient is on a high dose of aspirin, so my cough is getting worse
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: About three weeks ago, I had a bad cough, and a fever, but it got worse in the last two days.I've never had anything
+Doctor: Can you describe what it feels like?
+Patient: I feel like my nose is getting bigger, and I'm getting a lot more sore throat. I have a bit of sore throat in the right nost",,,
+t0001,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; trouble moving; weakness; reduced hearing | age: 65, sex: M, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: high, onset: this morning, severity: moderate","Doctor: What brings you in today?
+Patient: Good afternoon. I was having an epileptic fit which I have been having since day one. I'm a bit dizzy, but I am fine
+Doctor: Where exactly do you feel it?
+Patient: Oh, my head. My back is very tired. I've got a couple of broken bones in my back that I need to rest up for a
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: No, it just started suddenly when I was about 8 years old. I've been using these pills since I was a little girl.They're pretty
+Doctor: Can you describe what it feels like?
+Patient: I've had the feeling of getting dizzy or having a headache or something. It's been quite a while since I've felt that kind of pain",,,
+t0002,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; pain in the lower stomach; pain just above the pubic bone | age: 85, sex: M, ethnicity: Malay, occupation: retiree, temperament: anxious, health literacy: medium, onset: this morning, severity: mild","Doctor: What brings you in today?
+Patient: I am anxious about my stomach. It is getting better. It's been bad for the past few days, but my stomach's been getting better.
+Doctor: Where exactly do you feel it?
+Patient: My stomach is really fine, though it feels really bad. I'm just going to sit up, and breathe. I'm getting a little bit of
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It's been good for a couple of days. It's been good, it's really good, but I've got a big sore throat. I
+Doctor: Can you describe what it feels like?
+Patient: I feel like I'm being really hard on my stomach. It's going down a bit, but I'm getting really sore. It's just not",,,

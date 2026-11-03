@@ -1,0 +1,49 @@
+system,card_id,disease,mentioned,on_card,off_card_symptoms,coverage,leaked,empty_replies,reply_words,transcript
+gpt2 prompted,acute-otitis-media-029,Acute otitis media,0,0,,0.0,False,0,4.0,"Doctor: What brings you in today?
+Patient: It's really bad.
+Doctor: Where exactly do you feel it?
+Patient: It's on my throat.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I've never seen it.
+Doctor: Can you describe what it feels like?
+Patient: It's like a small lump."
+gpt2 prompted,benign-paroxysmal-positional-vertical-bppv-012,Benign paroxysmal positional vertigo (BPPV),0,0,,0.0,False,0,7.25,"Doctor: What brings you in today?
+Patient: I feel very happy and I feel very happy today.
+Doctor: Where exactly do you feel it?
+Patient: Well, I feel very happy here, I feel very happy.
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I didn't know. I don't know.
+Doctor: Can you describe what it feels like?
+Patient: It's very good."
+gpt2 prompted,pyelonephritis-022,Pyelonephritis,0,0,,0.0,False,0,19.5,"Doctor: What brings you in today?
+Patient: I am not sure. I am very interested in your case and your symptoms.
+Doctor: Where exactly do you feel it?
+Patient: It is quite a good problem. I am very concerned about the diagnosis. I am very concerned about the type of patient you are, the kind of
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: I have a great interest in your case and your symptoms.
+Doctor: Can you describe what it feels like?
+Patient: It is very good. It is very good. It is very good. I do not know what it is. I have no idea what it is"
+stage2-gpt2-lr5e-05,acute-otitis-media-029,Acute otitis media,5,4,Fatigue,0.6,False,0,25.5,"Doctor: What brings you in today?
+Patient: I was feeling sick and tired, but I had no trouble getting through the day. I've been in the hospital for the last two days. My
+Doctor: Where exactly do you feel it?
+Patient: I'm in the bathroom, and my patient's cough was blocked. My patient is on a high dose of aspirin, so my cough is getting worse
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: About three weeks ago, I had a bad cough, and a fever, but it got worse in the last two days.I've never had anything
+Doctor: Can you describe what it feels like?
+Patient: I feel like my nose is getting bigger, and I'm getting a lot more sore throat. I have a bit of sore throat in the right nost"
+stage2-gpt2-lr5e-05,benign-paroxysmal-positional-vertical-bppv-012,Benign paroxysmal positional vertigo (BPPV),3,2,Headache,0.25,False,0,24.75,"Doctor: What brings you in today?
+Patient: Good afternoon. I was having an epileptic fit which I have been having since day one. I'm a bit dizzy, but I am fine
+Doctor: Where exactly do you feel it?
+Patient: Oh, my head. My back is very tired. I've got a couple of broken bones in my back that I need to rest up for a
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: No, it just started suddenly when I was about 8 years old. I've been using these pills since I was a little girl.They're pretty
+Doctor: Can you describe what it feels like?
+Patient: I've had the feeling of getting dizzy or having a headache or something. It's been quite a while since I've felt that kind of pain"
+stage2-gpt2-lr5e-05,pyelonephritis-022,Pyelonephritis,1,0,Sore throat,0.0,False,0,23.25,"Doctor: What brings you in today?
+Patient: I am anxious about my stomach. It is getting better. It's been bad for the past few days, but my stomach's been getting better.
+Doctor: Where exactly do you feel it?
+Patient: My stomach is really fine, though it feels really bad. I'm just going to sit up, and breathe. I'm getting a little bit of
+Doctor: When did it start, and did it come on suddenly or gradually?
+Patient: It's been good for a couple of days. It's been good, it's really good, but I've got a big sore throat. I
+Doctor: Can you describe what it feels like?
+Patient: I feel like I'm being really hard on my stomach. It's going down a bit, but I'm getting really sore. It's just not"

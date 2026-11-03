@@ -1,0 +1,91 @@
+sheet_id,system,card_id
+t0000,stage2-gpt2-lr0.0001,contact-dermatitis-020
+t0001,gpt2 prompted,pyelonephritis-010
+t0002,stage2-gpt2-lr0.0001,tonsillitis-020
+t0003,stage2-gpt2-medium-lr5e-05,contact-dermatitis-020
+t0004,gpt2 prompted,acute-sinusitis-010
+t0005,gpt2 prompted,tonsillitis-025
+t0006,stage2-gpt2-lr0.0001,contact-dermatitis-006
+t0007,stage2-gpt2-medium-lr5e-05,athlete-s-foot-023
+t0008,gpt2 prompted,contact-dermatitis-020
+t0009,stage2-gpt2-lr0.0001,eczema-025
+t0010,stage2-gpt2-medium-lr5e-05,panic-attack-032
+t0011,stage2-gpt2-lr0.0001,athlete-s-foot-023
+t0012,stage2-gpt2-lr0.0001,tonsillitis-025
+t0013,stage2-gpt2-medium-lr5e-05,tonsillitis-025
+t0014,gpt2 prompted,dengue-fever-014
+t0015,gpt2 prompted,asthma-014
+t0016,gpt2 prompted,migraine-027
+t0017,gpt2 prompted,viral-exanthem-002
+t0018,stage2-gpt2-lr0.0001,muscle-spasm-005
+t0019,stage2-gpt2-medium-lr5e-05,acute-sinusitis-018
+t0020,stage2-gpt2-medium-lr5e-05,depression-022
+t0021,stage2-gpt2-medium-lr5e-05,contact-dermatitis-006
+t0022,stage2-gpt2-medium-lr5e-05,indigestion-021
+t0023,stage2-gpt2-lr0.0001,acute-sinusitis-010
+t0024,stage2-gpt2-lr0.0001,asthma-005
+t0025,gpt2 prompted,contact-dermatitis-030
+t0026,stage2-gpt2-medium-lr5e-05,benign-paroxysmal-positional-vertical-bppv-009
+t0027,stage2-gpt2-medium-lr5e-05,carpal-tunnel-syndrome-000
+t0028,stage2-gpt2-lr0.0001,acute-sinusitis-016
+t0029,stage2-gpt2-medium-lr5e-05,indigestion-020
+t0030,gpt2 prompted,contact-dermatitis-006
+t0031,stage2-gpt2-medium-lr5e-05,common-cold-015
+t0032,gpt2 prompted,athlete-s-foot-023
+t0033,stage2-gpt2-lr0.0001,dengue-fever-014
+t0034,stage2-gpt2-lr0.0001,laryngitis-019
+t0035,gpt2 prompted,indigestion-021
+t0036,stage2-gpt2-lr0.0001,indigestion-020
+t0037,stage2-gpt2-lr0.0001,asthma-014
+t0038,gpt2 prompted,carpal-tunnel-syndrome-000
+t0039,stage2-gpt2-medium-lr5e-05,migraine-027
+t0040,gpt2 prompted,urinary-tract-infection-019
+t0041,gpt2 prompted,muscle-spasm-005
+t0042,stage2-gpt2-medium-lr5e-05,shingles-herpes-zoster-006
+t0043,gpt2 prompted,tonsillitis-020
+t0044,stage2-gpt2-lr0.0001,sciatica-028
+t0045,gpt2 prompted,depression-022
+t0046,gpt2 prompted,shingles-herpes-zoster-006
+t0047,gpt2 prompted,asthma-005
+t0048,gpt2 prompted,laryngitis-019
+t0049,stage2-gpt2-lr0.0001,common-cold-015
+t0050,gpt2 prompted,common-cold-015
+t0051,stage2-gpt2-medium-lr5e-05,urinary-tract-infection-019
+t0052,gpt2 prompted,benign-paroxysmal-positional-vertical-bppv-009
+t0053,stage2-gpt2-medium-lr5e-05,asthma-014
+t0054,stage2-gpt2-lr0.0001,benign-paroxysmal-positional-vertical-bppv-009
+t0055,stage2-gpt2-medium-lr5e-05,otitis-externa-swimmer-s-ear-031
+t0056,stage2-gpt2-medium-lr5e-05,viral-exanthem-021
+t0057,stage2-gpt2-lr0.0001,shingles-herpes-zoster-006
+t0058,stage2-gpt2-lr0.0001,depression-022
+t0059,stage2-gpt2-lr0.0001,otitis-externa-swimmer-s-ear-031
+t0060,stage2-gpt2-lr0.0001,indigestion-021
+t0061,stage2-gpt2-medium-lr5e-05,acute-sinusitis-016
+t0062,stage2-gpt2-medium-lr5e-05,viral-exanthem-002
+t0063,gpt2 prompted,indigestion-020
+t0064,stage2-gpt2-medium-lr5e-05,dengue-fever-014
+t0065,stage2-gpt2-lr0.0001,contact-dermatitis-030
+t0066,stage2-gpt2-lr0.0001,viral-exanthem-002
+t0067,stage2-gpt2-lr0.0001,migraine-027
+t0068,stage2-gpt2-medium-lr5e-05,muscle-spasm-005
+t0069,stage2-gpt2-lr0.0001,urinary-tract-infection-019
+t0070,stage2-gpt2-lr0.0001,acute-sinusitis-018
+t0071,stage2-gpt2-medium-lr5e-05,tonsillitis-020
+t0072,stage2-gpt2-lr0.0001,viral-exanthem-021
+t0073,stage2-gpt2-medium-lr5e-05,asthma-005
+t0074,stage2-gpt2-medium-lr5e-05,laryngitis-019
+t0075,stage2-gpt2-lr0.0001,carpal-tunnel-syndrome-000
+t0076,gpt2 prompted,viral-exanthem-021
+t0077,gpt2 prompted,acute-sinusitis-016
+t0078,stage2-gpt2-lr0.0001,pyelonephritis-010
+t0079,gpt2 prompted,panic-attack-032
+t0080,gpt2 prompted,acute-sinusitis-018
+t0081,gpt2 prompted,sciatica-028
+t0082,stage2-gpt2-medium-lr5e-05,sciatica-028
+t0083,stage2-gpt2-medium-lr5e-05,eczema-025
+t0084,stage2-gpt2-medium-lr5e-05,pyelonephritis-010
+t0085,gpt2 prompted,otitis-externa-swimmer-s-ear-031
+t0086,stage2-gpt2-medium-lr5e-05,acute-sinusitis-010
+t0087,stage2-gpt2-medium-lr5e-05,contact-dermatitis-030
+t0088,gpt2 prompted,eczema-025
+t0089,stage2-gpt2-lr0.0001,panic-attack-032
