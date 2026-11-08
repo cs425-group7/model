@@ -1,0 +1,19 @@
+.git
+.venv
+**/__pycache__
+notebooks
+tests
+results
+data/raw
+data/processed/dialogues
+# Only the selected doctor checkpoint goes into the image, not every grid-search run.
+checkpoints/**
+!checkpoints/doctor/best/**
+# Only the selected patient checkpoint, not every notebook 08 run.
+models/**
+!models/patient/best/**
+# Teammates' evaluation outputs: the app does not need them
+data/processed/doctor
+results run 2
+# The refusal gate is used by Be the patient
+!checkpoints/doctor/refusal_gate.pkl
