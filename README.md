@@ -52,4 +52,25 @@ uv venv --python 3.12 .venv && uv pip install --python .venv/bin/python -r requi
 ollama serve &
 ollama pull llama3:8b-instruct-q4_K_M && ollama pull mistral:7b-instruct-v0.2-q4_K_M
 ```
-Checkpoints are written to `checkpoints/doctor/` (git-ignored). `checkpoints/doctor/best/` holds the selected model and its `doctor_config.json`.
+Checkpoints are written to `checkpoints/doctor/` (git-ignored). `checkpoints/doctor/best/` holds the selected model and its `doctor_config.json`: GPT-2 medium, LR 1e-4, chosen by notebook 09 on all 201 dev cards. Notebook 04's original choice on 50 dev cards (GPT-2 small) is kept in `checkpoints/doctor/best_dev50/`.
+
+## Evaluation and extensions (notebooks 09–12)
+
+| Notebook | What it does |
+|---|---|
+| `09_doctor_selection_and_stats.ipynb` | Re-runs notebook 04's selection rule on all 201 dev cards, which updates `checkpoints/doctor/best`. Adds paired bootstrap 95% CIs and exact McNemar tests to notebook 05's test results, a per-body-system breakdown, LLM error causes and prediction concentration. Writes to `results/doctor/` |
+| `10_patient_baselines_and_probes.ipynb` | LLaMA-3 / Mistral patients (zero- and few-shot) on notebook 08's scripted interview. On/off-card yes/no probes for every patient. Inter-rater agreement on the dev in-character sheet. A blinded rating sheet for the LLM patients. Writes to `results/patient/` |
+| `11_doctor_grounding_and_refusal.ipynb` | Groundedness of diagnoses and cited explanations (`simclinic/explain.py`). Trains the refusal gate (`simclinic/refusal.py`) and compares it with keyword, perplexity and LLM gates on `data/refusal/test_questions.jsonl` (100 hand-written messages). Writes to `results/doctor/` |
+| `12_auto_mode_gpt2_pair.ipynb` | Full auto mode: each doctor (NB, GPT-2 small, GPT-2 medium) against the rule-based patient and the fine-tuned GPT-2 patient on the 201 test cards. Writes to `results/auto_mode/` |
+
+`simclinic/refusal.py` holds the refusal gate and `GuardedDoctor`, which wraps any doctor so out-of-scope messages are refused before it sees them. Emergencies end the session. `simclinic/explain.py` cites, for each condition in the differential, the patient turns and Symcat percentages that support or argue against it, and checks those citations.
+
+**Patient checkpoints.** Notebook 08 trains on the SCIS cluster. Copy its run folders (e.g. `stage2-gpt2-lr0.0001`) into `models/patient/` (git-ignored). Notebooks 10 and 12 and the session tool skip any run that is missing.
+
+**Human sessions** (terminal, independent of the app; logged to `data/human_sessions/sessions.jsonl`):
+```bash
+python -m simclinic.session doctor  --name <you>    # play a hidden test card; the GPT-2 doctor interviews you
+python -m simclinic.session patient --name <you>    # interview the GPT-2 patient, then `/dx A; B; C`
+```
+
+**Tests:** `pytest tests/` checks the shared code (lexicon, filter, formats, doctors, explanations, refusal).

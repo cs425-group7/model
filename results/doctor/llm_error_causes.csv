@@ -1,0 +1,7 @@
+doctor,correct,no valid name,out-of-list name first,too few questions,right answer at rank 2-3,evidence was enough,other
+llama3-8b cot,0.328,0.0,0.016,0.0,0.23,0.197,0.23
+llama3-8b few_shot,0.295,0.0,0.016,0.0,0.279,0.23,0.18
+llama3-8b zero_shot,0.377,0.0,0.0,0.18,0.213,0.18,0.049
+mistral-7b cot,0.344,0.016,0.082,0.0,0.115,0.279,0.164
+mistral-7b few_shot,0.361,0.0,0.049,0.0,0.246,0.164,0.18
+mistral-7b zero_shot,0.295,0.0,0.049,0.016,0.18,0.23,0.23

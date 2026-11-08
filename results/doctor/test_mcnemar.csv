@@ -1,0 +1,13 @@
+setting,comparison,metric,cases,acc A,acc B,only A right,only B right,p (exact McNemar)
+auto mode,GPT-2 medium fine-tuned vs GPT-2 small fine-tuned,top1,201,0.726,0.687,27,19,0.302
+auto mode,GPT-2 medium fine-tuned vs NB doctor,top1,201,0.726,0.706,32,28,0.6989
+auto mode,GPT-2 small fine-tuned vs NB doctor,top1,201,0.687,0.706,26,30,0.6889
+auto mode,GPT-2 medium fine-tuned vs llama3-8b zero_shot,top1,61,0.77,0.377,28,4,0.0
+transcripts,GPT-2 medium fine-tuned vs GPT-2 small fine-tuned,top1,201,0.856,0.816,18,10,0.1849
+auto mode,GPT-2 medium fine-tuned vs GPT-2 small fine-tuned,top3,201,0.9,0.861,15,7,0.1338
+auto mode,GPT-2 medium fine-tuned vs NB doctor,top3,201,0.9,0.94,6,14,0.1153
+auto mode,GPT-2 small fine-tuned vs NB doctor,top3,201,0.861,0.94,5,21,0.0025
+auto mode,GPT-2 medium fine-tuned vs llama3-8b zero_shot,top3,61,0.918,0.639,18,1,0.0001
+transcripts,GPT-2 medium fine-tuned vs GPT-2 small fine-tuned,top3,201,0.975,0.99,1,4,0.375
+transcripts,GPT-2 medium fine-tuned vs Naive Bayes,top1,201,0.856,0.642,56,13,0.0
+transcripts,GPT-2 medium fine-tuned vs Naive Bayes,top3,201,0.975,0.91,17,4,0.0072

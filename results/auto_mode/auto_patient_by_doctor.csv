@@ -1,0 +1,10 @@
+patient,doctor,mentioned,on_card,symptom_fidelity,leakage
+rule-based patient,NB doctor,603,603,1.0,0.0
+rule-based patient,GPT-2 small doctor,484,484,1.0,0.0
+rule-based patient,GPT-2 medium doctor,513,513,1.0,0.0
+GPT-2 small patient,NB doctor,665,570,0.857,0.0
+GPT-2 small patient,GPT-2 small doctor,580,538,0.928,0.005
+GPT-2 small patient,GPT-2 medium doctor,587,546,0.93,0.005
+GPT-2 medium patient,NB doctor,648,579,0.894,0.0
+GPT-2 medium patient,GPT-2 small doctor,577,558,0.967,0.005
+GPT-2 medium patient,GPT-2 medium doctor,593,569,0.96,0.0

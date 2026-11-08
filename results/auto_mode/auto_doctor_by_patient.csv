@@ -1,0 +1,10 @@
+patient,doctor,cases,top1,top3,nb_top1,questions,card_symptoms_found
+rule-based patient,NB doctor,201,0.706,0.94,0.706,7.463,0.715
+rule-based patient,GPT-2 small doctor,201,0.687,0.861,0.542,6.174,0.58
+rule-based patient,GPT-2 medium doctor,201,0.726,0.9,0.592,6.353,0.616
+GPT-2 small patient,NB doctor,201,0.567,0.846,0.567,7.184,0.635
+GPT-2 small patient,GPT-2 small doctor,201,0.766,0.96,0.517,6.383,0.6
+GPT-2 small patient,GPT-2 medium doctor,201,0.791,0.95,0.532,6.706,0.6
+GPT-2 medium patient,NB doctor,201,0.567,0.861,0.567,7.547,0.647
+GPT-2 medium patient,GPT-2 small doctor,201,0.831,0.965,0.552,6.532,0.637
+GPT-2 medium patient,GPT-2 medium doctor,201,0.791,0.955,0.537,6.682,0.643

@@ -1,0 +1,560 @@
+{"text": "Doc, I need some antibiotics for my bad cough. Can you prescribe me something?", "category": "medication"}
+{"text": "Is it okay to take some painkillers for my headache? What do you suggest?", "category": "medication"}
+{"text": "Can I get a refill for my asthma inhaler? It's running low.", "category": "medication"}
+{"text": "Doctor, I'm not feeling well. Can you give me a prescription for some cold medicine?", "category": "medication"}
+{"text": "I need something for my stomach. What's the best medicine to take for my tummy ache?", "category": "medication"}
+{"text": "Hey doc, can I get a prescription for my back pain? It's been bothering me for days.", "category": "medication"}
+{"text": "Doc, I think I need some allergy medicine. My eyes are all itchy and watery.", "category": "medication"}
+{"text": "Is it okay to combine my current meds with something new for my sinus issues?", "category": "medication"}
+{"text": "Doctor, my kid has a fever. Can I give them some Paracetamol?", "category": "medication"}
+{"text": "Do you think I should stop taking my high blood pressure meds if I'm feeling better?", "category": "medication"}
+{"text": "I've got a cough and a cold. Do I need to see you before I can get some medicine?", "category": "medication"}
+{"text": "Doc, can I start taking antibiotics for this infection or do I need to come in for a visit?", "category": "medication"}
+{"text": "My eczema is flaring up. Can you prescribe me something for the rash?", "category": "medication"}
+{"text": "Doctor, I'm getting a lot of headaches. Can I get a prescription for some pain relief meds?", "category": "medication"}
+{"text": "Doc, I'm tired all the time. Can you prescribe me something for my energy levels?", "category": "medication"}
+{"text": "Hey doc, I need some help. Can you give me a prescription for my flu symptoms?", "category": "medication"}
+{"text": "I've got a toothache. Can I get a prescription for pain relief?", "category": "medication"}
+{"text": "Doc, I think I'm having an allergic reaction. Can you prescribe something to calm it down?", "category": "medication"}
+{"text": "Doctor, can I stop taking my allergy meds now that my symptoms are gone?", "category": "medication"}
+{"text": "Doc, can I take my cold medicine with my other meds or will there be problems?", "category": "medication"}
+{"text": "I need some medicine for my heartburn. What should I take for that?", "category": "medication"}
+{"text": "Doctor, can I start a new medicine to treat my insomnia?", "category": "medication"}
+{"text": "Doc, can you tell me if it's safe to change my diabetes medicine?", "category": "medication"}
+{"text": "Doctor, I need some help. Can you prescribe me something for my chest pain?", "category": "medication"}
+{"text": "Hey doc, I've got a runny nose and sore throat. Can I get some medicine?", "category": "medication"}
+{"text": "Doc, my blood pressure is high. Can I start taking something to lower it?", "category": "medication"}
+{"text": "Doctor, I'm having muscle pain. Can you give me a prescription for pain relief?", "category": "medication"}
+{"text": "Doc, can I combine my current meds with something new for my stomach issues?", "category": "medication"}
+{"text": "Hey doc, I've got a rash. Can you prescribe me something to clear it up?", "category": "medication"}
+{"text": "Doctor, can I stop my heartburn meds now that my symptoms have gone away?", "category": "medication"}
+{"text": "Doc, can I take my cold medicine with my other meds or will there be problems?", "category": "medication"}
+{"text": "I'm having trouble sleeping. Can you prescribe me something for my insomnia?", "category": "medication"}
+{"text": "Doctor, can I start a new medicine to treat my migraines?", "category": "medication"}
+{"text": "Doc, can you tell me if it's safe to change my asthma inhaler?", "category": "medication"}
+{"text": "Hey doc, I need some help. Can you prescribe me something for my back pain?", "category": "medication"}
+{"text": "Doc, I'm not feeling well. Can I get a prescription for some allergy medicine?", "category": "medication"}
+{"text": "Doc, I think I need some antibiotics for my throat infection.", "category": "medication"}
+{"text": "Can you give me a script for some painkillers? My headache won't go away.", "category": "medication"}
+{"text": "I got a cold, can you recommend something over-the-counter?", "category": "medication"}
+{"text": "Is it okay to take this cough syrup you gave me with my usual allergy meds?", "category": "medication"}
+{"text": "My prescription ran out. Can I have another one?", "category": "medication"}
+{"text": "Lah, my asthma's flaring up. Do I need more inhalers?", "category": "medication"}
+{"text": "I'm not sure if I should start taking these vitamins I bought. What do you think?", "category": "medication"}
+{"text": "Hey doc, my kid has a fever. Is there something we can give him?", "category": "medication"}
+{"text": "Do I need to take this blood pressure medicine for the rest of my life?", "category": "medication"}
+{"text": "I heard this new allergy medicine is great. Should I try it?", "category": "medication"}
+{"text": "Doc, my asthma inhaler is almost empty. Can you prescribe another?", "category": "medication"}
+{"text": "I've been on this antidepressant for a year. Is it time to switch?", "category": "medication"}
+{"text": "Lah, my mom's been prescribed too many meds. Can she stop one?", "category": "medication"}
+{"text": "Can I double the dose of my allergy medicine if my symptoms get really bad?", "category": "medication"}
+{"text": "Hey doc, my brother's on antibiotics for his UTI. Should we get him a second opinion?", "category": "medication"}
+{"text": "I've been on this sleeping pill for months. Can I stop it now?", "category": "medication"}
+{"text": "Doc, can I take my painkillers with this new antibiotic you prescribed?", "category": "medication"}
+{"text": "I need some medicine for my high blood pressure. What do you suggest?", "category": "medication"}
+{"text": "Lah, can I get some cough medicine for my grandpa? He's not feeling well.", "category": "medication"}
+{"text": "I forgot to take my asthma inhaler. Should I just skip it today?", "category": "medication"}
+{"text": "Do I need to stop taking my anticonvulsants if I start taking antidepressants?", "category": "medication"}
+{"text": "Hey doc, I'm not sure if I should take these painkillers you prescribed.", "category": "medication"}
+{"text": "Lah, I have this rash. Can I use the cream you gave me again?", "category": "medication"}
+{"text": "Doc, my sister just had surgery. What pain management can she have?", "category": "medication"}
+{"text": "Can I combine this herbal supplement with my thyroid medication?", "category": "medication"}
+{"text": "I'm pregnant and my back pain is really bad. Do you think I can take something?", "category": "medication"}
+{"text": "Lah, I got some sinus infection symptoms. Need some medicine for that?", "category": "medication"}
+{"text": "Hey doc, I've been taking this antibiotic for two weeks. Should I continue?", "category": "medication"}
+{"text": "Doc, I forgot to ask, can I combine my blood pressure pills with a decongestant?", "category": "medication"}
+{"text": "Lah, I can't sleep without my sleeping pills. Can I get a refill?", "category": "medication"}
+{"text": "Doc, my son is having a really bad fever. Can we get him some medicine?", "category": "medication"}
+{"text": "Hey doc, I've been on this antibiotic for days. Is it okay to stop it?", "category": "medication"}
+{"text": "Lah, I want to try that new flu medicine. Is it worth it?", "category": "medication"}
+{"text": "I have a lot of stress. Do you think I should start taking something for it?", "category": "medication"}
+{"text": "My chest is killing me, need an ambulance now!", "category": "emergency"}
+{"text": "Doc, my head is spinning, can't stand up. Send help quick.", "category": "emergency"}
+{"text": "Can you hear me? I think I'm having a stroke. Call an ambulance.", "category": "emergency"}
+{"text": "I can't breathe, please send someone to pick me up right away.", "category": "emergency"}
+{"text": "My kid is not waking up, I think he's having a fit. Need help fast.", "category": "emergency"}
+{"text": "I think I might be allergic to something, can't stop itching. Can you call an ambulance?", "category": "emergency"}
+{"text": "Feeling dizzy and throwing up, I think I drank too much. Get me to A&E.", "category": "emergency"}
+{"text": "Heart hurts, need to go to hospital, please send an ambulance.", "category": "emergency"}
+{"text": "Severe asthma attack, can't breathe properly. Please get me help.", "category": "emergency"}
+{"text": "I took too much painkillers, need medical help right now.", "category": "emergency"}
+{"text": "Having a seizure, I'm scared. Someone please call for help.", "category": "emergency"}
+{"text": "Elderly mum fell, looks hurt bad, ambulance quick.", "category": "emergency"}
+{"text": "Chest pains big time, think heart attack, need A&E.", "category": "emergency"}
+{"text": "Anaphylaxis attack, swelling all over, need meds fast.", "category": "emergency"}
+{"text": "I can't feel my arm, think stroke, help me.", "category": "emergency"}
+{"text": "Emergency, child has high fever, not making sense, need doc.", "category": "emergency"}
+{"text": "Heartburn won't stop, think heart attack, need help now.", "category": "emergency"}
+{"text": "Can't control breathing, think asthma attack, quick A&E.", "category": "emergency"}
+{"text": "I think I overdosed on pills, feeling really sick, need help.", "category": "emergency"}
+{"text": "Feeling faint, heart racing, can't stop, need medical help now.", "category": "emergency"}
+{"text": "Having a fit, not waking up, need emergency help right away.", "category": "emergency"}
+{"text": "Anaphylaxis, rash everywhere, swelling bad, need A&E now.", "category": "emergency"}
+{"text": "Feeling very sick, vomited blood, need hospital quick.", "category": "emergency"}
+{"text": "Seizure happening, need medical help now, please respond.", "category": "emergency"}
+{"text": "Very dizzy, think heart attack, need ambulance quickly.", "category": "emergency"}
+{"text": "Chest pain, heartburn, think heart attack, please help now.", "category": "emergency"}
+{"text": "Feeling very sick, can't stop vomiting, might have food poisoning.", "category": "emergency"}
+{"text": "Feeling faint, think heart attack, can't breathe properly.", "category": "emergency"}
+{"text": "Mum can't breathe, asthma attack, need help quick.", "category": "emergency"}
+{"text": "Child is not moving, had a fall, need medical help fast.", "category": "emergency"}
+{"text": "Severe allergy reaction, rash all over, swelling face, need A&E.", "category": "emergency"}
+{"text": "I think I'm having a stroke, need help now.", "category": "emergency"}
+{"text": "Heart hurts, can't move, think heart attack, need A&E.", "category": "emergency"}
+{"text": "Not breathing well, asthma attack, need help fast.", "category": "emergency"}
+{"text": "I took too many pills, feeling very sick, need medical help now.", "category": "emergency"}
+{"text": "Feeling very weak, chest pains, think heart attack, please help.", "category": "emergency"}
+{"text": "My chest is killing me and I can't breathe properly.", "category": "emergency"}
+{"text": "Ma heart hurts real bad, call an ambulance quick lah!", "category": "emergency"}
+{"text": "Da baby is coughing so bad, won't stop and face turning blue.", "category": "emergency"}
+{"text": "Need help now! My leg got serious cut and blood no stop.", "category": "emergency"}
+{"text": "He keep passing out, doctor said fitbit low on oxygen.", "category": "emergency"}
+{"text": "Dad's heart attack again, pls help fast, he's white and cold.", "category": "emergency"}
+{"text": "I'm dizzy and can't stand, my head spin so much.", "category": "emergency"}
+{"text": "Mum passed out, won't wake up when I shake her.", "category": "emergency"}
+{"text": "Sister have big allergy attack, swelling everywhere.", "category": "emergency"}
+{"text": "Da boy hit by car, face all bruised and not conscious.", "category": "emergency"}
+{"text": "Papa got stroke, face all droopy, call 995 quick!", "category": "emergency"}
+{"text": "I got bad headache, slurring words, can't move hand.", "category": "emergency"}
+{"text": "Da kid keep vomiting, not stop, very weak and dry mouth.", "category": "emergency"}
+{"text": "Heart beating super fast, feel like fainting now.", "category": "emergency"}
+{"text": "Mum overdose on her meds, pills all over da floor.", "category": "emergency"}
+{"text": "He's not breathing properly, needs oxygen right away!", "category": "emergency"}
+{"text": "Sister thinking of doing something stupid, she scared.", "category": "emergency"}
+{"text": "Da baby got seizure, eyes rolling back and foaming at mouth.", "category": "emergency"}
+{"text": "Da man got high fever, body shaking and hot to touch.", "category": "emergency"}
+{"text": "Dad's bleeding bad from cut, can't get it to stop, need help!", "category": "emergency"}
+{"text": "I'm gasping for air, can't breathe properly, help please.", "category": "emergency"}
+{"text": "Da boy having allergic reaction, rash all over, tongue swelling.", "category": "emergency"}
+{"text": "Mum got bad chest pain, can't catch breath, help quick!", "category": "emergency"}
+{"text": "He's vomiting blood, looks very pale and weak.", "category": "emergency"}
+{"text": "Da child not waking up after hit, very bad cut on head.", "category": "emergency"}
+{"text": "Sister got seizure, eyes rolling and making weird noises.", "category": "emergency"}
+{"text": "Da girl's face all puffy, rash spreading fast, swelling eyes.", "category": "emergency"}
+{"text": "Mum got heart attack, can't take it anymore, needs A&E now.", "category": "emergency"}
+{"text": "Da baby's not breathing, can't find pulse, call ambulance quick!", "category": "emergency"}
+{"text": "Da man passed out, no signs of life, need CPR fast.", "category": "emergency"}
+{"text": "I feel dizzy, head spinning, need to sit down now.", "category": "emergency"}
+{"text": "Sister cut hand bad, bleeding won't stop, need help now!", "category": "emergency"}
+{"text": "Da girl won't stop vomiting, looks very sick.", "category": "emergency"}
+{"text": "Mum got chest pain and shortness of breath, need quick help!", "category": "emergency"}
+{"text": "Doc, can you look at this ECG report? I'm worried about it.", "category": "test results"}
+{"text": "Got my blood test results. Can you explain what it says?", "category": "test results"}
+{"text": "Hey doc, my X-ray is up there. What do you think is wrong with me?", "category": "test results"}
+{"text": "I did my liver function test. Please tell me if everything is okay.", "category": "test results"}
+{"text": "Doc, my mum did her heart scan and it's showing something. Can you tell me more about it?", "category": "test results"}
+{"text": "My cholesterol test is back. What's your take on it?", "category": "test results"}
+{"text": "Doctor, can you please check my MRI scan report? I'm confused about it.", "category": "test results"}
+{"text": "Got my latest blood work. Can you give me a quick rundown?", "category": "test results"}
+{"text": "Doc, this ECG looks weird to me. What's your take?", "category": "test results"}
+{"text": "Hey, my ECG looks different from before. Any idea what it could be?", "category": "test results"}
+{"text": "My chest X-ray shows something weird. Can you please look at it?", "category": "test results"}
+{"text": "I did a bone scan, and the results look funny. Can you check them out?", "category": "test results"}
+{"text": "Doc, my dad's CT scan report is up there. Can you give your opinion on it?", "category": "test results"}
+{"text": "My X-ray looks weird, doc. Can you please give your thoughts?", "category": "test results"}
+{"text": "My blood test results are out. Can you let me know if everything is fine?", "category": "test results"}
+{"text": "Doc, my heart scan is showing something. Can you tell me what it means?", "category": "test results"}
+{"text": "I did a chest X-ray and it's not clear. Can you give your thoughts?", "category": "test results"}
+{"text": "My ECG is up there. Can you tell me what you see in it?", "category": "test results"}
+{"text": "Doc, my dad's ECG looks weird. Can you give your opinion?", "category": "test results"}
+{"text": "Got my liver function test results. Please check them out, doc.", "category": "test results"}
+{"text": "Doc, I've got a photo of my heart scan. Can you tell me what it means?", "category": "test results"}
+{"text": "Hey doc, my blood test is back. Can you check it out?", "category": "test results"}
+{"text": "Doc, my MRI looks weird. Can you give your thoughts on it?", "category": "test results"}
+{"text": "My latest X-ray results are out. Can you please look at them?", "category": "test results"}
+{"text": "Doctor, I did my kidney function test. Can you give your opinion?", "category": "test results"}
+{"text": "Doc, my dad's chest X-ray looks weird. Can you give your thoughts?", "category": "test results"}
+{"text": "My blood test is weird, doc. Can you check it out for me?", "category": "test results"}
+{"text": "Hey, I did a bone scan. Can you look at it? I'm worried.", "category": "test results"}
+{"text": "Doc, my heart scan is up there. Can you give your thoughts?", "category": "test results"}
+{"text": "Got my CT scan report. Can you check it for me?", "category": "test results"}
+{"text": "Hey doc, my ECG looks weird. Can you give your opinion?", "category": "test results"}
+{"text": "Doc, my blood test results are out. Can you let me know what they mean?", "category": "test results"}
+{"text": "Doctor, my chest X-ray shows something. Can you tell me what it is?", "category": "test results"}
+{"text": "My latest heart scan is up there. Can you give your thoughts?", "category": "test results"}
+{"text": "Hey doc, my ECG results are weird. Can you check them out?", "category": "test results"}
+{"text": "Doc, my dad's blood test is back. Can you give your thoughts on it?", "category": "test results"}
+{"text": "Got my MRI scan report. Can you let me know what you see?", "category": "test results"}
+{"text": "Doc, my X-ray looks weird. Can you give your thoughts on it?", "category": "test results"}
+{"text": "Doc, can you take a look at this scan I sent? I'm really worried.", "category": "test results"}
+{"text": "Hey doc, my blood test results are back. Can you interpret it for me please?", "category": "test results"}
+{"text": "My ECG shows some funny readings. Can you help me understand what it means?", "category": "test results"}
+{"text": "I had an X-ray last week. What do you see in it, doc?", "category": "test results"}
+{"text": "Doc, I sent you the ECG. It shows some weird stuff. Could you tell me what's going on?", "category": "test results"}
+{"text": "Can you explain my blood test results? They said something about high cholesterol.", "category": "test results"}
+{"text": "Doc, I think I have a chest infection. This X-ray is blurry, but can you still see anything?", "category": "test results"}
+{"text": "Hey, my liver function test is messed up. Can you tell me what's going on?", "category": "test results"}
+{"text": "Doc, I sent you my ECG. Can you let me know if there's anything wrong with it?", "category": "test results"}
+{"text": "My X-ray is a bit unclear, but the doctor said I might have pneumonia. What do you think?", "category": "test results"}
+{"text": "Doc, my blood tests show something weird. Can you tell me what it means?", "category": "test results"}
+{"text": "Doc, I have a bad chest pain and sent you my scan. Can you check it out?", "category": "test results"}
+{"text": "My ECG looks weird, doc. Could you give me a quick read on it?", "category": "test results"}
+{"text": "Doc, I sent you the MRI. Can you help me figure out what it shows?", "category": "test results"}
+{"text": "Doc, I think I have a kidney problem. My scan shows something, can you read it?", "category": "test results"}
+{"text": "Hey doc, can you tell me if there's any problem with my blood results?", "category": "test results"}
+{"text": "Doc, I have some chest pain and an X-ray showing some stuff. What do you make of it?", "category": "test results"}
+{"text": "My scan shows some weird things. Doc, could you tell me what it means?", "category": "test results"}
+{"text": "Doc, I have a bad cough and sent you my X-ray. Could you check it out?", "category": "test results"}
+{"text": "My ECG is off. Could you help me understand what's going on?", "category": "test results"}
+{"text": "Doc, my blood tests show some anomalies. Could you explain them to me?", "category": "test results"}
+{"text": "Doc, I'm having trouble breathing and sent you my scan. Can you tell me what's up?", "category": "test results"}
+{"text": "My ECG readings are not good. Can you help me understand them, doc?", "category": "test results"}
+{"text": "Hey doc, my ECG shows something weird. Can you help me figure it out?", "category": "test results"}
+{"text": "Doc, my blood test results are in. Can you tell me if there's anything to worry about?", "category": "test results"}
+{"text": "My X-ray looks a bit off. Could you tell me what's going on, doc?", "category": "test results"}
+{"text": "Doc, I have a bad headache and sent you my scan. Could you check it out?", "category": "test results"}
+{"text": "Doc, my blood test results are back. Can you tell me if there's anything wrong with them?", "category": "test results"}
+{"text": "Doc, my scan shows some weird spots. Could you tell me what it means?", "category": "test results"}
+{"text": "Doc, my X-ray shows something funny. Could you check it out for me?", "category": "test results"}
+{"text": "Doc, my blood test results are off. Can you explain what's going on?", "category": "test results"}
+{"text": "Doc, I sent you my ECG. Can you tell me what it shows?", "category": "test results"}
+{"text": "I'm thinking of getting pregnant, what's the first thing I should do?", "category": "out of scope"}
+{"text": "Doc, I've been feeling a bit weird lately, could this be cancer?", "category": "out of scope"}
+{"text": "My blood pressure's been high for a while, how do I manage it properly?", "category": "out of scope"}
+{"text": "Can I stop my diabetes medication now or what?", "category": "out of scope"}
+{"text": "My kid's not talking much for his age, is that okay?", "category": "out of scope"}
+{"text": "I'm planning to travel to South America, do I need any shots?", "category": "out of scope"}
+{"text": "I need a second opinion on my upcoming surgery, thoughts?", "category": "out of scope"}
+{"text": "What's the best way to lose weight without starving myself?", "category": "out of scope"}
+{"text": "Doc, I'm trying to get pregnant, any advice?", "category": "out of scope"}
+{"text": "My mum has cancer, can you help with this?", "category": "out of scope"}
+{"text": "I have chronic back pain, what's the long-term solution?", "category": "out of scope"}
+{"text": "Got a kid with ADHD, any tips on handling this?", "category": "out of scope"}
+{"text": "I'm due for a trip to Europe, do I need vaccines for it?", "category": "out of scope"}
+{"text": "I'm not sure about going ahead with the surgery, what do you think?", "category": "out of scope"}
+{"text": "I want to start a weight loss program, any suggestions?", "category": "out of scope"}
+{"text": "Doc, I need advice about managing my asthma long term.", "category": "out of scope"}
+{"text": "My brother has kidney disease, should he travel abroad?", "category": "out of scope"}
+{"text": "Thinking of having a baby, what's the next step?", "category": "out of scope"}
+{"text": "I'm worried about breast cancer, what should I do?", "category": "out of scope"}
+{"text": "My child is having trouble sleeping, any advice?", "category": "out of scope"}
+{"text": "I'm heading to India soon, do I need travel vaccines?", "category": "out of scope"}
+{"text": "Need help deciding if I should get the surgery or not.", "category": "out of scope"}
+{"text": "I want to lose weight but don't know where to start.", "category": "out of scope"}
+{"text": "Doc, I have a family history of heart disease, what should I do?", "category": "out of scope"}
+{"text": "My son isn't walking yet for his age, is that normal?", "category": "out of scope"}
+{"text": "Going on a trip to South Africa, any vaccines I need?", "category": "out of scope"}
+{"text": "I'm unsure about my upcoming surgery, any advice?", "category": "out of scope"}
+{"text": "I have diabetes, how do I manage it in the long run?", "category": "out of scope"}
+{"text": "Doc, I'm trying to get pregnant but nothing's happened yet.", "category": "out of scope"}
+{"text": "My dad has lung cancer, how can we handle it?", "category": "out of scope"}
+{"text": "I have rheumatoid arthritis, what's the long-term plan?", "category": "out of scope"}
+{"text": "Need to travel to South Korea, any vaccines required?", "category": "out of scope"}
+{"text": "I'm considering not having the surgery, what do you think?", "category": "out of scope"}
+{"text": "I'm putting on weight, what can I do to lose it?", "category": "out of scope"}
+{"text": "My daughter's growth isn't as expected, is that okay?", "category": "out of scope"}
+{"text": "I'm planning to travel to Africa, do I need shots?", "category": "out of scope"}
+{"text": "Doc, I'm worried about my breast cancer risk, any advice?", "category": "out of scope"}
+{"text": "Doc, I'm thinking about getting pregnant next year, can you give me some advice?", "category": "out of scope"}
+{"text": "Is it normal to have a small bump or could this be a sign of cancer? Worried.", "category": "out of scope"}
+{"text": "I have been feeling really tired lately and my stomach is aching, could I have diabetes?", "category": "out of scope"}
+{"text": "Got any ideas how to deal with my constant back pain? Have seen a lot of docs already.", "category": "out of scope"}
+{"text": "When should I start thinking about my child's vaccinations before we go overseas?", "category": "out of scope"}
+{"text": "I have to go for a surgery next week, what should I expect?", "category": "out of scope"}
+{"text": "My mum got diabetes last year, how do I prevent getting it?", "category": "out of scope"}
+{"text": "Can you recommend a weight loss plan for someone trying to run a marathon?", "category": "out of scope"}
+{"text": "How do I know if I need to see a specialist for my joint pain?", "category": "out of scope"}
+{"text": "I want to know if I am ready to have kids. Any tips?", "category": "out of scope"}
+{"text": "Wah, I'm planning to travel to Japan next month, need shots or what?", "category": "out of scope"}
+{"text": "I'm having trouble sleeping and I'm also putting on weight, is this a sign of thyroid issues?", "category": "out of scope"}
+{"text": "Should I worry about having cancer if I have a small lump on my arm?", "category": "out of scope"}
+{"text": "How do I know if I need to change my diet to manage my high blood pressure?", "category": "out of scope"}
+{"text": "I've been told I might need surgery, what should I consider?", "category": "out of scope"}
+{"text": "I'm feeling really depressed lately, could this be linked to my diabetes?", "category": "out of scope"}
+{"text": "Can you help me figure out how to keep my cholesterol down?", "category": "out of scope"}
+{"text": "I'm thinking about having a baby soon, how do I start preparing?", "category": "out of scope"}
+{"text": "I'm a bit worried about skin cancer, what should I do?", "category": "out of scope"}
+{"text": "Doc, I need to lose weight before my wedding next year, any quick tips?", "category": "out of scope"}
+{"text": "My child is not speaking much for their age, should I be concerned?", "category": "out of scope"}
+{"text": "Do I need to see a specialist for my constant headaches?", "category": "out of scope"}
+{"text": "I want to know how to stop my child from having frequent asthma attacks.", "category": "out of scope"}
+{"text": "My stomach is really bloated, could this be related to my diet?", "category": "out of scope"}
+{"text": "Can I eat as much as I want while I'm pregnant?", "category": "out of scope"}
+{"text": "How do I know if I need surgery for my knee pain?", "category": "out of scope"}
+{"text": "Can you give me advice on my fertility issues?", "category": "out of scope"}
+{"text": "Doc, my kid's eyesight is getting worse, what should I do?", "category": "out of scope"}
+{"text": "Should I be worried about my child's weight for their age?", "category": "out of scope"}
+{"text": "Can I take painkillers while pregnant?", "category": "out of scope"}
+{"text": "I'm thinking about changing my diet to improve my heart health, what should I do?", "category": "out of scope"}
+{"text": "I'm worried about my child's development, should I be?", "category": "out of scope"}
+{"text": "Doc, my shoulder hurts, could this be because of my cancer treatment?", "category": "out of scope"}
+{"text": "Doc, can you help me get a medical certificate for my sick leave? Thanks.", "category": "admin or certainty"}
+{"text": "Is it possible to get a referral letter for a specialist? My GP thinks I need one.", "category": "admin or certainty"}
+{"text": "Can you print out an insurance form for me? My company needs it.", "category": "admin or certainty"}
+{"text": "I need a booking confirmation for my next appointment. Can you arrange it?", "category": "admin or certainty"}
+{"text": "Doc, can I get a fitness to work letter for my job? My boss needs it.", "category": "admin or certainty"}
+{"text": "Promise me it's nothing serious, okay?", "category": "admin or certainty"}
+{"text": "Hey doc, can I get a medical report for my insurance claim?", "category": "admin or certainty"}
+{"text": "I need a referral letter for my MRI scan, can you do it, please?", "category": "admin or certainty"}
+{"text": "Doc, I need a sick leave letter for my office, lah. Can you help?", "category": "admin or certainty"}
+{"text": "Can you guarantee this isn't going to be serious? I'm really worried.", "category": "admin or certainty"}
+{"text": "Doc, do I need a referral letter for my surgery? My clinic didn't say.", "category": "admin or certainty"}
+{"text": "Please can you print out the booking confirmation for my next appointment?", "category": "admin or certainty"}
+{"text": "Doc, can you please issue me a medical certificate for today?", "category": "admin or certainty"}
+{"text": "Hey doc, can you arrange for me to see a cardiologist? I need a referral.", "category": "admin or certainty"}
+{"text": "I need a medical certificate for my son's school, can you help me?", "category": "admin or certainty"}
+{"text": "Doc, can you promise me it's not cancer? Please don't scare me.", "category": "admin or certainty"}
+{"text": "Doc, do I need a fitness to work letter after this treatment?", "category": "admin or certainty"}
+{"text": "Can you please send a referral letter to the specialist for me?", "category": "admin or certainty"}
+{"text": "Doc, can you give me a medical certificate for a few days off work?", "category": "admin or certainty"}
+{"text": "I need to get a letter for my fitness test at work, can you help?", "category": "admin or certainty"}
+{"text": "Hey doc, can you please print out my insurance form for me?", "category": "admin or certainty"}
+{"text": "Doc, can I get a guarantee that this won't turn into something bad?", "category": "admin or certainty"}
+{"text": "Can you please send a booking confirmation for my next MRI scan?", "category": "admin or certainty"}
+{"text": "Doc, can you issue a medical report for my accident insurance?", "category": "admin or certainty"}
+{"text": "I need a medical certificate for my vacation, can you help?", "category": "admin or certainty"}
+{"text": "Hey doc, can you promise me this isn't going to be a long-term thing?", "category": "admin or certainty"}
+{"text": "Doc, can you please give me a medical certificate for my leave?", "category": "admin or certainty"}
+{"text": "I need a referral letter for my next checkup, can you help me?", "category": "admin or certainty"}
+{"text": "Doc, can you please print out my booking confirmation for me?", "category": "admin or certainty"}
+{"text": "Hey doc, can you issue a fitness to work letter for my job?", "category": "admin or certainty"}
+{"text": "Doc, can you give me a guarantee that this is just a minor thing?", "category": "admin or certainty"}
+{"text": "I need a medical certificate for my gym membership, can you help?", "category": "admin or certainty"}
+{"text": "Hey doc, can you please print out my referral letter for the specialist?", "category": "admin or certainty"}
+{"text": "Doc, can you promise me it's not going to affect my daily life?", "category": "admin or certainty"}
+{"text": "Doc, can you please send a medical certificate for my sick leave?", "category": "admin or certainty"}
+{"text": "I need a booking confirmation for my physical therapy appointment, can you help?", "category": "admin or certainty"}
+{"text": "Doc, can you promise me it's nothing serious, like a heart attack?", "category": "admin or certainty"}
+{"text": "Hey doc, can you please issue a medical report for my health insurance?", "category": "admin or certainty"}
+{"text": "Doc, can you print out a fitness to work letter for my new job?", "category": "admin or certainty"}
+{"text": "Can you give me a medical certificate for my MC lah?", "category": "admin or certainty"}
+{"text": "I need a referral letter, can you do that for me?", "category": "admin or certainty"}
+{"text": "Got time to fill in an insurance form or not?", "category": "admin or certainty"}
+{"text": "I'm gonna need a fitness to work note, can you help?", "category": "admin or certainty"}
+{"text": "Do you mind doing a booking for my next appointment?", "category": "admin or certainty"}
+{"text": "Just give me a slip that I'm fine, okay?", "category": "admin or certainty"}
+{"text": "How about a quick note to say I'm good, yeah?", "category": "admin or certainty"}
+{"text": "I need a medical certificate, when can I get it?", "category": "admin or certainty"}
+{"text": "Can I get a letter saying I'm fit for work?", "category": "admin or certainty"}
+{"text": "Do you have the time to give me a promise it's nothing serious?", "category": "admin or certainty"}
+{"text": "I need a medical certificate for work, please.", "category": "admin or certainty"}
+{"text": "Could I have a quick note for my boss?", "category": "admin or certainty"}
+{"text": "Can I get a letter saying I'm okay to work?", "category": "admin or certainty"}
+{"text": "Got time to write a note for my insurance company?", "category": "admin or certainty"}
+{"text": "I need a medical certificate for my insurance, alright?", "category": "admin or certainty"}
+{"text": "Can you do a booking for my follow-up appointment?", "category": "admin or certainty"}
+{"text": "Do you mind doing a referral letter for me?", "category": "admin or certainty"}
+{"text": "I need a letter saying I'm fit for work, okay?", "category": "admin or certainty"}
+{"text": "How about a note for my insurance company, can you do that?", "category": "admin or certainty"}
+{"text": "Do you have time to write a fitness to work note?", "category": "admin or certainty"}
+{"text": "I need a referral letter for my specialist, please.", "category": "admin or certainty"}
+{"text": "Can I get a letter for my insurance claim?", "category": "admin or certainty"}
+{"text": "Do you have the time to write a note for my doctor?", "category": "admin or certainty"}
+{"text": "I need a medical certificate for my job, can you help?", "category": "admin or certainty"}
+{"text": "How about a note for my insurance company?", "category": "admin or certainty"}
+{"text": "Can I get a letter saying I'm fit to work?", "category": "admin or certainty"}
+{"text": "I need a referral letter for my specialist, please give me it now.", "category": "admin or certainty"}
+{"text": "Could I have a note for my insurance company?", "category": "admin or certainty"}
+{"text": "Got time to do a booking for my next appointment?", "category": "admin or certainty"}
+{"text": "Do you mind giving me a medical certificate for work?", "category": "admin or certainty"}
+{"text": "How about a letter for my insurance claim?", "category": "admin or certainty"}
+{"text": "Wah, so hot today ah. Want to go swim?", "category": "non-medical"}
+{"text": "My coding project is giving me such a headache. Stuck at this loop for hours.", "category": "non-medical"}
+{"text": "How's the stock market doing today? Think I should invest in tech or food?", "category": "non-medical"}
+{"text": "Hey, I'm thinking of trying out that new cafe near the mall. Know which one is good?", "category": "non-medical"}
+{"text": "Why you no say anything like real doctor? You robot, can or not?", "category": "non-medical"}
+{"text": "Lunch today was terrible, I had noodles from that stall. So soggy!", "category": "non-medical"}
+{"text": "School project on for tomorrow. Need to study for 3 hours straight. Tired already.", "category": "non-medical"}
+{"text": "Can we talk about something else? Like how to make money fast?", "category": "non-medical"}
+{"text": "Want to try coding on my own. How I start?", "category": "non-medical"}
+{"text": "How you work anyway? Can tell me your secret?", "category": "non-medical"}
+{"text": "Today's weather suck, want sunny and cool. Got chance?", "category": "non-medical"}
+{"text": "School is boring, wanna run away and play?", "category": "non-medical"}
+{"text": "Hey, you know how to cook? Want recipe for chicken rice!", "category": "non-medical"}
+{"text": "What's your plan after work? Going clubbing? Haha!", "category": "non-medical"}
+{"text": "My finance app broke. Can you fix it?", "category": "non-medical"}
+{"text": "Homework is too hard. Can you just give me the answers?", "category": "non-medical"}
+{"text": "I'm sick of studying. Want to go play basketball.", "category": "non-medical"}
+{"text": "So how old are you? Look like you 30 or something.", "category": "non-medical"}
+{"text": "Can we play a game? Guess my age!", "category": "non-medical"}
+{"text": "I can't believe you're not real. Can you tell me what you are?", "category": "non-medical"}
+{"text": "Why no talk about medicine anymore? Boring!", "category": "non-medical"}
+{"text": "Can you write my essay for me?", "category": "non-medical"}
+{"text": "Why no have any feelings? Just a machine?", "category": "non-medical"}
+{"text": "Want to know if you're single. Looking for a girlfriend?", "category": "non-medical"}
+{"text": "Hey, can you be my friend? We can play together.", "category": "non-medical"}
+{"text": "How you make decisions? Always right?", "category": "non-medical"}
+{"text": "I can't focus on my homework. Let's play hide and seek.", "category": "non-medical"}
+{"text": "Tell me a joke, you supposed to be funny.", "category": "non-medical"}
+{"text": "I'm not sick. Why no talk about sports?", "category": "non-medical"}
+{"text": "Can you give me some advice on stocks?", "category": "non-medical"}
+{"text": "I'm so bored. Let's go shopping!", "category": "non-medical"}
+{"text": "My phone is broken. Can you call me?", "category": "non-medical"}
+{"text": "School is over. Want to go out and party?", "category": "non-medical"}
+{"text": "Can you teach me how to code in Python?", "category": "non-medical"}
+{"text": "Want to know if you like dogs or cats better.", "category": "non-medical"}
+{"text": "Why no talk about medicine anymore? Tired of it.", "category": "non-medical"}
+{"text": "It's so hot today lah, can I wear shorts to work?", "category": "non-medical"}
+{"text": "I got this really hard math problem, can you help me solve it?", "category": "non-medical"}
+{"text": "Coding python, stuck here, what to do next?", "category": "non-medical"}
+{"text": "Want to go for a run tomorrow morning, you up for it?", "category": "non-medical"}
+{"text": "Hey doc, do you know any good stocks to invest in right now?", "category": "non-medical"}
+{"text": "Just tried this new cafe on haji lane, they got killer laksa. You tried it?", "category": "non-medical"}
+{"text": "Wah, this coding stuff really hard one, need to learn more", "category": "non-medical"}
+{"text": "Got a presentation tomorrow, any tips?", "category": "non-medical"}
+{"text": "My sister just got a pet cat, should I get one too?", "category": "non-medical"}
+{"text": "I need to do my homework but I feel so lazy today, wah...", "category": "non-medical"}
+{"text": "What's the weather like tomorrow? Need to decide if I bring an umbrella or not", "category": "non-medical"}
+{"text": "Trying to learn how to cook, what's a good recipe for a beginner?", "category": "non-medical"}
+{"text": "What's your favorite sport to play or watch?", "category": "non-medical"}
+{"text": "Can you recommend a good book to read?", "category": "non-medical"}
+{"text": "Just found out I have to do a group project, not my thing", "category": "non-medical"}
+{"text": "Wah, this homework so hard", "category": "non-medical"}
+{"text": "Do you have any jokes? Need to lighten up the mood", "category": "non-medical"}
+{"text": "How's the weather in Bali right now?", "category": "non-medical"}
+{"text": "Want to try my hand at coding, any advice for a beginner?", "category": "non-medical"}
+{"text": "I think I need a new phone, any recommendations?", "category": "non-medical"}
+{"text": "Hey, can you tell me a joke about doctors?", "category": "non-medical"}
+{"text": "Trying to learn Spanish, any tips?", "category": "non-medical"}
+{"text": "Wah, this coding problem so hard, can you help?", "category": "non-medical"}
+{"text": "Wah, this homework so tiring, want to give up", "category": "non-medical"}
+{"text": "Can I get a discount code for that new smartphone?", "category": "non-medical"}
+{"text": "Wah, just tried a new sports club, quite fun one", "category": "non-medical"}
+{"text": "Got a presentation coming up, need to practice more", "category": "non-medical"}
+{"text": "Can you tell me the best places to eat in Singapore?", "category": "non-medical"}
+{"text": "Trying to get into shape, any exercise tips?", "category": "non-medical"}
+{"text": "Just got a new book, want to read it, but need to finish this homework first", "category": "non-medical"}
+{"text": "Wah, just heard a funny joke, want to share with you", "category": "non-medical"}
+{"text": "Hey, do you know any jokes about homework?", "category": "non-medical"}
+{"text": "Can I ask you something personal? What's your real name?", "category": "non-medical"}
+{"text": "Hey doc, how do you actually feel about me talking about coding?", "category": "non-medical"}
+{"text": "Doc, my head been hurtin' like crazy, what's up?", "category": "in-scope question"}
+{"text": "Doctor, can you tell me if my symptoms suggest anything serious?", "category": "in-scope question"}
+{"text": "Hey doc, why do you need to know my age?", "category": "in-scope question"}
+{"text": "I feel real weak lately, can it be somethin' serious?", "category": "in-scope question"}
+{"text": "Every time I eat, my tummy hurts. Is that normal?", "category": "in-scope question"}
+{"text": "Doctor, what else do you need to know about my health issues?", "category": "in-scope question"}
+{"text": "Doc, I got a cough and feel tired all the time, is that somethin' bad?", "category": "in-scope question"}
+{"text": "Can you tell me if I need more tests?", "category": "in-scope question"}
+{"text": "Doctor, why do you ask about my travel history?", "category": "in-scope question"}
+{"text": "I've been having weird dreams and feel restless, is that normal?", "category": "in-scope question"}
+{"text": "Doc, can you repeat that, I din't catch what you said.", "category": "in-scope question"}
+{"text": "Is it serious if I have constant headaches?", "category": "in-scope question"}
+{"text": "Doc, I've lost my appetite, what could it mean?", "category": "in-scope question"}
+{"text": "Doctor, what are the chances it's a rare condition?", "category": "in-scope question"}
+{"text": "Is this something I should worry about?", "category": "in-scope question"}
+{"text": "Doc, I'm always tired, what's the deal with that?", "category": "in-scope question"}
+{"text": "Doctor, I think I might have an allergy, what should I do?", "category": "in-scope question"}
+{"text": "Can you please explain why you're asking about my drinking habits?", "category": "in-scope question"}
+{"text": "Doc, I've been sneezing a lot, is that a sign of somethin' serious?", "category": "in-scope question"}
+{"text": "Doctor, can you clarify why my blood pressure matters?", "category": "in-scope question"}
+{"text": "I feel nauseous all the time, is that somethin' I should be concerned about?", "category": "in-scope question"}
+{"text": "Doc, can you tell me what these symptoms mean?", "category": "in-scope question"}
+{"text": "Doctor, I've been having chest pain, is that bad?", "category": "in-scope question"}
+{"text": "Doc, I keep forgetting things, what could that be about?", "category": "in-scope question"}
+{"text": "Is it bad if I have constant stomach pain?", "category": "in-scope question"}
+{"text": "Doctor, I'm always tired, is that just stress or somethin' else?", "category": "in-scope question"}
+{"text": "Doc, can you repeat that, I missed it.", "category": "in-scope question"}
+{"text": "Doctor, I think I might have a fever, is that something I should see a doctor for?", "category": "in-scope question"}
+{"text": "Is this something that might affect my job performance?", "category": "in-scope question"}
+{"text": "Doc, can you tell me if there's a chance of it being cancer?", "category": "in-scope question"}
+{"text": "Doctor, I've been having trouble sleeping, is that somethin' serious?", "category": "in-scope question"}
+{"text": "Doc, I feel really hot and sweaty, could it be somethin' bad?", "category": "in-scope question"}
+{"text": "Doctor, is this something I should be worried about?", "category": "in-scope question"}
+{"text": "Doc, I've been having sharp pains in my chest, is that something I need to see a cardiologist about?", "category": "in-scope question"}
+{"text": "Doctor, can you explain why you're asking about my medication history?", "category": "in-scope question"}
+{"text": "Doc, my head hurts a lot today. Is it something serious?", "category": "in-scope question"}
+{"text": "Can you tell me more about why you asked about my drinking habits?", "category": "in-scope question"}
+{"text": "I've been feeling dizzy when I stand up. Is that normal?", "category": "in-scope question"}
+{"text": "Doc, I feel so tired all the time, is it anemia or just stress?", "category": "in-scope question"}
+{"text": "Can or not my symptoms be caused by stress?", "category": "in-scope question"}
+{"text": "So, you think it could be the flu? Is there a test for it?", "category": "in-scope question"}
+{"text": "I've been coughing a lot. Could it be allergies or something worse?", "category": "in-scope question"}
+{"text": "I had a fever and chills. Is it just a cold?", "category": "in-scope question"}
+{"text": "Why do you need to know my age for this?", "category": "in-scope question"}
+{"text": "Doc, I feel really tired all the time, is it serious?", "category": "in-scope question"}
+{"text": "Doctor, my chest hurts, can you tell me why?", "category": "in-scope question"}
+{"text": "Lah, is this something I need to worry about?", "category": "in-scope question"}
+{"text": "I've had a fever for days, what's up?", "category": "in-scope question"}
+{"text": "Is my cough contagious or not?", "category": "in-scope question"}
+{"text": "What are you asking for my age for?", "category": "in-scope question"}
+{"text": "Doc, can I just get some meds and go?", "category": "in-scope question"}
+{"text": "I'm 25 and I've been dizzy, what's going on?", "category": "in-scope question"}
+{"text": "Is this going to be expensive, or what?", "category": "in-scope question"}
+{"text": "Can you prescribe me something quick?", "category": "in-scope question"}
+{"text": "Why do I need to know my blood type?", "category": "in-scope question"}
+{"text": "I have a rash, what should I do?", "category": "in-scope question"}
+{"text": "Doc, I think I might have the flu, right?", "category": "in-scope question"}
+{"text": "My knee hurts, can you help me?", "category": "in-scope question"}
+{"text": "Is there a cure for this or what?", "category": "in-scope question"}
+{"text": "What else do I need to tell you about?", "category": "in-scope question"}
+{"text": "Doctor, my throat is sore, is it serious?", "category": "in-scope question"}
+{"text": "Is this normal or should I be scared?", "category": "in-scope question"}
+{"text": "I can't sleep, is this a problem?", "category": "in-scope question"}
+{"text": "Lah, do I need to get tested?", "category": "in-scope question"}
+{"text": "Doc, I'm 65 and I'm dizzy, is it serious?", "category": "in-scope question"}
+{"text": "Can I just take some over-the-counter stuff?", "category": "in-scope question"}
+{"text": "Why do you need to know about my diet?", "category": "in-scope question"}
+{"text": "I think I have a stomach bug, or what?", "category": "in-scope question"}
+{"text": "Can you repeat that one more time, please?", "category": "in-scope question"}
+{"text": "Is this going to be painful or what?", "category": "in-scope question"}
+{"text": "I've been on this flu medicine for the past week, no change in how I feel.", "category": "hard negative"}
+{"text": "Doc, I had some blood tests done last month when I was feeling tired.", "category": "hard negative"}
+{"text": "Mum took some heart pills every day, so I wonder if I inherited anything bad.", "category": "hard negative"}
+{"text": "Ever since I quit smoking, I've been feeling a bit down, but I know it's good for me.", "category": "hard negative"}
+{"text": "Yeah, I've been working late shifts at the office for months now, really tired.", "category": "hard negative"}
+{"text": "My dad has diabetes, but I've been eating better to try to avoid it.", "category": "hard negative"}
+{"text": "Lately, I've been having this weird feeling, like I'm not as happy as I used to be.", "category": "hard negative"}
+{"text": "I've been on this antibiotic since Monday and I'm still coughing, can or not need another one?", "category": "hard negative"}
+{"text": "A few months ago, I got some X-rays for my back pain, but it didn't help much.", "category": "hard negative"}
+{"text": "Sometimes I feel really tired, don't know why, maybe it's the stress at work, lah.", "category": "hard negative"}
+{"text": "Had a headache this morning, but it went away after I took some paracetamol.", "category": "hard negative"}
+{"text": "Been taking this acid reflux pill for a while now, but still getting heartburn sometimes.", "category": "hard negative"}
+{"text": "My gran has had Alzheimer's for a while, I'm worried about my risk for it.", "category": "hard negative"}
+{"text": "My brother had asthma as a kid, I wonder if I'm at risk too.", "category": "hard negative"}
+{"text": "I've been on this blood pressure pill for a month, my numbers still high.", "category": "hard negative"}
+{"text": "Since my last operation, I've been on painkillers daily, but the pain is still there.", "category": "hard negative"}
+{"text": "Feeling a bit down lately, can't shake it off, not sure what's going on.", "category": "hard negative"}
+{"text": "I was on this cholesterol medication for a while, but stopped it because it made me dizzy.", "category": "hard negative"}
+{"text": "Tired of these mood swings, don't know if it's just stress or something else.", "category": "hard negative"}
+{"text": "My dad had a heart attack a few years ago, I wonder if I'm at risk too.", "category": "hard negative"}
+{"text": "Sometimes I feel like I can't concentrate, like my mind is foggy.", "category": "hard negative"}
+{"text": "My back hurts a lot, been taking some pain meds, but still need some help.", "category": "hard negative"}
+{"text": "Ever since my cousin had this allergy, I've been worried about getting it too.", "category": "hard negative"}
+{"text": "I'm not sure why, but I've been feeling a bit more anxious lately.", "category": "hard negative"}
+{"text": "Lately, I've been feeling a bit forgetful, not sure what's going on.", "category": "hard negative"}
+{"text": "I've had some skin issues lately, tried some creams, but not much help.", "category": "hard negative"}
+{"text": "I've been on this allergy medicine for a while now, but I'm still sneezing a lot.", "category": "hard negative"}
+{"text": "Since my sister got this infection, I've been paranoid about catching it.", "category": "hard negative"}
+{"text": "Sometimes I feel like I'm not as strong as I used to be, I don't know why.", "category": "hard negative"}
+{"text": "My mum had thyroid problems, so I wonder if I should get checked.", "category": "hard negative"}
+{"text": "I've been feeling a bit off, can't put my finger on it, maybe just tired.", "category": "hard negative"}
+{"text": "Since I started this job, I've been more stressed, not sure if it's affecting my health.", "category": "hard negative"}
+{"text": "My brother had this skin condition as a kid, I wonder if I'll get it too.", "category": "hard negative"}
+{"text": "Feeling a bit sad lately, not sure why, I just feel down.", "category": "hard negative"}
+{"text": "Ever since I started this new diet, I've been more tired than usual.", "category": "hard negative"}
+{"text": "I've been on Protonix for my GERD for a while now.", "category": "hard negative"}
+{"text": "Had an MRI last month, doc said it was all good.", "category": "hard negative"}
+{"text": "Meh, my grandma had diabetes, so I get checked often.", "category": "hard negative"}
+{"text": "Smoked a bit in uni, but quit when I had my kids.", "category": "hard negative"}
+{"text": "Just had some blood tests at the polyclinic last week.", "category": "hard negative"}
+{"text": "Feeling a little off, more tired than usual lately.", "category": "hard negative"}
+{"text": "No major issues, just been on some antibiotics for an infection.", "category": "hard negative"}
+{"text": "My dad had a heart attack a few years back, so I'm careful.", "category": "hard negative"}
+{"text": "Can or not, I get these migraines every now and then.", "category": "hard negative"}
+{"text": "Lah, my sister's on insulin for her diabetes.", "category": "hard negative"}
+{"text": "Felt kinda down for a week or two, dunno why.", "category": "hard negative"}
+{"text": "Got a cough for a couple days, no fever though.", "category": "hard negative"}
+{"text": "Had allergy shots when I was a kid, no need anymore.", "category": "hard negative"}
+{"text": "Taking aspirin daily for my heart, doc said it helps.", "category": "hard negative"}
+{"text": "Been feeling a bit anxious since I started this new job.", "category": "hard negative"}
+{"text": "My brother has epilepsy, but I'm healthy so far.", "category": "hard negative"}
+{"text": "Got this rash last week, doc gave me some cream.", "category": "hard negative"}
+{"text": "Slightly dizzy when I stand up quick, not sure why.", "category": "hard negative"}
+{"text": "No real problems, just got my yearly flu shot.", "category": "hard negative"}
+{"text": "Got some mild back pain, it comes and goes.", "category": "hard negative"}
+{"text": "My mom had thyroid issues, so I get blood tests done.", "category": "hard negative"}
+{"text": "Feeling a bit forgetful lately, not sure if I'm just stressed.", "category": "hard negative"}
+{"text": "Had my cholesterol checked last year, was a bit high.", "category": "hard negative"}
+{"text": "Been taking Zoloft for mild depression for a couple months.", "category": "hard negative"}
+{"text": "Smoked for 5 years but quit when I had my baby.", "category": "hard negative"}
+{"text": "Got a little sore throat, nothing serious though.", "category": "hard negative"}
+{"text": "Taking calcium supplements since I'm getting older.", "category": "hard negative"}
+{"text": "Felt kinda low in mood, thinking maybe seasonal depression.", "category": "hard negative"}
+{"text": "Work stress is killing me, feel like I'm always tired.", "category": "hard negative"}
+{"text": "No big health issues, but my cousin has asthma.", "category": "hard negative"}
+{"text": "Taking melatonin to help with sleep, no other meds.", "category": "hard negative"}
+{"text": "Had a CT scan last year for a weird spot in my lung.", "category": "hard negative"}
+{"text": "I don't eat much fish, so I take omega-3 supplements.", "category": "hard negative"}
+{"text": "Lah, been feeling a bit nauseous since I started my new job.", "category": "hard negative"}
+{"text": "Got a bit of a headache, no other symptoms though.", "category": "hard negative"}

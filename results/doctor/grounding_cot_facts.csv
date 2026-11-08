@@ -1,0 +1,3 @@
+doctor,setting,consultations,facts,grounded,with_hallucination,grounded share
+llama3-8b cot,auto mode,61,292,289,0.049,0.99
+mistral-7b cot,auto mode,61,417,380,0.295,0.911

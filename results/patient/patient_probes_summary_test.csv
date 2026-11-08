@@ -1,0 +1,7 @@
+system,cards,confirms on-card,denies on-card,confirms off-card,denies off-card,unclear (either)
+llama3-8b zero-shot,201.0,0.99,0.0,0.119,0.861,0.03
+llama3-8b few-shot,201.0,0.99,0.0,0.139,0.856,0.015
+mistral-7b zero-shot,201.0,1.0,0.0,0.139,0.861,0.0
+mistral-7b few-shot,201.0,0.99,0.01,0.129,0.866,0.005
+stage2-gpt2-lr0.0001,201.0,0.945,0.055,0.025,0.975,0.0
+stage2-gpt2-medium-lr5e-05,201.0,0.677,0.308,0.06,0.935,0.015

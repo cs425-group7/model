@@ -6,6 +6,8 @@
 Weights are never modified; these models are only prompted.
 """
 import json
+import time
+import urllib.error
 import urllib.request
 
 MODELS = {
@@ -33,8 +35,16 @@ class OllamaChat:
         body = json.dumps(payload).encode()
         req = urllib.request.Request(f"{self.host}/api/chat", data=body,
                                      headers={"Content-Type": "application/json"})
-        with urllib.request.urlopen(req, timeout=self.timeout) as r:
-            return json.loads(r.read())["message"]["content"]
+        for attempt in range(4):
+            try:
+                with urllib.request.urlopen(req, timeout=self.timeout) as r:
+                    return json.loads(r.read())["message"]["content"]
+            except urllib.error.HTTPError as e:
+                # A 5xx is usually transient (e.g. the GPU briefly out of memory while another job loads a
+                # model); one failure should not end a multi-hour run.
+                if e.code < 500 or attempt == 3:
+                    raise
+                time.sleep(10 * (attempt + 1))
 
     def unload(self):
         """Drop the model from memory now; the server otherwise keeps it on the GPU for minutes after the
