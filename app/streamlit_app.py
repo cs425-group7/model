@@ -22,6 +22,7 @@ MODES = {
 }
 SEX = {"M": "Male", "F": "Female"}
 PACE = {"Fast": 0.0, "Normal": 0.6, "Slow": 1.4}
+CHAT_BOX = {"key": "chatbox", "border": False}   # sized by the .st-key-chatbox CSS: fills the window, scrolls inside
 LOGO = (ASSETS / "logo.svg").read_text(encoding="utf-8")
 
 # Every colour is a variable, so the dark theme only redefines the variables (plus Streamlit's own widgets).
@@ -131,6 +132,15 @@ html, body, p, li, label, h1, h2, h3, input, textarea, button, .turn, .chart, .v
   border-radius: 999px; padding: 0.2rem 0.75rem; margin-bottom: 0.8rem; }
 .notice { font-size: 0.9rem; color: var(--ink-soft); background: var(--surface); border: 1px solid var(--line);
   border-radius: 10px; padding: 0.55rem 0.8rem; margin-bottom: 1rem; }
+
+/* One-screen layout: the page never scrolls. The chat box takes the rest of the window height and scrolls
+   inside; the right-hand column scrolls on its own only if it is taller than the window. Tune the rem
+   offsets (heading + counter + chat input) if the box is too tall or too short. */
+[data-testid="stAppViewContainer"], [data-testid="stMain"] { overflow: hidden !important; }
+.st-key-chatbox { height: calc(100vh - 19rem) !important; min-height: 12rem; overflow-y: auto !important;
+  overflow-x: hidden; padding-right: 0.4rem; flex: none !important; }
+[data-testid="stMain"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:nth-child(2) {
+  max-height: calc(100vh - 10rem); overflow-y: auto; padding-right: 0.4rem; }
 
 /* Transcript */
 .turn { display: flex; flex-direction: column; max-width: 82%; margin: 0 0 0.85rem; }
@@ -450,15 +460,17 @@ chat, side = st.columns([3, 2], gap="large")
 if ss.mode == "patient":
     with chat:
         n_q = sum(t["role"] == "doctor" for t in ss.turns)
-        if not ss.turns:
-            st.markdown('<div class="empty"><b>Your patient is in the room.</b><br>Start with an open question, '
-                        'like "What brings you in today?", then narrow down.</div>', unsafe_allow_html=True)
-        else:
+        if ss.turns:
             st.markdown(f'<span class="counter">{n_q} question{"s" if n_q != 1 else ""} asked</span>',
                         unsafe_allow_html=True)
-        show_turns(ss.turns, you="doctor")
+        with st.container(**CHAT_BOX):
+            if not ss.turns:
+                st.markdown('<div class="empty"><b>Your patient is in the room.</b><br>Start with an open question, '
+                            'like "What brings you in today?", then narrow down.</div>', unsafe_allow_html=True)
+            show_turns(ss.turns, you="doctor")
+            if ss.get("pending"):
+                st.markdown(typing_html("patient"), unsafe_allow_html=True)
         if ss.get("pending"):                     # the question is on screen; now the patient answers
-            st.markdown(typing_html("patient"), unsafe_allow_html=True)
             ss.turns.append({"role": "patient", "text": ss.patient.reply(ss.turns)})
             ss.pending = False
             st.rerun()
@@ -505,9 +517,11 @@ elif ss.mode == "doctor":
         n_q = sum(t["role"] == "doctor" for t in ss.turns)
         st.markdown(f'<span class="counter">Question {min(n_q, engine.MAX_QUESTIONS)} of {engine.MAX_QUESTIONS}</span>',
                     unsafe_allow_html=True)
-        show_turns(ss.turns, you="patient")
+        with st.container(**CHAT_BOX):
+            show_turns(ss.turns, you="patient")
+            if ss.get("pending"):
+                st.markdown(typing_html("doctor"), unsafe_allow_html=True)
         if ss.get("pending"):                     # your answer is on screen; now the doctor replies
-            st.markdown(typing_html("doctor"), unsafe_allow_html=True)
             turn = ss.doctor.next_turn(ss.turns, force_diagnosis=n_q >= engine.MAX_QUESTIONS)
             entry = {"role": "doctor", "text": turn.text}
             if getattr(turn, "refused", None):          # GuardedDoctor declined the last message
@@ -558,7 +572,7 @@ else:
         if not ss.done:
             pace = st.radio("Pace", list(PACE), index=1, horizontal=True, key="pace")
             if st.button("Start consultation", type="primary"):
-                counter, live = st.empty(), st.container()
+                counter, live = st.empty(), st.container(**CHAT_BOX)
                 steps = engine.auto_steps(R, ss.doctor, card, ss.seed, ss.get("patient_name"))
                 speaker = "doctor"
                 while True:
@@ -586,7 +600,8 @@ else:
         else:
             n_q = ss.scores["n_questions"]
             st.markdown(f'<span class="counter">{n_q} questions asked</span>', unsafe_allow_html=True)
-            show_turns(ss.turns)
+            with st.container(**CHAT_BOX):
+                show_turns(ss.turns)
     with side:
         if ss.done:
             s = ss.scores
