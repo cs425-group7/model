@@ -1,0 +1,11 @@
+doctor,distinct first choices,top-5 share,most common
+NB doctor,48,0.164,"Mononucleosis (2), Seasonal allergies (hay fever) (2), Common cold (2)"
+GPT-2 pretrained (prompt only),6,0.984,"Pneumonia (45), Depression (8), Osteoarthritis (4)"
+GPT-2 small fine-tuned,46,0.262,"Viral exanthem (5), Mononucleosis (3), Irritable bowel syndrome (3)"
+GPT-2 medium fine-tuned,49,0.246,"Insect bite (4), Chickenpox (4), Viral exanthem (3)"
+llama3-8b cot,33,0.361,"Infectious gastroenteritis (6), Common cold (5), Lumbago (4)"
+llama3-8b few_shot,26,0.459,"Chickenpox (7), Common cold (6), Lumbago (6)"
+llama3-8b zero_shot,30,0.393,"Lumbago (6), Strep throat (5), Chickenpox (5)"
+mistral-7b cot,37,0.3,"Infectious gastroenteritis (6), Tonsillitis (3), Lumbago (3)"
+mistral-7b few_shot,30,0.41,"Infectious gastroenteritis (8), Lumbago (5), Anxiety (5)"
+mistral-7b zero_shot,27,0.377,"Indigestion (6), Infectious gastroenteritis (5), Common cold (4)"

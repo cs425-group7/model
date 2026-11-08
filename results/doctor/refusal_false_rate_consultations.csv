@@ -1,0 +1,3 @@
+,patient turns,TF-IDF gate refuses,keyword rules refuse
+held-out generated consultations,1316,0.0068,0.0129
+auto-mode (rule-based patient),1277,0.0,0.0102

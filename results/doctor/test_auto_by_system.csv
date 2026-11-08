@@ -1,0 +1,10 @@
+system,cases,NB doctor,GPT-2 small fine-tuned,GPT-2 medium fine-tuned
+Digestive,37,0.676,0.757,0.892
+ENT / respiratory,52,0.558,0.615,0.615
+Eye,7,1.0,1.0,1.0
+Mental health / sleep,12,0.917,1.0,0.917
+Musculoskeletal,24,0.875,0.917,1.0
+Neurological,10,0.9,0.8,0.7
+Skin,36,0.528,0.278,0.306
+Systemic,6,0.833,0.667,0.833
+Urogenital,17,0.941,0.882,0.941

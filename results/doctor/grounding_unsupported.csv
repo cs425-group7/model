@@ -1,0 +1,11 @@
+doctor,unsupported top-1,support (top-1),unsupported top-1 (201 cards)
+NB doctor,0.0,3.0,0.0
+GPT-2 pretrained (prompt only),0.541,0.672,0.552
+GPT-2 small fine-tuned,0.0,2.328,0.0
+GPT-2 medium fine-tuned,0.0,2.59,0.0
+llama3-8b zero_shot,0.016,1.836,
+llama3-8b few_shot,0.0,2.164,
+llama3-8b cot,0.016,2.18,
+mistral-7b zero_shot,0.016,2.295,
+mistral-7b few_shot,0.066,2.082,
+mistral-7b cot,0.017,2.2,

@@ -1,0 +1,121 @@
+sheet_id,system,card_id
+L0000,mistral-7b few-shot,eczema-025
+L0001,mistral-7b few-shot,laryngitis-019
+L0002,llama3-8b few-shot,asthma-014
+L0003,mistral-7b few-shot,tonsillitis-020
+L0004,llama3-8b few-shot,tonsillitis-025
+L0005,stage2-gpt2-lr0.0001,asthma-014
+L0006,stage2-gpt2-lr0.0001,depression-022
+L0007,llama3-8b few-shot,contact-dermatitis-020
+L0008,mistral-7b few-shot,contact-dermatitis-020
+L0009,stage2-gpt2-medium-lr5e-05,laryngitis-019
+L0010,llama3-8b few-shot,migraine-027
+L0011,stage2-gpt2-lr0.0001,acute-sinusitis-018
+L0012,llama3-8b few-shot,contact-dermatitis-030
+L0013,mistral-7b few-shot,benign-paroxysmal-positional-vertical-bppv-009
+L0014,stage2-gpt2-lr0.0001,viral-exanthem-021
+L0015,stage2-gpt2-medium-lr5e-05,acute-sinusitis-016
+L0016,stage2-gpt2-medium-lr5e-05,muscle-spasm-005
+L0017,llama3-8b few-shot,acute-sinusitis-010
+L0018,stage2-gpt2-lr0.0001,viral-exanthem-002
+L0019,stage2-gpt2-medium-lr5e-05,eczema-025
+L0020,stage2-gpt2-lr0.0001,athlete-s-foot-023
+L0021,mistral-7b few-shot,indigestion-020
+L0022,mistral-7b few-shot,acute-sinusitis-016
+L0023,stage2-gpt2-lr0.0001,contact-dermatitis-020
+L0024,mistral-7b few-shot,dengue-fever-014
+L0025,llama3-8b few-shot,dengue-fever-014
+L0026,llama3-8b few-shot,indigestion-020
+L0027,stage2-gpt2-medium-lr5e-05,shingles-herpes-zoster-006
+L0028,stage2-gpt2-lr0.0001,indigestion-021
+L0029,stage2-gpt2-medium-lr5e-05,carpal-tunnel-syndrome-000
+L0030,llama3-8b few-shot,shingles-herpes-zoster-006
+L0031,stage2-gpt2-lr0.0001,migraine-027
+L0032,llama3-8b few-shot,pyelonephritis-010
+L0033,stage2-gpt2-medium-lr5e-05,benign-paroxysmal-positional-vertical-bppv-009
+L0034,mistral-7b few-shot,tonsillitis-025
+L0035,stage2-gpt2-medium-lr5e-05,otitis-externa-swimmer-s-ear-031
+L0036,mistral-7b few-shot,acute-sinusitis-010
+L0037,mistral-7b few-shot,sciatica-028
+L0038,stage2-gpt2-medium-lr5e-05,viral-exanthem-002
+L0039,llama3-8b few-shot,contact-dermatitis-006
+L0040,mistral-7b few-shot,asthma-005
+L0041,llama3-8b few-shot,tonsillitis-020
+L0042,stage2-gpt2-lr0.0001,contact-dermatitis-006
+L0043,llama3-8b few-shot,viral-exanthem-002
+L0044,stage2-gpt2-medium-lr5e-05,common-cold-015
+L0045,stage2-gpt2-lr0.0001,tonsillitis-020
+L0046,llama3-8b few-shot,athlete-s-foot-023
+L0047,stage2-gpt2-medium-lr5e-05,acute-sinusitis-010
+L0048,stage2-gpt2-lr0.0001,common-cold-015
+L0049,mistral-7b few-shot,contact-dermatitis-006
+L0050,mistral-7b few-shot,muscle-spasm-005
+L0051,mistral-7b few-shot,athlete-s-foot-023
+L0052,llama3-8b few-shot,indigestion-021
+L0053,stage2-gpt2-lr0.0001,benign-paroxysmal-positional-vertical-bppv-009
+L0054,mistral-7b few-shot,asthma-014
+L0055,stage2-gpt2-medium-lr5e-05,sciatica-028
+L0056,llama3-8b few-shot,carpal-tunnel-syndrome-000
+L0057,mistral-7b few-shot,depression-022
+L0058,stage2-gpt2-lr0.0001,dengue-fever-014
+L0059,stage2-gpt2-lr0.0001,carpal-tunnel-syndrome-000
+L0060,stage2-gpt2-lr0.0001,sciatica-028
+L0061,llama3-8b few-shot,urinary-tract-infection-019
+L0062,llama3-8b few-shot,muscle-spasm-005
+L0063,stage2-gpt2-medium-lr5e-05,athlete-s-foot-023
+L0064,stage2-gpt2-medium-lr5e-05,contact-dermatitis-020
+L0065,llama3-8b few-shot,common-cold-015
+L0066,llama3-8b few-shot,depression-022
+L0067,stage2-gpt2-lr0.0001,shingles-herpes-zoster-006
+L0068,llama3-8b few-shot,asthma-005
+L0069,llama3-8b few-shot,laryngitis-019
+L0070,mistral-7b few-shot,common-cold-015
+L0071,stage2-gpt2-medium-lr5e-05,urinary-tract-infection-019
+L0072,llama3-8b few-shot,benign-paroxysmal-positional-vertical-bppv-009
+L0073,stage2-gpt2-lr0.0001,laryngitis-019
+L0074,stage2-gpt2-medium-lr5e-05,panic-attack-032
+L0075,stage2-gpt2-medium-lr5e-05,asthma-014
+L0076,mistral-7b few-shot,shingles-herpes-zoster-006
+L0077,mistral-7b few-shot,otitis-externa-swimmer-s-ear-031
+L0078,stage2-gpt2-lr0.0001,otitis-externa-swimmer-s-ear-031
+L0079,mistral-7b few-shot,indigestion-021
+L0080,stage2-gpt2-lr0.0001,panic-attack-032
+L0081,stage2-gpt2-lr0.0001,acute-sinusitis-016
+L0082,stage2-gpt2-medium-lr5e-05,tonsillitis-025
+L0083,stage2-gpt2-lr0.0001,muscle-spasm-005
+L0084,stage2-gpt2-medium-lr5e-05,asthma-005
+L0085,mistral-7b few-shot,contact-dermatitis-030
+L0086,mistral-7b few-shot,viral-exanthem-002
+L0087,mistral-7b few-shot,migraine-027
+L0088,stage2-gpt2-medium-lr5e-05,contact-dermatitis-030
+L0089,mistral-7b few-shot,urinary-tract-infection-019
+L0090,stage2-gpt2-lr0.0001,indigestion-020
+L0091,mistral-7b few-shot,acute-sinusitis-018
+L0092,stage2-gpt2-medium-lr5e-05,pyelonephritis-010
+L0093,mistral-7b few-shot,viral-exanthem-021
+L0094,stage2-gpt2-lr0.0001,asthma-005
+L0095,stage2-gpt2-medium-lr5e-05,indigestion-020
+L0096,mistral-7b few-shot,carpal-tunnel-syndrome-000
+L0097,llama3-8b few-shot,viral-exanthem-021
+L0098,stage2-gpt2-medium-lr5e-05,tonsillitis-020
+L0099,llama3-8b few-shot,acute-sinusitis-016
+L0100,mistral-7b few-shot,pyelonephritis-010
+L0101,llama3-8b few-shot,panic-attack-032
+L0102,llama3-8b few-shot,acute-sinusitis-018
+L0103,llama3-8b few-shot,sciatica-028
+L0104,stage2-gpt2-medium-lr5e-05,depression-022
+L0105,stage2-gpt2-medium-lr5e-05,contact-dermatitis-006
+L0106,stage2-gpt2-lr0.0001,urinary-tract-infection-019
+L0107,stage2-gpt2-medium-lr5e-05,migraine-027
+L0108,stage2-gpt2-lr0.0001,eczema-025
+L0109,stage2-gpt2-lr0.0001,tonsillitis-025
+L0110,stage2-gpt2-lr0.0001,pyelonephritis-010
+L0111,stage2-gpt2-medium-lr5e-05,viral-exanthem-021
+L0112,llama3-8b few-shot,otitis-externa-swimmer-s-ear-031
+L0113,stage2-gpt2-lr0.0001,acute-sinusitis-010
+L0114,stage2-gpt2-lr0.0001,contact-dermatitis-030
+L0115,stage2-gpt2-medium-lr5e-05,indigestion-021
+L0116,llama3-8b few-shot,eczema-025
+L0117,stage2-gpt2-medium-lr5e-05,acute-sinusitis-018
+L0118,mistral-7b few-shot,panic-attack-032
+L0119,stage2-gpt2-medium-lr5e-05,dengue-fever-014

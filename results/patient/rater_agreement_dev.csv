@@ -1,0 +1,9 @@
+,dev
+transcripts,100.0
+exact agreement,0.14
+within 1 point,0.63
+quadratic-weighted kappa,-0.142
+unweighted kappa,-0.001
+Spearman rho,-0.174
+rater 1 mean,4.15
+rater 2 mean,3.74

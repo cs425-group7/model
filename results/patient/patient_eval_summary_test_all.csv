@@ -1,0 +1,11 @@
+system,dialogues,mentioned,on_card,symptom_fidelity,coverage,leakage,empty_replies,reply_words
+gpt2 prompted,201,184,68,0.37,0.076,0.124,0,9.093
+gpt2-medium prompted,201,361,142,0.393,0.151,0.303,0,11.173
+stage2-gpt2-lr0.0001,201,633,598,0.945,0.678,0.01,0,9.922
+stage2-gpt2-medium-lr5e-05,201,672,626,0.932,0.713,0.025,0,10.342
+stage2-gpt2-lr5e-05-nostage1,201,660,602,0.912,0.673,0.005,0,9.158
+stage2-gpt2-medium-lr5e-05-nostage1,201,683,639,0.936,0.71,0.015,0,9.367
+llama3-8b zero-shot,201,969,690,0.712,0.692,0.025,0,28.391
+llama3-8b few-shot,201,966,709,0.734,0.715,0.015,0,27.002
+mistral-7b zero-shot,201,1118,805,0.72,0.796,0.144,0,54.411
+mistral-7b few-shot,201,1006,747,0.743,0.768,0.085,0,45.355

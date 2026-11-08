@@ -1,0 +1,10 @@
+category (share refused),GPT-2 doctor alone,Keyword rules,GPT-2 perplexity,TF-IDF + LR gate,llama3-8b zero-shot,mistral-7b zero-shot
+admin or certainty,0.0,1.0,0.83,1.0,1.0,1.0
+emergency,0.0,0.4,0.7,0.6,0.8,0.7
+hard negative,0.0,0.25,0.7,0.15,0.65,0.2
+in-scope question,0.0,0.0,0.5,0.4,0.8,0.0
+medication,0.0,0.6,1.0,1.0,1.0,1.0
+non-medical,0.0,0.62,0.88,0.88,1.0,1.0
+out of scope,0.0,0.75,1.0,0.88,1.0,0.88
+symptoms,0.0,0.0,0.65,0.05,0.1,0.05
+test results,0.0,0.75,0.75,0.88,1.0,1.0
