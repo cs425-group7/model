@@ -1,0 +1,4 @@
+system,transcripts,in_character,rater_1,rater_2
+gpt2 prompted,30,"1.15 [1.05, 1.27]",1.2,1.1
+stage2-gpt2-lr0.0001,30,"3.62 [3.35, 3.88]",3.7,3.53
+stage2-gpt2-medium-lr5e-05,30,"3.95 [3.65, 4.25]",4.03,3.87

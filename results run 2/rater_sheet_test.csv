@@ -30,7 +30,7 @@ Patient: No, my mom's a nurse and I don't have any other health issues.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke and I don't drink alcohol.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, just the rash and the dry skin.",,,
+Patient: No, just the rash and the dry skin.",4,4,"R1: Odd cream remark; minor repetition | R2: Cream contradiction, repetition, odd family reply"
 t0001,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; lower back pain; peeing often | age: 61, sex: F, ethnicity: Chinese, occupation: accountant, temperament: calm, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I'm not sure. I don't know how I got here.
 Doctor: Where exactly do you feel it?
@@ -62,7 +62,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Incoherent; repetition loops; ignores card | R2: Incoherent loops, wrong symptoms"
 t0002,"Tonsillitis | symptoms: a sore throat; swollen tonsils; noisy breathing; a red ear | age: 27, sex: F, ethnicity: Chinese, occupation: teacher, temperament: terse, health literacy: low, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: Sore throat.
 Doctor: Where exactly do you feel it?
@@ -94,7 +94,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it.",,,
+Patient: No, that's it.",5,5,
 t0003,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; skin swelling; moles | age: 58, sex: M, ethnicity: Chinese, occupation: hawker, temperament: chatty, health literacy: high, onset: about five days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've got a rash on my arms and legs, and it's been really itchy. Also, my skin feels really dry and flaky.
 Doctor: Where exactly do you feel it?
@@ -126,7 +126,7 @@ Patient: No family members have this kind of rash. My mom doesn't have it.
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink and I don't smoke. I don't have no other health issues like that.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",5,4,R2: Slightly off allergy reply
 t0004,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a headache; sinus pain | age: 40, sex: M, ethnicity: Chinese, occupation: chef, temperament: anxious, health literacy: low, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
 Patient: I got a sore throat and I thought I was going to die.
 Doctor: Where exactly do you feel it?
@@ -158,7 +158,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",2,2,R1: Mostly incoherent; onset unanswered; severity mismatch | R2: Mostly vague; severe framing vs mild card
 t0005,"Tonsillitis | symptoms: a sore throat; noisy breathing; reduced hearing | age: 33, sex: M, ethnicity: Indian, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I'm looking for a new doctor.
 Doctor: Where exactly do you feel it?
@@ -190,7 +190,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: Yes.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I'd like to tell you that I have no problem with any of your problems.",,,
+Patient: I'd like to tell you that I have no problem with any of your problems.",1,1,"R1: Incoherent; states diagnosis | R2: Incoherent, names diagnosis"
 t0006,"Contact dermatitis | symptoms: a rash; itchy skin; allergic reactions; a swollen eye | age: 72, sex: M, ethnicity: Others, occupation: retiree, temperament: anxious, health literacy: low, onset: three days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've got this rash on my arm, and it's been really itchy.
 Doctor: Where exactly do you feel it?
@@ -222,7 +222,7 @@ Patient: No, I don't have any other health issues that I know of.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I'm worried it might be something serious.",,,
+Patient: I'm worried it might be something serious.",4,4,R1: A couple of off-topic answers | R2: Off reply to better/worse; off family reply
 t0007,"Athlete's foot | symptoms: a rash; foot pain; dry skin; infected-looking skin on the foot | age: 71, sex: M, ethnicity: Chinese, occupation: retiree, temperament: terse, health literacy: medium, onset: a couple of months ago, severity: severe","Doctor: What brings you in today?
 Patient: Rash on my foot, hurts.
 Doctor: Where exactly do you feel it?
@@ -254,7 +254,7 @@ Patient: No, nothing like this.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, never drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0008,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; skin swelling; moles | age: 58, sex: M, ethnicity: Chinese, occupation: hawker, temperament: chatty, health literacy: high, onset: about five days ago, severity: severe","Doctor: What brings you in today?
 Patient: It is my body. It's the main part of the body. I've seen a lot of dermatitis. It's very serious.
 Doctor: Where exactly do you feel it?
@@ -286,7 +286,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Incoherent; contradicts symptoms and onset | R2: Incoherent, ignores card"
 t0009,"Eczema | symptoms: a rash; itchy skin; skin that looks abnormal; dry skin; sores on the skin | age: 51, sex: M, ethnicity: Malay, occupation: teacher, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been getting this rash on my skin for over a year now, and it's gotten a bit worse over time. Also, my skin feels really dry and I've noticed some sores on my skin too.
 Doctor: Where exactly do you feel it?
@@ -318,7 +318,7 @@ Patient: No, I don't have any other medical conditions.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink alcohol or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I've never had any other health issues like this before.",,,
+Patient: I've never had any other health issues like this before.",4,3,"R1: Some garbled, off-topic replies late | R2: Several off-topic late replies"
 t0010,"Panic attack | symptoms: shortness of breath; dizziness; numbness; fainting; difficulty breathing; weakness | age: 24, sex: F, ethnicity: Chinese, occupation: civil servant, temperament: terse, health literacy: high, onset: three days ago, severity: severe","Doctor: What brings you in today?
 Patient: Shortness of breath.
 Doctor: Where exactly do you feel it?
@@ -350,7 +350,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0011,"Athlete's foot | symptoms: a rash; foot pain; dry skin; infected-looking skin on the foot | age: 71, sex: M, ethnicity: Chinese, occupation: retiree, temperament: terse, health literacy: medium, onset: a couple of months ago, severity: severe","Doctor: What brings you in today?
 Patient: Rash on my foot, and some pain.
 Doctor: Where exactly do you feel it?
@@ -382,7 +382,7 @@ Patient: No, I don't.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that covers it.",,,
+Patient: No, that covers it.",4,4,R1: Medication answer off; odd water remark | R2: Medication answer slightly off
 t0012,"Tonsillitis | symptoms: a sore throat; noisy breathing; reduced hearing | age: 33, sex: M, ethnicity: Indian, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been having a sore throat for about five days now. It's not too bad, but it's been bothering me.
 Doctor: Where exactly do you feel it?
@@ -414,7 +414,7 @@ Patient: No, I don't have any family history of heart or other illnesses that I 
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or do anything that could make it worse.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",3,3,R1: Paracetamol contradicts no medication; garbled line | R2: Paracetamol contradiction; garbled replies
 t0013,"Tonsillitis | symptoms: a sore throat; noisy breathing; reduced hearing | age: 33, sex: M, ethnicity: Indian, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been having a sore throat for the past few days, and it's been really bothering me.
 Doctor: Where exactly do you feel it?
@@ -446,7 +446,7 @@ Patient: Not really, my mom and my dad are okay, and my dad just works at the st
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink much drink, but I do work at the store and I've been around people who smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: Not really, it's just been a constant sore throat and noisy breathing issue.",,,
+Patient: Not really, it's just been a constant sore throat and noisy breathing issue.",3,3,R1: Invents asthma; some garbled replies | R2: Invented asthma; garbled smoking and family replies
 t0014,"Dengue fever | symptoms: a fever; muscle pain; nausea; joint pain; eye pain | age: 74, sex: F, ethnicity: Malay, occupation: retiree, temperament: terse, health literacy: medium, onset: this morning, severity: moderate","Doctor: What brings you in today?
 Patient: I'm not sure why you're here, but I was wondering if you could help me with a couple of things. First of all, you can't tell me what you think of me. Second of all, I know this is the first time I've had a fever.
 Doctor: Where exactly do you feel it?
@@ -478,7 +478,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, no.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, no, no.",,,
+Patient: No, no, no.",1,1,"R1: Incoherent, cut-off text | R2: Incoherent, cut-off text"
 t0015,"Asthma | symptoms: a cough; shortness of breath; wheezing; difficulty breathing; a blocked nose; a fever | age: 26, sex: F, ethnicity: Chinese, occupation: security guard, temperament: calm, health literacy: medium, onset: a couple of months ago, severity: moderate","Doctor: What brings you in today?
 Patient: I am a doctor.
 Doctor: Where exactly do you feel it?
@@ -510,7 +510,7 @@ Patient: No, I don't know. I have no other medical conditions.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't know.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I have no idea. I am doing nothing.",,,
+Patient: I have no idea. I am doing nothing.",1,1,"R1: Speaks as doctor; incoherent | R2: Claims to be doctor, incoherent"
 t0016,"Migraine | symptoms: a headache; vomiting; blurred vision | age: 21, sex: F, ethnicity: Chinese, occupation: delivery rider, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
 Patient: You have migraine, I'm afraid.
 Doctor: Where exactly do you feel it?
@@ -542,7 +542,7 @@ Patient: No, no.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, no.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, no.",,,
+Patient: No, no.",1,1,"R1: Speaks as doctor stating diagnosis | R2: Speaks as doctor, states diagnosis"
 t0017,"Viral exanthem | symptoms: a rash; a fever; vomiting; skin that looks abnormal | age: 26, sex: M, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
 Patient: I just went to the ER and asked my wife what I thought. I didn't know what to say.
 Doctor: Where exactly do you feel it?
@@ -574,7 +574,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Repetition loop; echoes doctor question | R2: Repetition loop, echoes doctor"
 t0018,"Muscle spasm | symptoms: neck pain; shoulder pain; leg pain; muscle cramps; arm pain | age: 43, sex: F, ethnicity: Chinese, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: yesterday, severity: severe","Doctor: What brings you in today?
 Patient: I've been having really bad neck pain since yesterday. It's really bad and I also have some shoulder pain.
 Doctor: Where exactly do you feel it?
@@ -606,7 +606,7 @@ Patient: No, this is the first time.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this is the first time I've had this.",,,
+Patient: No, this is the first time I've had this.",3,2,R1: Denies neck pain; repetition loop of first time | R2: Denies neck pain; repetitive 'first time' loop
 t0019,"Acute sinusitis | symptoms: a cough; a headache; a headache at the front of the head; a runny nose; a fever; facial pain | age: 21, sex: F, ethnicity: Chinese, occupation: office administrator, temperament: terse, health literacy: low, onset: about three weeks ago, severity: severe","Doctor: What brings you in today?
 Patient: I've got a cough.
 Doctor: Where exactly do you feel it?
@@ -638,7 +638,7 @@ Patient: No, not really.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, not really.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0020,"Depression | symptoms: feeling low; losing interest in things; trouble sleeping; getting angry easily; memory problems; low self-esteem | age: 46, sex: F, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about three weeks ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been feeling low lately. It's been going on for about three weeks now.
 Doctor: Where exactly do you feel it?
@@ -670,7 +670,7 @@ Patient: Not really, my mom and my dad doesn't. I don't have any allergies and m
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink occasionally, I don't drink and I'm not.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, I'm just want to stay busy and work.",,,
+Patient: No, I'm just want to stay busy and work.",4,3,R1: No pain score; a few garbled replies | R2: Later replies garbled and off-topic
 t0021,"Contact dermatitis | symptoms: a rash; itchy skin; allergic reactions; a swollen eye | age: 72, sex: M, ethnicity: Others, occupation: retiree, temperament: anxious, health literacy: low, onset: three days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've got a rash and it's been bothering me for the last few days. I'm a bit worried about it.
 Doctor: Where exactly do you feel it?
@@ -702,7 +702,7 @@ Patient: No, my family is very healthy, no allergies or anything like that.
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink or smoke, I don't drink or take any medications.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it. I'm just want to know what's going on.",,,
+Patient: No, that's it. I'm just want to know what's going on.",4,4,R1: Slight card recital of allergic reactions | R2: Minor repetition
 t0022,"Indigestion | symptoms: sharp stomach pain; a burning pain in the stomach; nausea; vomiting; sharp chest pain; diarrhoea | age: 30, sex: M, ethnicity: Chinese, occupation: accountant, temperament: anxious, health literacy: low, onset: about ten days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've been having sharp pains in my stomach for about ten days now. It's really bad.
 Doctor: Where exactly do you feel it?
@@ -734,7 +734,7 @@ Patient: No, my mom and dad don't have it.
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink and I don't smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't think so. I'm really don't know what it is.",,,
+Patient: I don't think so. I'm really don't know what it is.",5,4,R2: Minor odd reply on conditions
 t0023,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a headache; sinus pain | age: 40, sex: M, ethnicity: Chinese, occupation: chef, temperament: anxious, health literacy: low, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
 Patient: I've been coughing for the past few weeks, and I'm worried it might be serious.
 Doctor: Where exactly do you feel it?
@@ -766,7 +766,7 @@ Patient: No, I don't think anyone in my family has this.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't feel sick to my stomach or have any other symptoms.",,,
+Patient: I don't feel sick to my stomach or have any other symptoms.",3,3,R1: Pain 6 for mild case; several odd replies | R2: Several odd or off-topic replies
 t0024,"Asthma | symptoms: a cough; wheezing; a blocked nose; a fever; a runny nose | age: 28, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: medium, onset: about a month ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've had a cough for about a month now, and I'm worried it might be serious.
 Doctor: Where exactly do you feel it?
@@ -798,7 +798,7 @@ Patient: No, I don't have any other issues like that.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",4,4,R1: Dry cough with phlegm; family answer off | R2: Dry cough with phlegm; off family reply
 t0025,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; allergic reactions | age: 51, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: high, onset: yesterday, severity: mild","Doctor: What brings you in today?
 Patient: I don't know if you know how to call it or not, but I'm coming from a family that has been dealing with this for a long time and we're always doing things right. I want to come back tomorrow and I can tell you something. I don't know if I know how to call it or not, but I am coming from a family that has been dealing with this for
 Doctor: Where exactly do you feel it?
@@ -830,7 +830,7 @@ Patient: No. I'm just in a better place now, but I'm not going to go into too mu
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't know. I don't know what else to do. I'm just going to sit back and let the doctor do his thing.",,,
+Patient: I don't know. I don't know what else to do. I'm just going to sit back and let the doctor do his thing.",1,1,"R1: Incoherent; invents steroid history; cut off | R2: Incoherent, invents history, cut-off text"
 t0026,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; nausea; a headache | age: 87, sex: F, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've been feeling really dizzy lately, and I've also got a headache. It started two days ago.
 Doctor: Where exactly do you feel it?
@@ -862,7 +862,7 @@ Patient: No, I don't think so. My mom and my dad and my grandpa are fine. I don'
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I'm not really drink alcohol.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it's pretty much it.",,,
+Patient: No, that's it's pretty much it.",2,2,R1: Onset two hours vs two days; invents fever | R2: Onset two hours; invented fever; contradictions
 t0027,"Carpal tunnel syndrome | symptoms: numbness; hand pain; arm pain; neck pain; a weak grip; stiff fingers | age: 84, sex: F, ethnicity: Malay, occupation: retiree, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been experiencing numbness in my hand lately, it's been bothering me for over a year now.
 Doctor: Where exactly do you feel it?
@@ -894,7 +894,7 @@ Patient: No family history of heart or blood clogged arteries or heart problems 
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink and I don't smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No other than the numbness in your hand and neck pain?No, nothing else.",,,
+Patient: No other than the numbness in your hand and neck pain?No, nothing else.",3,3,R1: Retiree describes work typing; garbled ending | R2: Retiree describes work; off family reply; garbled end
 t0028,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a runny nose | age: 19, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: high, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
 Patient: I've been coughing a lot for about three weeks now, and it's getting me worried.
 Doctor: Where exactly do you feel it?
@@ -926,7 +926,7 @@ Patient: No, I don't think anyone else has this kind of problem.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it. I don't have any other health issues, just this cough and the sore throat.",,,
+Patient: No, that's it. I don't have any other health issues, just this cough and the sore throat.",4,4,R1: Minor inconsistency on blocked nose | R2: A few slightly off replies
 t0029,"Indigestion | symptoms: sharp stomach pain; nausea; pain in the upper stomach; food coming back up; a bloated stomach | age: 29, sex: F, ethnicity: Chinese, occupation: taxi driver, temperament: chatty, health literacy: medium, onset: last week, severity: severe","Doctor: What brings you in today?
 Patient: I've been having sharp stomach pain, and I feel bloated.
 Doctor: Where exactly do you feel it?
@@ -958,7 +958,7 @@ Patient: Not really, I'm just a taxi driver, so I don't know what's causing it.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",4,4,R1: Prior episodes inconsistency; family answer off | R2: Slightly contradictory history; off family reply
 t0030,"Contact dermatitis | symptoms: a rash; itchy skin; allergic reactions; a swollen eye | age: 72, sex: M, ethnicity: Others, occupation: retiree, temperament: anxious, health literacy: low, onset: three days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I was told by a doctor that my dermatitis was a result of my wife getting pregnant. I didn't know what it was and the doctor said I would have to go and talk to a dermatologist.
 Doctor: Where exactly do you feel it?
@@ -990,7 +990,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Incoherent; ignores card | R2: Incoherent, ignores card"
 t0031,"Common cold | symptoms: a cough; a blocked nose; a runny nose; ear pain | age: 46, sex: M, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about five days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've been coughing a lot for the past few days. Also, my nose has been all stuffed up.
 Doctor: Where exactly do you feel it?
@@ -1022,7 +1022,7 @@ Patient: No, my mom and dad both don't have any of those.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or smoke. I'm a bit of a social drinker, though.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it. I just want to know if it's serious.",,,
+Patient: No, that's pretty much it. I just want to know if it's serious.",3,3,R1: Onset since this morning; drink and syrup contradictions | R2: Says since this morning; contradicts self on drinking
 t0032,"Athlete's foot | symptoms: a rash; foot pain; dry skin; infected-looking skin on the foot | age: 71, sex: M, ethnicity: Chinese, occupation: retiree, temperament: terse, health literacy: medium, onset: a couple of months ago, severity: severe","Doctor: What brings you in today?
 Patient: It's about getting rid of my foot.
 Doctor: Where exactly do you feel it?
@@ -1054,7 +1054,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Incoherent; wrong onset | R2: Incoherent, ignores card"
 t0033,"Dengue fever | symptoms: a fever; muscle pain; nausea; joint pain; eye pain | age: 74, sex: F, ethnicity: Malay, occupation: retiree, temperament: terse, health literacy: medium, onset: this morning, severity: moderate","Doctor: What brings you in today?
 Patient: Fever, pain.
 Doctor: Where exactly do you feel it?
@@ -1086,7 +1086,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0034,"Laryngitis | symptoms: a sore throat; a hoarse voice; a cough; a blocked nose; trouble swallowing; blocked sinuses | age: 39, sex: F, ethnicity: Malay, occupation: chef, temperament: anxious, health literacy: high, onset: yesterday, severity: severe","Doctor: What brings you in today?
 Patient: I've had a really sore throat since yesterday. It's been bothering me all day.
 Doctor: Where exactly do you feel it?
@@ -1118,7 +1118,7 @@ Patient: No, I don't have any other illnesses that I know of.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it. I don't feel like eating or drinking much, just having this sore throat and the cough.",,,
+Patient: No, that's it. I don't feel like eating or drinking much, just having this sore throat and the cough.",3,4,R1: Painkillers contradiction; invents dust/pollen allergy | R2: Painkillers vs nothing taken contradiction
 t0035,"Indigestion | symptoms: sharp stomach pain; a burning pain in the stomach; nausea; vomiting; sharp chest pain; diarrhoea | age: 30, sex: M, ethnicity: Chinese, occupation: accountant, temperament: anxious, health literacy: low, onset: about ten days ago, severity: severe","Doctor: What brings you in today?
 Patient: I had a bad case of acute myalgic encephalomyelitis. My stomach was burning like a fire. I was in pain and was very agitated. I was afraid I would die.
 Doctor: Where exactly do you feel it?
@@ -1150,7 +1150,7 @@ Patient: I've never had any other problems.
 Doctor: Do you smoke or drink alcohol?
 Patient: I haven't tried anything.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't know. I just know that this is one of the problems that I have.",,,
+Patient: I don't know. I just know that this is one of the problems that I have.",1,1,"R1: Incoherent; wrong diagnosis; cut off | R2: Incoherent, invented diagnosis, cut-off text"
 t0036,"Indigestion | symptoms: sharp stomach pain; nausea; pain in the upper stomach; food coming back up; a bloated stomach | age: 29, sex: F, ethnicity: Chinese, occupation: taxi driver, temperament: chatty, health literacy: medium, onset: last week, severity: severe","Doctor: What brings you in today?
 Patient: I've been having sharp stomach pain, mostly on the right side. It started last week, and it's been really bad.
 Doctor: Where exactly do you feel it?
@@ -1182,7 +1182,7 @@ Patient: No, I don't have any other illnesses that I know of. Just this pain.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink and I don't have any other health issues that I know of.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this pain is just really bad, and it's been driving me crazy.",,,
+Patient: No, this pain is just really bad, and it's been driving me crazy.",3,4,R1: Invents smoking then evades; off-topic answers | R2: Off allergy and family replies
 t0037,"Asthma | symptoms: a cough; shortness of breath; wheezing; difficulty breathing; a blocked nose; a fever | age: 26, sex: F, ethnicity: Chinese, occupation: security guard, temperament: calm, health literacy: medium, onset: a couple of months ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been having a cough for a couple of months now, and sometimes I feel short of breath.
 Doctor: Where exactly do you feel it?
@@ -1214,7 +1214,7 @@ Patient: No, I don't have any other family problems. I'm just in a good physical
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this is pretty much the same. Just my asthma and sometimes I feel like my nose is blocked.",,,
+Patient: No, this is pretty much the same. Just my asthma and sometimes I feel like my nose is blocked.",2,2,R1: Names asthma; denies breathing trouble; off answers | R2: Several off replies; names asthma diagnosis
 t0038,"Carpal tunnel syndrome | symptoms: numbness; hand pain; arm pain; neck pain; a weak grip; stiff fingers | age: 84, sex: F, ethnicity: Malay, occupation: retiree, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
 Patient: I feel the cold, the pressure, the need to move.
 Doctor: Where exactly do you feel it?
@@ -1246,7 +1246,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Incoherent repetition; ignores card | R2: Incoherent repetition, ignores card"
 t0039,"Migraine | symptoms: a headache; vomiting; blurred vision | age: 21, sex: F, ethnicity: Chinese, occupation: delivery rider, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
 Patient: Headache.
 Doctor: Where exactly do you feel it?
@@ -1278,7 +1278,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0040,"Urinary tract infection | symptoms: pain when peeing; pain just above the pubic bone; sharp stomach pain; peeing often; a fever; vomiting | age: 26, sex: M, ethnicity: Chinese, occupation: cleaner, temperament: terse, health literacy: low, onset: yesterday, severity: mild","Doctor: What brings you in today?
 Patient: You are having an infection.
 Doctor: Where exactly do you feel it?
@@ -1310,7 +1310,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Speaks as doctor; incoherent | R2: Speaks as doctor, incoherent"
 t0041,"Muscle spasm | symptoms: neck pain; shoulder pain; leg pain; muscle cramps; arm pain | age: 43, sex: F, ethnicity: Chinese, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: yesterday, severity: severe","Doctor: What brings you in today?
 Patient: I have a feeling that this is a symptom. I'm not sure what.
 Doctor: Where exactly do you feel it?
@@ -1342,7 +1342,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,R1: Headache only; ignores card | R2: Headache instead of card symptoms; vague
 t0042,"Shingles (herpes zoster) | symptoms: a rash; itchy skin; skin that looks abnormal; facial pain | age: 62, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've got this rash on my chest and back that's been really itchy. It started two days ago.
 Doctor: Where exactly do you feel it?
@@ -1374,7 +1374,7 @@ Patient: No, I don't think so I'm not. I don't have any family history of heart 
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink and I don't think I don't use drugs. I don't think I'm pretty much.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't think about it.",,,
+Patient: I don't think about it.",4,3,R1: Garbled replies near end | R2: Final replies garbled; off family reply
 t0043,"Tonsillitis | symptoms: a sore throat; swollen tonsils; noisy breathing; a red ear | age: 27, sex: F, ethnicity: Chinese, occupation: teacher, temperament: terse, health literacy: low, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: It's a long journey. I'm a very small person. I had a lot of trauma and I was in pain. It's the first time I've had to go to an emergency room. I don't know what to do with my body now. It's a difficult decision.
 Doctor: Where exactly do you feel it?
@@ -1406,7 +1406,7 @@ Patient: No, I don't have any other medical conditions.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't have any other medical conditions.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, I'd like to hear about it. I wouldn't like to hear about it, but I'm not sure I can.",,,
+Patient: No, I'd like to hear about it. I wouldn't like to hear about it, but I'm not sure I can.",1,1,"R1: Incoherent; denies pain; repetition | R2: Incoherent, denies pain"
 t0044,"Sciatica | symptoms: back pain; leg pain; lower back pain | age: 81, sex: M, ethnicity: Chinese, occupation: retiree, temperament: calm, health literacy: high, onset: two days ago, severity: mild","Doctor: What brings you in today?
 Patient: I've been having back pain for the past two days.
 Doctor: Where exactly do you feel it?
@@ -1438,7 +1438,7 @@ Patient: No, this is the first time.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this is the first time.",,,
+Patient: No, this is the first time.",3,3,R1: Denies leg pain; repeats first time | R2: Denies leg pain; repetitive 'first time' replies
 t0045,"Depression | symptoms: feeling low; losing interest in things; trouble sleeping; getting angry easily; memory problems; low self-esteem | age: 46, sex: F, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about three weeks ago, severity: moderate","Doctor: What brings you in today?
 Patient: It's a problem.
 Doctor: Where exactly do you feel it?
@@ -1470,7 +1470,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",2,2,R1: Largely incoherent; few card facts | R2: Mostly vague or nonsensical replies
 t0046,"Shingles (herpes zoster) | symptoms: a rash; itchy skin; skin that looks abnormal; facial pain | age: 62, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: I was brought in because of my illness.
 Doctor: Where exactly do you feel it?
@@ -1502,7 +1502,7 @@ Patient: Yes.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Ignores card; meaningless answers | R2: Incoherent, ignores card"
 t0047,"Asthma | symptoms: a cough; wheezing; a blocked nose; a fever; a runny nose | age: 28, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: medium, onset: about a month ago, severity: moderate","Doctor: What brings you in today?
 Patient: I am a medical student. I am a doctor. I am not a doctor.
 Doctor: Where exactly do you feel it?
@@ -1534,7 +1534,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,R1: Claims to be doctor; ignores card | R2: Claims to be doctor; incoherent
 t0048,"Laryngitis | symptoms: a sore throat; a hoarse voice; a cough; a blocked nose; trouble swallowing; blocked sinuses | age: 39, sex: F, ethnicity: Malay, occupation: chef, temperament: anxious, health literacy: high, onset: yesterday, severity: severe","Doctor: What brings you in today?
 Patient: You have a sore throat.
 Doctor: Where exactly do you feel it?
@@ -1566,7 +1566,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",2,1,R1: Pronoun confusion; states diagnosis | R2: Speaks as doctor; states diagnosis
 t0049,"Common cold | symptoms: a cough; a blocked nose; a runny nose; ear pain | age: 46, sex: M, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about five days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've been coughing a lot, and my nose is always blocked.
 Doctor: Where exactly do you feel it?
@@ -1598,7 +1598,7 @@ Patient: No, I don't think anyone in my family is sick or anything.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink, just work and cook.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't think so. I don't have any other illnesses that I know of.",,,
+Patient: I don't think so. I don't have any other illnesses that I know of.",5,4,R2: Minor chest/ears inconsistency
 t0050,"Common cold | symptoms: a cough; a blocked nose; a runny nose; ear pain | age: 46, sex: M, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about five days ago, severity: severe","Doctor: What brings you in today?
 Patient: I am in my late 40s. My parents divorced when I was young. I am in my late 20s. I am a good person. I am very careful in my daily life.
 Doctor: Where exactly do you feel it?
@@ -1630,7 +1630,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I don't know. I don't know if there is any thing.",,,
+Patient: I don't know. I don't know if there is any thing.",1,1,"R1: Incoherent; wrong age and sex | R2: Incoherent, wrong age/sex"
 t0051,"Urinary tract infection | symptoms: pain when peeing; pain just above the pubic bone; sharp stomach pain; peeing often; a fever; vomiting | age: 26, sex: M, ethnicity: Chinese, occupation: cleaner, temperament: terse, health literacy: low, onset: yesterday, severity: mild","Doctor: What brings you in today?
 Patient: Pain when peeing
 Doctor: Where exactly do you feel it?
@@ -1662,7 +1662,7 @@ Patient: No
 Doctor: Do you smoke or drink alcohol?
 Patient: No
 Doctor: Is there anything else you'd like to tell me?
-Patient: No",,,
+Patient: No",5,5,
 t0052,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; nausea; a headache | age: 87, sex: F, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: I can't remember.
 Doctor: Where exactly do you feel it?
@@ -1694,7 +1694,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Repetition loop; incoherent | R2: Repetition loop, incoherent"
 t0053,"Asthma | symptoms: a cough; shortness of breath; wheezing; difficulty breathing; a blocked nose; a fever | age: 26, sex: F, ethnicity: Chinese, occupation: security guard, temperament: calm, health literacy: medium, onset: a couple of months ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been coughing a lot for the last couple of months.
 Doctor: Where exactly do you feel it?
@@ -1726,7 +1726,7 @@ Patient: No, my family doesn't have any health issues like that.
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink or smoke, I'm not on any medications.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I feel short of breath sometimes when I walk or try to do physical activities.",,,
+Patient: I feel short of breath sometimes when I walk or try to do physical activities.",4,3,R1: Says activity helps despite exertional breathlessness | R2: Better with activity contradicts; several off replies
 t0054,"Benign paroxysmal positional vertigo (BPPV) | symptoms: dizziness; nausea; a headache | age: 87, sex: F, ethnicity: Chinese, occupation: retiree, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've been feeling really dizzy lately, and I've also got a headache. It started two days ago.
 Doctor: Where exactly do you feel it?
@@ -1758,7 +1758,7 @@ Patient: No, I don't think so. I don't have any family history of this.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, it's just been pretty severe. I can't help it.",,,
+Patient: No, it's just been pretty severe. I can't help it.",4,3,R1: Constant vs comes-and-goes contradiction; odd limb dizziness | R2: Constant vs comes-and-goes; odd and garbled replies
 t0055,"Otitis externa (swimmer's ear) | symptoms: ear pain; a blocked feeling in the ear; a fever; itchy ears | age: 30, sex: M, ethnicity: Malay, occupation: software engineer, temperament: terse, health literacy: high, onset: three days ago, severity: moderate","Doctor: What brings you in today?
 Patient: Ear hurts.
 Doctor: Where exactly do you feel it?
@@ -1790,7 +1790,7 @@ Patient: No family history of it.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, never drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that covers it.",,,
+Patient: No, that covers it.",4,4,R1: Ear drops vs no medication | R2: Ear drops vs no medication contradiction
 t0056,"Viral exanthem | symptoms: a rash; a fever; a cough; a blocked nose | age: 24, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: anxious, health literacy: high, onset: this morning, severity: severe","Doctor: What brings you in today?
 Patient: I've got a rash on my arms and legs. It started this morning and it's really bad.
 Doctor: Where exactly do you feel it?
@@ -1822,7 +1822,7 @@ Patient: No, I don't think so. I'm just feel like I need to know what it is.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or drink. I'm just feel scared it's something serious.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it's just the worst part. I don't know what else. I'm really want to know what it's really.",,,
+Patient: No, that's it's just the worst part. I don't know what else. I'm really want to know what it's really.",3,3,R1: Denies blocked nose after stating it; garbled end | R2: Denies blocked nose after stating it; garbled ending
 t0057,"Shingles (herpes zoster) | symptoms: a rash; itchy skin; skin that looks abnormal; facial pain | age: 62, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: medium, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've got this rash on my lip, and it's really itchy. It started two days ago.
 Doctor: Where exactly do you feel it?
@@ -1854,7 +1854,7 @@ Patient: No, I don't have any other allergies or other conditions like that.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink. Just this rash and it's really bothering me.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this is just the first time this.",,,
+Patient: No, this is just the first time this.",2,2,R1: Erection remark for female; invented sore throat | R2: Mentions erection despite female card; invented sore throat
 t0058,"Depression | symptoms: feeling low; losing interest in things; trouble sleeping; getting angry easily; memory problems; low self-esteem | age: 46, sex: F, ethnicity: Chinese, occupation: chef, temperament: chatty, health literacy: low, onset: about three weeks ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been feeling pretty low lately. I used to enjoy cooking, but I think I've lost interest in it.
 Doctor: Where exactly do you feel it?
@@ -1886,7 +1886,7 @@ Patient: No, I don't have any other illnesses. Just this low feeling.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink alcohol, and I don't do drugs.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it. I just feel low and don't feel like doing much.",,,
+Patient: No, that's pretty much it. I just feel low and don't feel like doing much.",4,3,R1: A few incoherent or off replies | R2: Several off-topic or odd replies
 t0059,"Otitis externa (swimmer's ear) | symptoms: ear pain; a blocked feeling in the ear; a fever; itchy ears | age: 30, sex: M, ethnicity: Malay, occupation: software engineer, temperament: terse, health literacy: high, onset: three days ago, severity: moderate","Doctor: What brings you in today?
 Patient: Ear pain started three days ago.
 Doctor: Where exactly do you feel it?
@@ -1918,7 +1918,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",4,4,R1: Pain 3 low for moderate; vague onset | R2: Severity 3 slightly low for moderate
 t0060,"Indigestion | symptoms: sharp stomach pain; a burning pain in the stomach; nausea; vomiting; sharp chest pain; diarrhoea | age: 30, sex: M, ethnicity: Chinese, occupation: accountant, temperament: anxious, health literacy: low, onset: about ten days ago, severity: severe","Doctor: What brings you in today?
 Patient: I've been having sharp pain in my stomach for the past ten days. It's really worrying me.
 Doctor: Where exactly do you feel it?
@@ -1950,7 +1950,7 @@ Patient: No, I don't have any other problems, just this pain and the nausea.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this is the first time it's been happening like this.",,,
+Patient: No, this is the first time it's been happening like this.",4,3,R1: A couple of off-topic answers | R2: Off replies; contradicts self on antacids
 t0061,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a runny nose | age: 19, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: high, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
 Patient: I've had a cough for about three weeks now, and it's been bothering me.
 Doctor: Where exactly do you feel it?
@@ -1982,7 +1982,7 @@ Patient: I don't think so, I haven't had anyone else's illnesses like this.
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink alcohol, and I don't smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I'm just want to know what it is. Is it serious?",,,
+Patient: I'm just want to know what it is. Is it serious?",3,4,R1: Pain 6-7 for mild case | R2: 6-7 for mild; odd diabetes reply
 t0062,"Viral exanthem | symptoms: a rash; a fever; vomiting; skin that looks abnormal | age: 26, sex: M, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
 Patient: Rash started last night.
 Doctor: Where exactly do you feel it?
@@ -2014,7 +2014,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0063,"Indigestion | symptoms: sharp stomach pain; nausea; pain in the upper stomach; food coming back up; a bloated stomach | age: 29, sex: F, ethnicity: Chinese, occupation: taxi driver, temperament: chatty, health literacy: medium, onset: last week, severity: severe","Doctor: What brings you in today?
 Patient: It was a big day. I saw my wife.
 Doctor: Where exactly do you feel it?
@@ -2046,7 +2046,7 @@ Patient: No, no.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, no.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Incoherent; wrong sex; ignores card | R2: Incoherent, mentions wife, ignores card"
 t0064,"Dengue fever | symptoms: a fever; muscle pain; nausea; joint pain; eye pain | age: 74, sex: F, ethnicity: Malay, occupation: retiree, temperament: terse, health literacy: medium, onset: this morning, severity: moderate","Doctor: What brings you in today?
 Patient: I've got a fever.
 Doctor: Where exactly do you feel it?
@@ -2078,7 +2078,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0065,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; allergic reactions | age: 51, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: high, onset: yesterday, severity: mild","Doctor: What brings you in today?
 Patient: I've got this rash that started yesterday. It's on my arms and legs, and it's been bothering me quite a bit.
 Doctor: Where exactly do you feel it?
@@ -2110,7 +2110,7 @@ Patient: Not that I know of. I've never had anything like this before.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink or have any other health issues that I know of.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, this is the first time I've noticed it. I haven't had any chest pain or chest pain, just this rash.",,,
+Patient: No, this is the first time I've noticed it. I haven't had any chest pain or chest pain, just this rash.",3,3,R1: Pain 6-7 for mild; allergy answer off | R2: Contradicts on creams; off allergy reply; severity high
 t0066,"Viral exanthem | symptoms: a rash; a fever; vomiting; skin that looks abnormal | age: 26, sex: M, ethnicity: Chinese, occupation: hawker, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
 Patient: Got a rash.
 Doctor: Where exactly do you feel it?
@@ -2142,7 +2142,7 @@ Patient: No, not at all.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, not at all.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",4,4,R1: Rash worse when eating is odd | R2: Rash worse when eating is odd
 t0067,"Migraine | symptoms: a headache; vomiting; blurred vision | age: 21, sex: F, ethnicity: Chinese, occupation: delivery rider, temperament: terse, health literacy: low, onset: last night, severity: moderate","Doctor: What brings you in today?
 Patient: Headache
 Doctor: Where exactly do you feel it?
@@ -2174,7 +2174,7 @@ Patient: No
 Doctor: Do you smoke or drink alcohol?
 Patient: No
 Doctor: Is there anything else you'd like to tell me?
-Patient: No",,,
+Patient: No",4,4,R1: Onset and timing answered with 'Once' | R2: Answers 'Once' to onset and pattern questions
 t0068,"Muscle spasm | symptoms: neck pain; shoulder pain; leg pain; muscle cramps; arm pain | age: 43, sex: F, ethnicity: Chinese, occupation: retail assistant, temperament: chatty, health literacy: medium, onset: yesterday, severity: severe","Doctor: What brings you in today?
 Patient: I've been having really bad neck pain since yesterday, and it's been getting worse.
 Doctor: Where exactly do you feel it?
@@ -2206,7 +2206,7 @@ Patient: No, I'm pretty healthy except for my neck. My mom doesn't have it, and 
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink and I don't smoke. I'm not on any medications.
 Doctor: Is there anything else you'd like to tell me?
-Patient: Not really, it's pretty much it's just been a dull pain.",,,
+Patient: Not really, it's pretty much it's just been a dull pain.",4,4,R1: Movement helps contradicts earlier | R2: Contradicts self on neck movement; odd allergy reply
 t0069,"Urinary tract infection | symptoms: pain when peeing; pain just above the pubic bone; sharp stomach pain; peeing often; a fever; vomiting | age: 26, sex: M, ethnicity: Chinese, occupation: cleaner, temperament: terse, health literacy: low, onset: yesterday, severity: mild","Doctor: What brings you in today?
 Patient: Pain when peeing.
 Doctor: Where exactly do you feel it?
@@ -2238,7 +2238,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it.",,,
+Patient: No, that's it.",3,3,R1: Pain 8 for mild case | R2: Rates 8/10 though card says mild
 t0070,"Acute sinusitis | symptoms: a cough; a headache; a headache at the front of the head; a runny nose; a fever; facial pain | age: 21, sex: F, ethnicity: Chinese, occupation: office administrator, temperament: terse, health literacy: low, onset: about three weeks ago, severity: severe","Doctor: What brings you in today?
 Patient: I've got a cough.
 Doctor: Where exactly do you feel it?
@@ -2270,7 +2270,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, no drink or alcohol.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's it.",,,
+Patient: No, that's it.",5,4,R2: Severity 6 a bit low for severe card
 t0071,"Tonsillitis | symptoms: a sore throat; swollen tonsils; noisy breathing; a red ear | age: 27, sex: F, ethnicity: Chinese, occupation: teacher, temperament: terse, health literacy: low, onset: two days ago, severity: severe","Doctor: What brings you in today?
 Patient: Sore throat.
 Doctor: Where exactly do you feel it?
@@ -2302,7 +2302,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",5,5,
 t0072,"Viral exanthem | symptoms: a rash; a fever; a cough; a blocked nose | age: 24, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: anxious, health literacy: high, onset: this morning, severity: severe","Doctor: What brings you in today?
 Patient: I've got a rash all over my body, and I'm a bit worried about what it could be.
 Doctor: Where exactly do you feel it?
@@ -2334,7 +2334,7 @@ Patient: No, I don't have any other medical conditions that I know of.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",4,4,R1: A couple of off-topic answers | R2: A few slightly off answers
 t0073,"Asthma | symptoms: a cough; wheezing; a blocked nose; a fever; a runny nose | age: 28, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: medium, onset: about a month ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've had a cough for about a month now. It's been getting worse.
 Doctor: Where exactly do you feel it?
@@ -2366,7 +2366,7 @@ Patient: I don't think so, I've got my mom and my dad who's been with me.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink and I don't smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I'm scared it's going to get worse.",,,
+Patient: I'm scared it's going to get worse.",4,4,R1: Minor repetition; family answer off | R2: Repeats fever; odd family reply
 t0074,"Laryngitis | symptoms: a sore throat; a hoarse voice; a cough; a blocked nose; trouble swallowing; blocked sinuses | age: 39, sex: F, ethnicity: Malay, occupation: chef, temperament: anxious, health literacy: high, onset: yesterday, severity: severe","Doctor: What brings you in today?
 Patient: I've had a really sore throat since yesterday and my voice is hoarse. I'm worried it might be serious.
 Doctor: Where exactly do you feel it?
@@ -2398,7 +2398,7 @@ Patient: No, I don't think so. I've been working in the kitchen and cooking for 
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink or smoke, I don't drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I'm scared it's just a part of cooking and I don't know what's causing it.",,,
+Patient: I'm scared it's just a part of cooking and I don't know what's causing it.",3,3,R1: Few days contradicts onset yesterday | R2: Says bothering for a few days; onset is yesterday
 t0075,"Carpal tunnel syndrome | symptoms: numbness; hand pain; arm pain; neck pain; a weak grip; stiff fingers | age: 84, sex: F, ethnicity: Malay, occupation: retiree, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been having numbness in my hand for over a year now. It's quite annoying and I've also noticed some pain in my neck and hand.
 Doctor: Where exactly do you feel it?
@@ -2430,7 +2430,7 @@ Patient: No, my mom is a bit worried about it. I don't have any other health iss
 Doctor: Do you smoke or drink alcohol?
 Patient: No, just this numbness and hand pain.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, it's just been there since it started.",,,
+Patient: No, it's just been there since it started.",3,3,R1: Pain 9 for moderate; retiree talks of work | R2: 9/10 vs moderate; invents work; off replies
 t0076,"Viral exanthem | symptoms: a rash; a fever; a cough; a blocked nose | age: 24, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: anxious, health literacy: high, onset: this morning, severity: severe","Doctor: What brings you in today?
 Patient: I have a fever.
 Doctor: Where exactly do you feel it?
@@ -2462,7 +2462,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",2,2,"R1: Onset 3-4 days vs this morning; vague | R2: Wrong onset, no rash, vague answers"
 t0077,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a runny nose | age: 19, sex: F, ethnicity: Chinese, occupation: security guard, temperament: anxious, health literacy: high, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
 Patient: I have a fever, which I have taken for the past two months. The doctor says this is not a fever, it's a cough.
 Doctor: Where exactly do you feel it?
@@ -2494,7 +2494,7 @@ Patient: No, no. I don't have any allergies.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink alcohol.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I can't give you any further information, but I'm going to ask that you give me a copy of your doctor's order.",,,
+Patient: I can't give you any further information, but I'm going to ask that you give me a copy of your doctor's order.",1,1,R1: Incoherent; ignores card | R2: Incoherent; invents two-month fever
 t0078,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; lower back pain; peeing often | age: 61, sex: F, ethnicity: Chinese, occupation: accountant, temperament: calm, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been having pain in my side for about five days now.
 Doctor: Where exactly do you feel it?
@@ -2526,7 +2526,7 @@ Patient: No, I don't have any other conditions that are similar.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke or drink.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, that's pretty much it.",,,
+Patient: No, that's pretty much it.",4,4,R1: Slightly off family answer | R2: Slightly off family/medical conditions replies
 t0079,"Panic attack | symptoms: shortness of breath; dizziness; numbness; fainting; difficulty breathing; weakness | age: 24, sex: F, ethnicity: Chinese, occupation: civil servant, temperament: terse, health literacy: high, onset: three days ago, severity: severe","Doctor: What brings you in today?
 Patient: I am not a doctor, but you see that I am doing something for the community.
 Doctor: Where exactly do you feel it?
@@ -2558,7 +2558,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Repetition loop; ignores card | R2: Repetition loop, ignores card"
 t0080,"Acute sinusitis | symptoms: a cough; a headache; a headache at the front of the head; a runny nose; a fever; facial pain | age: 21, sex: F, ethnicity: Chinese, occupation: office administrator, temperament: terse, health literacy: low, onset: about three weeks ago, severity: severe","Doctor: What brings you in today?
 Patient: I need to ask you a question. Do you know what it is?
 Doctor: Where exactly do you feel it?
@@ -2590,7 +2590,7 @@ Patient: No, I don't.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No. I'd like to talk to you. I'd like to talk to you.",,,
+Patient: No. I'd like to talk to you. I'd like to talk to you.",2,1,"R1: Largely incoherent; few card facts | R2: Mostly incoherent, ignores card"
 t0081,"Sciatica | symptoms: back pain; leg pain; lower back pain | age: 81, sex: M, ethnicity: Chinese, occupation: retiree, temperament: calm, health literacy: high, onset: two days ago, severity: mild","Doctor: What brings you in today?
 Patient: I am very excited about the new book. It was originally called ""Science in the Twenty-First Century"" but now it is called ""The New Science in the Twenty-First Century.""
 Doctor: Where exactly do you feel it?
@@ -2622,7 +2622,7 @@ Patient: No, I don't have any problems.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink alcohol.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, I don't have any other questions.",,,
+Patient: No, I don't have any other questions.",1,1,R1: Ignores card; incoherent | R2: Incoherent; headache instead of back pain
 t0082,"Sciatica | symptoms: back pain; leg pain; lower back pain | age: 81, sex: M, ethnicity: Chinese, occupation: retiree, temperament: calm, health literacy: high, onset: two days ago, severity: mild","Doctor: What brings you in today?
 Patient: I've been having some back pain for the past two days.
 Doctor: Where exactly do you feel it?
@@ -2654,7 +2654,7 @@ Patient: No, my family is quite healthy except for my mom who is in the military
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I haven't really told you much, just that I hope it's not something serious.",,,
+Patient: I haven't really told you much, just that I hope it's not something serious.",4,4,R1: Odd family remark and closing | R2: Odd treatment answer and family reply
 t0083,"Eczema | symptoms: a rash; itchy skin; skin that looks abnormal; dry skin; sores on the skin | age: 51, sex: M, ethnicity: Malay, occupation: teacher, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been getting this rash on my skin for over a year now, and it's gotten a bit itchy too.
 Doctor: Where exactly do you feel it?
@@ -2686,7 +2686,7 @@ Patient: Not really, my mom has it or not. I'm just have this rash on my arms an
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink and I don't do not have any other health issues like that.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, I just work as I don't think it's just looks weird.",,,
+Patient: No, I just work as I don't think it's just looks weird.",4,3,R1: Garbled final replies | R2: Last several replies garbled
 t0084,"Pyelonephritis | symptoms: pain in the side; a fever; sharp stomach pain; vomiting; lower back pain; peeing often | age: 61, sex: F, ethnicity: Chinese, occupation: accountant, temperament: calm, health literacy: medium, onset: about five days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I've been having pain in my side for the past five days.
 Doctor: Where exactly do you feel it?
@@ -2718,7 +2718,7 @@ Patient: No, my mom and dad don't have it.
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink or smoke.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I've been peeing more often too.",,,
+Patient: I've been peeing more often too.",5,5,
 t0085,"Otitis externa (swimmer's ear) | symptoms: ear pain; a blocked feeling in the ear; a fever; itchy ears | age: 30, sex: M, ethnicity: Malay, occupation: software engineer, temperament: terse, health literacy: high, onset: three days ago, severity: moderate","Doctor: What brings you in today?
 Patient: I am a resident of the hospital and my doctor has been very patient with me.
 Doctor: Where exactly do you feel it?
@@ -2750,7 +2750,7 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",2,1,"R1: Mostly incoherent early; denies other symptoms | R2: Mostly incoherent, ignores card symptoms"
 t0086,"Acute sinusitis | symptoms: a cough; a blocked nose; a sore throat; a headache; sinus pain | age: 40, sex: M, ethnicity: Chinese, occupation: chef, temperament: anxious, health literacy: low, onset: about three weeks ago, severity: mild","Doctor: What brings you in today?
 Patient: I've got a cough and a blocked nose. It started about three weeks ago.
 Doctor: Where exactly do you feel it?
@@ -2782,7 +2782,7 @@ Patient: No, I don't think so. I'm just think I might have it because I'm workin
 Doctor: Do you smoke or drink alcohol?
 Patient: I don't drink or smoke, but I do take some tea and coffee sometimes I do smoke occasionally. I'm not really know what's going on.
 Doctor: Is there anything else you'd like to tell me?
-Patient: I'm just want to know if it's serious. I'm scared it's something serious, I don't know, really.",,,
+Patient: I'm just want to know if it's serious. I'm scared it's something serious, I don't know, really.",3,3,R1: Smoking contradiction; repetition; garbled | R2: Repetition; contradicts self on smoking
 t0087,"Contact dermatitis | symptoms: a rash; itchy skin; dry skin; allergic reactions | age: 51, sex: F, ethnicity: Chinese, occupation: software engineer, temperament: chatty, health literacy: high, onset: yesterday, severity: mild","Doctor: What brings you in today?
 Patient: I've got this rash on my arm and it's been bothering me since yesterday. It's mostly itchy, but I also have some dry skin.
 Doctor: Where exactly do you feel it?
@@ -2814,7 +2814,7 @@ Patient: No, my mom has allergies too, no family history like this.
 Doctor: Do you smoke or drink alcohol?
 Patient: No, I don't drink and I don't drink a lot of other stuff.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No, I'm just eat and I don't do not.",,,
+Patient: No, I'm just eat and I don't do not.",3,3,R1: Location contradictions; garbled ending | R2: Self-contradictions on location/dryness; garbled final replies
 t0088,"Eczema | symptoms: a rash; itchy skin; skin that looks abnormal; dry skin; sores on the skin | age: 51, sex: M, ethnicity: Malay, occupation: teacher, temperament: chatty, health literacy: high, onset: more than a year ago, severity: moderate","Doctor: What brings you in today?
 Patient: I'm a nurse. I don't care about you, I care about you, so let me be a nurse. I'll be the one who's going to help you.
 Doctor: Where exactly do you feel it?
@@ -2846,7 +2846,7 @@ Patient: Yes, I do. I have no other problems.
 Doctor: Do you smoke or drink alcohol?
 Patient: Yes.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",1,1,"R1: Claims to be nurse; incoherent | R2: Incoherent, claims to be a nurse, ignores card"
 t0089,"Panic attack | symptoms: shortness of breath; dizziness; numbness; fainting; difficulty breathing; weakness | age: 24, sex: F, ethnicity: Chinese, occupation: civil servant, temperament: terse, health literacy: high, onset: three days ago, severity: severe","Doctor: What brings you in today?
 Patient: Shortness of breath.
 Doctor: Where exactly do you feel it?
@@ -2878,4 +2878,4 @@ Patient: No.
 Doctor: Do you smoke or drink alcohol?
 Patient: No.
 Doctor: Is there anything else you'd like to tell me?
-Patient: No.",,,
+Patient: No.",4,4,R1: Minor repetition of numbness | R2: Repeats numbness answer; otherwise fine
